@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pages>
+	<page>
+		<limage url="images/large/1.jpg"/>
+		<mimage url="images/medium/1.jpg"/>
+		<simage url="images/small/1.jpg"/>
+		<product id="76058" name="Крем-гель для душа «Фруктовая Маргарита»" price="59"/>
+		<product id="77407" name="Крем-гель для душа «Карибская Колада»" price="59"/>
+	</page>
+	<page>
+		<limage url="images/large/2.jpg"/>
+		<mimage url="images/medium/2.jpg"/>
+		<simage url="images/small/2.jpg"/>
+		<product id="19770" name="Туалетная вода Avon Luck Limitless для него" price="899"/>
+		<product id="19397" name="Парфюмерная вода Avon Luck Limitless для нее" price="899"/>
+		<product id="06229" name="Парфюмерная вода Avon Luck для нее" price="899"/>
+		<product id="06248" name="Туалетная вода Avon Luck для него" price="899"/>
+		<product id="59503" name="Парфюмерная вода Avon Luck La Vie для нее" price="899"/>
+	</page>
+	<page>
+		<limage url="images/large/3.jpg"/>
+		<mimage url="images/medium/3.jpg"/>
+		<simage url="images/small/3.jpg"/>
+		<product id="27527" name="Сыворотка-корректор морщин" price="undefined"/>
+		<product id="19768" name="Двойной эликсир для лица «Омоложение. Превосходство»: сыворотка и масло" price="undefined"/>
+		<product id="22705" name="Крем для лица «Заряд энергии. Совершен-ство. Мгновенное выравнивание»" price="undefined"/>
+		<product id="32137" name="Сыворотка для лица «Лифтинг и укрепление»" price="undefined"/>
+		<product id="26146" name="Омолаживающая сыворотка для лица «Максимальная молодость»" price="undefined"/>
+		<product id="07515" name="Подушечки для пилинга кожи лица «Ровный тон и укрепление. Профессиональное очищение»" price="undefined"/>
+		<product id="25836" name="Ночной комплексный уход для лица «Обновление. Бесконечный эффект»: крем 1 и крем 2" price="undefined"/>
+		<product id="86441" name="Ночная маска для лица «Защита и восстановление»" price="undefined"/>
+		<product id="17856" name="Крем для лица «Омоложение. Превосходство»" price="undefined"/>
+		<product id="38511" name="Мультифункциональный дневной крем для лица «Полное обновление» SPF 20" price="undefined"/>
+		<product id="43473" name="SPA Очищающая маска для лица «Турецкий хамам» с глиной и экстрактом янтаря" price="undefined"/>
+		<product id="43673" name="SPA Мерцающая маска-пленка для лица с ароматом дерева уд «Сияющее золото»" price="undefined"/>
+		<product id="60963" name="SPA Маска для лица с маслом оливы «Райское увлажнение»" price="undefined"/>
+		<product id="62753" name="Парфюмерная вода Today" price="undefined"/>
+		<product id="62655" name="Парфюмерная вода Avon Attraction для нее" price="undefined"/>
+		<product id="62752" name="Парфюмерная вода Avon Luck для нее" price="undefined"/>
+		<product id="62766" name="Парфюмерная вода In Love" price="undefined"/>
+		<product id="62805" name="Парфюмерная вода Amour" price="undefined"/>
+	</page>
+	<page>
+		<limage url="images/large/4.jpg"/>
+		<mimage url="images/medium/4.jpg"/>
+		<simage url="images/small/4.jpg"/>
+		<product id="52660" name="Туалетная вода Black Suede Intense" price="499"/>
+		<product id="70492" name="Пробный образец, Black Suede Intense" price="15"/>
+		<product id="17484" name="Парфюмерная вода Little Black Dress Party" price="530"/>
+		<product id="14434" name="Парфюмерная вода Little Black Dress" price="530"/>
+		<product id="17566" name="Парфюмерная вода Little Black Dress Weekend" price="530"/>
+	</page>
+	<page>
+		<limage url="images/large/5.jpg"/>
+		<mimage url="images/medium/5.jpg"/>
+		<simage url="images/small/5.jpg"/>
+		<product id="16094" name="Комплексное средство для лица 2 в 1: бальзам после бритья и увлажняющий крем; Шампунь/ополаскиватель 2 в 1 «Здоровые волосы»; Гель для бритья; Кремообразное средство для умывания" price="269"/>
+		<product id="20666" name="Двойные румяна-хайлайтер «Мастер cтробинга»" price="229"/>
+		<product id="24707" name="Тональный крем с корректирующим эффектом SPF 20, цвет Светлый " price="159"/>
+		<product id="59796" name="Тональный крем с корректирующим эффектом SPF 20, цвет Натуральный " price="159"/>
+		<product id="07812" name="Тональный крем с корректирующим эффектом SPF 20, цвет Топленое молоко " price="159"/>
+		<product id="19233" name="Тональный крем с корректирующим эффектом SPF 20, цвет Светлый беж." price="159"/>
+		<product id="49403" name="Тональный крем с корректирующим эффектом SPF 20, цвет Бежевый" price="159"/>
+	</page>
+	<page>
+		<limage url="images/large/6.jpg"/>
+		<mimage url="images/medium/6.jpg"/>
+		<simage url="images/small/6.jpg"/>
+		<product id="37834" name="Туалетная вода Individual Blue You" price="900"/>
+		<product id="32728" name="Туалетная вода Individual Blue Free" price="900"/>
+		<product id="33215" name="Туалетная вода Individual Blue" price="900"/>
+		<product id="86202" name="Туалетная вода Individual Blue Unlimited" price="900"/>
+		<product id="22730" name="Туалетная вода Pur Blanca Blush" price="900"/>
+		<product id="21122" name="Туалетная вода Pur Blanсa Smile" price="900"/>
+		<product id="23400" name="Туалетная вода Pur Blanca Elegance" price="900"/>
+		<product id="44284" name="Туалетная вода Pur Blanca" price="900"/>
+		<product id="16020" name="Детский шампунь-кондиционер «Яблочное веселье»; Увлажняющий гель для душа «Морская лагуна»; Шампунь/ополаскиватель 2 в 1 «Бесконечная свежесть. Имбирь и манго»; Комплексное средство для лица «Активизируйся» 2 в 1: бальзам после бритья и увлажняющий крем" price="249"/>
+	</page>
+	<page>
+		<limage url="images/large/7.jpg"/>
+		<mimage url="images/medium/7.jpg"/>
+		<simage url="images/small/7.jpg"/>
+	</page>
+	<page>
+		<limage url="images/large/8.jpg"/>
+		<mimage url="images/medium/8.jpg"/>
+		<simage url="images/small/8.jpg"/>
+		<product id="78823" name="Цепочка с подвеской «Козерог». Длина: 42+9 см. Длина подвески: 2,4 см. Диаметр подвески: 1,6 см" price="206"/>
+		<product id="78282" name="Цепочка с подвеской «Водолей». Длина: 42+9 см. Длина подвески: 2,4 см. Диаметр подвески: 1,6 см" price="206"/>
+		<product id="78283" name="Цепочка с подвеской «Рыбы». Длина: 42+9 см. Длина подвески: 2,4 см. Диаметр подвески: 1,6 см" price="206"/>
+		<product id="78289" name="Цепочка с подвеской «Овен». Длина: 42+9 см. Длина подвески: 2,4 см. Диаметр подвески: 1,6 см" price="206"/>
+		<product id="78290" name="Цепочка с подвеской «Телец». Длина: 42+9 см. Длина подвески: 2,4 см. Диаметр подвески: 1,6 см" price="206"/>
+		<product id="78291" name="Цепочка с подвеской «Близнецы». Длина: 42+9 см. Длина подвески: 2,4 см. Диаметр подвески: 1,6 см" price="206"/>
+		<product id="78292" name="Цепочка с подвеской «Рак». Длина: 42+9 см. Длина подвески: 2,4 см. Диаметр подвески: 1,6 см" price="206"/>
+		<product id="78293" name="Цепочка с подвеской «Лев». Длина: 42+9 см. Длина подвески: 2,4 см. Диаметр подвески: 1,6 см" price="206"/>
+		<product id="78294" name="Цепочка с подвеской «Дева». Длина: 42+9 см. Длина подвески: 2,4 см. Диаметр подвески: 1,6 см" price="206"/>
+		<product id="78811" name="Цепочка с подвеской «Весы». Длина: 42+9 см. Длина подвески: 2,4 см. Диаметр подвески: 1,6 см" price="206"/>
+		<product id="78813" name="Цепочка с подвеской «Скорпион». Длина: 42+9 см. Длина подвески: 2,4 см. Диаметр подвески: 1,6 см" price="206"/>
+		<product id="78817" name="Цепочка с подвеской «Стрелец». Длина: 42+9 см. Длина подвески: 2,4 см. Диаметр подвески: 1,6 см" price="206"/>
+		<product id="38586" name="Женская блузка, Размер 40-42" price="827"/>
+		<product id="38800" name="Женская блузка, Размер 44-46" price="827"/>
+		<product id="39921" name="Женская блузка, Размер 48-50" price="827"/>
+		<product id="40016" name="Женская блузка, Размер 52-54" price="827"/>
+		<product id="40029" name="Женская блузка, Размер 56-58" price="827"/>
+		<product id="15565" name="Женская сумка «Лолита»" price="1034"/>
+	</page>
+</pages>

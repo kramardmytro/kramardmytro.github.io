@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pages>
+	<page>
+		<limage url="images/large/1.jpg?2"/>
+		<mimage url="images/medium/1.jpg?2"/>
+		<simage url="images/small/1.jpg?2"/>
+		<product id="67501" name="Женская сумка" price="499"/>
+		<product id="01269" name="Зонт" price="349"/>
+		<product id="92518" name="Полиэтиленовый пакет. Размеры: 50х40 см. 1шт." price="11,99"/>
+		<product id="92519" name="Полиэтиленовый пакет. Размеры: 40х30 см. 5шт." price="29,99"/>
+		<product id="93011" name="Полиэтиленовый пакет. Размеры: 27х20 см. 10шт." price="29,99"/>
+	</page>
+	<page>
+		<limage url="images/large/2.jpg?2"/>
+		<mimage url="images/medium/2.jpg?2"/>
+		<simage url="images/small/2.jpg?2"/>
+		<product id="58815" name="Органайзер для пробных образцов." price="499"/>
+		<product id="18664" name="Дорожная косметичка" price="799"/>
+		<product id="66994" name="Подставка для помад" price="399"/>
+		<product id="18612" name="Палитра для лаков" price="199"/>
+		<product id="68074" name="Рулетка (1 м)" price="169"/>
+		<product id="67507" name="Органайзер с калькулятором." price="899"/>
+		<product id="68073" name="Набор аксессуаров для макияжа" price="189"/>
+		<product id="77313" name="Ежедневник" price="499"/>
+		<product id="66993" name="Сменный блок листов для" price="139"/>
+	</page>
+	<page>
+		<limage url="images/large/3.jpg?2"/>
+		<mimage url="images/medium/3.jpg?2"/>
+		<simage url="images/small/3.jpg?2"/>
+		<product id="68805" name="Женская футболка. Размер: 40-42" price="349"/>
+		<product id="69123" name="Женская футболка. Размер: 44-46" price="349"/>
+		<product id="69274" name="Женская футболка. Размер: 48-50" price="349"/>
+		<product id="69524" name="Женская футболка. Размер: 52-54" price="349"/>
+		<product id="33629" name="Женская футболка. Размер: 56-58" price="349"/>
+		<product id="18028" name="Мужская толстовка. Размер: 44" price="699"/>
+		<product id="18053" name="Мужская толстовка. Размер: 46" price="699"/>
+		<product id="18203" name="Мужская толстовка. Размер: 48" price="699"/>
+		<product id="18216" name="Мужская толстовка. Размер: 50" price="699"/>
+		<product id="17968" name="Мужская толстовка. Размер: 52" price="699"/>
+		<product id="70173" name="Мужская футболка. Размер: 50" price="549"/>
+		<product id="70174" name="Мужская футболка. Размер: 52" price="549"/>
+		<product id="73354" name="Мужская футболка. Размер: 54" price="549"/>
+		<product id="77683" name="Рюкзак" price="499"/>
+		<product id="67504" name="Cумка для покупок" price="199"/>
+	</page>
+</pages>
