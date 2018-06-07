@@ -1,300 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <editorials>
-	<marketname value="Russia"/>
+	<marketname value="Ukraine"/>
 	<currency value="$"/>
 	<header>
-		<backtoorder alertmess="Выбранные Вами продуктами сохранены в заказе.Чтобы завершить размещение заказа с выбранными Вами продуктами, нажмите ДАЧтобы продолжить выбор продуктов по Каталогу, нажмите НЕТ" value="назад к заказу"/>
-		<favorite addtip="Нажмите, чтобы поместить страницу в Закладки" removetip="Нажмите, чтобы удалить страницу из Закладок"/>
-		<allpages source="" tip="Нажмите для просмотра всех страниц"/>
-		<categories popupheader="Категория средств" source="" tip="Нажмите для просмотра списка категорий средств"/>
-		<search buttonsource="" buttontip="Нажмите для поиска" fieldsource="" fieldtip="Введите слово для поиска"/>
-		<gotopage buttontip="Нажмите для перехода на страницу" textinputtip="Введите номер страницы и нажмите enter"/>
-		<magnify source="" tip="Нажмите, чтобы уменьшить/увеличить"/>
-		<print source="" tip="Нажмите, чтобы распечатать страницу"/>
-		<help source="" tip="Нужна помощь? Нажмите сюда"/>
-		<needrepA source="Найти" highlight="y" tip="Обратись к Представителю Avon"/>
-		<needrepB source=""/>
-		<needrepC source="Представителя"/>
-		<becomerepA source="Стать" highlight="y" tip="Стань Представителем Avon"/>
-		<becomerepB source=""/>
-		<becomerepC source="Представителем"/>
-		<zoomdrag tip="Нажмите и растяните изображение &quot;мышью&quot;, чтобы увидеть его полностью"/>
-		<sound playtip="Нажмите, чтобы включить музыку" stoptip="Нажмите, чтобы выключить музыку"/>
-		<language value="Язык"/>
-		<addtoorder tip="Нажмите, чтобы добавить продукты в Корзину" value="добавить к заказу"/>
-		<note tip="Нажмите, чтобы добавить Комментарий к этой странице"/>
-		<fullpage tip="Нажмите для просмотра всей страницы"/>
+		<backtoorder alertmess="Все, товари, що залишились в кошику, не попадуть до замовлення. Продовжити?" value="назад до замовлення"/>
+		<favorite addtip="Зробити закладку" removetip="Видалити закладку"/>
+		<allpages source="" tip="Всі сторінки"/>
+		<categories popupheader="Категорія" source="" tip="Список категорій"/>
+		<search buttonsource="" buttontip="Шукати" fieldsource="" fieldtip="Введіть ключове слово для пошуку"/>
+		<gotopage buttontip="Перейти на сторінку" textinputtip="Введіть номер сторінки, щоб перейти"/>
+		<magnify source="" tip="Збільшити/Зменшити"/>
+		<print source="" tip="Роздрукувати"/>
+		<help source="" tip="Допомога"/>
+		<needrep source="" tip="Знайти Представника"/>
+		<becomerep source="" tip="Хочу стати Представником"/>
+		<zoomdrag tip="Натисніть і перетягніть, щоб побачити всі частини зображення"/>
+		<sound playtip="Увімкнути музику" stoptip="Вимкнути музику"/>
+		<language value="Мова"/>
+		<addtoorder tip="Натисніть, щоб замовити продукцію з кошика" value="додати до замовлення"/>
+		<note tip="Зробити примітку"/>
+		<fullpage tip="Проглянути всю сторінку"/>
 	</header>
+	
 	<coverflow>
-		<previous source="" tip="Нажмите для перехода предыдущую страницу"/>
-		<next source="" tip="Нажмите для перехода на следующую страницу"/>
+		<previous source="" tip="На попередню"/>
+		<next source="" tip="На наступну"/>
 	</coverflow>
+	
 	<allpages>
-		<thumbnail tip="Нажмите, чтобы открыть страницу"/>
-		<pages back="назад" cover="обложка"/>
+		<thumbnail tip=""/>
+		<pages back="назад" cover="приховати"/>
 	</allpages>
+	
 	<shoppingbag>
-		<disclaimerrep value="* Prices may differ depending on multiple purchase discounts or other offers. Final pricing will be confirmed when your order is passed to our central computer for billing.  Please consult your on-line invoice or contact Customer Care if you have any questions."/>
-		<disclaimercust value="* Final pricing will be confirmed by the Avon Independent Representative."/>
-		<maxitemswarn value="Вы превысили допустимое количество наименований в Корзине"/>
-		<ordernow value="ОФОРМЛЕНИЕ"/>
-		<update value="Обновить Корзину"/>
-		<emailorder value="Отправить Представителю электронную форму заказа"/>
-		<shoppingtitle value="Моя Корзина"/>
-		<productname value="Описание"/>
-		<lineno value="Строка №"/>
-		<pageno value="Стр. №"/>
-		<productprice value="Цена"/>
-		<productqty value="Кол-во"/>
-		<producttotal value="Всего"/>
-		<totalqty value="ИТОГО"/>
-		<productremove value="Удалить"/>
-		<alertmsg value="Пожалуйста, добавьте наименования в Корзину перед размещением заказа"/>
-		<invaliditem value="Invalid Items"/>
+		<maxitemswarn value="Ви перевищили максимальну кількість замовлених одиниць"/>
+		<ordernow value="Закінчити покупки"/>
+		<update value="Оновити кошик"/>
+		<emailorder value="Відправити замовлення Представнику"/>
+		<shoppingtitle value="Мій кошик"/>
+		<productname value="Назва"/>
+		<lineno value="Код"/>
+		<pageno value="Стор."/>
+		<productprice value="Ціна"/>
+		<productqty value="Кількість"/>
+		<producttotal value="Разом"/>
+		<totalqty value="РАЗОМ"/>
+		<productremove value="Видалити"/>
+		<alertmsg value="Перед розміщенням замовленння, додайте товари до кошика"/>
 	</shoppingbag>
+	
 	<shoppingcart>
-		<title value="Добавить Наименование к Заказу"/>
-		<id value="Строка №"/>
-		<productname value="Описание"/>
-		<productqty value="Кол-во"/>
-		<productprice value="Цена"/>
-		<productpage value="Стр. №"/>
-		<addtobag value="Добавить в Корзину"/>
+		<title value="Додати товар до замовлення"/>
+		<id value="Код"/>
+		<productname value="Назва"/>
+		<productqty value="Кількість"/>
+		<productprice value="Ціна"/>
+		<productpage value="Стор."/>
+		<addtobag value="Додати в кошик"/>
 	</shoppingcart>
+	
 	<mainpage>
-		<mainemail tip="Нажмите, чтобы отправить страницу подруге" value="Отправить страницу по e-mail"/>
-		<shoppingbag tip="Нажмите, чтобы открыть Корзину"/>
-		<mainshopbag value="Наименования"/>
-		<topnav lefttip="Нажмите для перехода предыдущую страницу" righttip="Нажмите для перехода на следующую страницу"/>
-		<shoptip tip="Отправить страницу по e-mail"/>
-		<booktip tip="Нажмите на уголки, чтобы перевернуть страницу"/>
+		<mainemail tip="Відправити сторінку другові" value="Надіслати сторінку"/>
+		<shoppingbag tip="Відкрити кошик"/>
+		<mainshopbag value="од."/>
+		<topnav lefttip="На попередню" righttip="На наступну"/>
+		<shoptip tip="Надіслати сторінку"/>
+		<booktip tip="Натисніть на куточки, щоб перегорнути сторінки"/>
 	</mainpage>
 	<emailcust>
-		<norepemailerr value="Пожалуйста, обновите Ваш адрес  электронной почты."/>
-		<selectall value="Выделить всех"/>
-		<clientemail value="* Кому отправить каталог"/>
-		<defsubject value="Заказывайте косметику Avon онлайн!"/>
-		<defmess value=""/>
-		<required value="* Поле обязательное для заполнения"/>
-		<addcustlink value="&lt;font color='#ff0099'&gt;&lt;u&gt;&lt;a href='event:flex.org'&gt;Нажмите здесь&lt;/a&gt;&lt;/u&gt;&lt;/font&gt; чтобы добавить информацию о новом Клиенте или отредактировать данные"/>
+		<clientemail value=""/>
 		<clientemailsub value=""/>
-		<title value="Написать Клиенту"/>
-		<comboheading1 value="Ваши Клиенты:"/>
-		<comboheading2 value="Пожалуйста, выберите Клиента"/>
-		<fieldinfo value="* Поля обязательные для заполнения"/>
+		<title value="Відправити Клієнту"/>
+		<comboheading1 value="Ваші Клієнти"/>
+		<comboheading2 value="Оберіть Клієнта"/>
 	</emailcust>
 	<emailfriendpage>
-		<defsubject value="Новый каталог Avon – Насладитесь замечательными предложениями и выгодными ценами"/>
-		<emailLink value="Нажмите здесь"/>
-		<title value="Отправить страницу по e-mail"/>
-		<successtitle value="e-Brochure sent"/>
-		<failuretitle value="e-Brochure not sent"/>
+		<emailLink value="Натиснути тут"/>
+		<title value="Надіслати сторінку"/>
 		<emailinfo value="Кому:"/>
-		<successmess value="Сообщение отправлено"/>
-		<failuremess value="Сообщение не отправлено"/>
-		<emailfrndemail value="Введите электронные адреса через запятую"/>
-		<emailername value="Ваше имя (не обязательно):"/>
-		<emaileremail value="Ваш E-mail:"/>
-		<subject value="Тема письма:"/>
-		<message value="Текст сообщения:"/>
-		<messageinfo1 value="Добавьте Ваше личное приветствие "/>
-		<messageinfo2 value="(не более 300 символов)."/>
-		<send value="Отправить письмо"/>
-		<emailfriendurl value="Нажмите на эту ссылку для просмотра присланной страницы Каталога:"/>
-		<emailtextinfo value=" "/>
+		<successmess value="Відправлено"/>
+		<failuremess value="Не відправлено"/>
+		<emailfrndemail value="Введіть декілька адрес, розділяючи їх комою"/>
+		<emailername value="Ваше ім'я"/>
+		<emaileremail value="Ваш e-mail:"/>
+		<subject value="Тема:"/>
+		<message value="Повідомлення"/>
+		<messageinfo1 value="Натисніть нижче, щоб додати особисте повідомлення"/>
+		<messageinfo2 value="максимум 300 знаків"/>
+		<send value="Відправити"/>	
+		<emailfriendurl value="Для проглядання надісланої Вам сторінки натисніть на посилання нижче"/>
 	</emailfriendpage>
+
 	<emailrep>
-		<poptitle value="Отправить Представителю электронную форму заказа"/>
-		<divtitle emailadd="E-mail" mailadd="Почтовый адрес" name="Имя" phone="Номера телефонов"/>
-		<namefirst value="Имя"/>
-		<namelast value="Фамилия"/>
-		<mailaddress1 value="Адрес 1"/>
-		<mailaddress2 value="Адрес 2"/>
-		<mailcity value="Город"/>
-		<mailcounty value="Регион"/>
-		<mailpostalcode value="Индекс"/>
+		<poptitle value="Відправити замовлення Представнику"/>
+		<divtitle emailadd="E-Mail адреса" mailadd="Адреса отримувача" name="Ім'я" phone="Телефон"/>
+		<namefirst value="Ім'я"/>
+		<namelast value="Прізвище"/>
+		<mailaddress1 value="Адреса"/>
+		<mailaddress2 value="Адреса"/>
+		<mailcity value="Місто"/>
+		<mailcounty value="Адміністративний район"/>
+		<mailpostalcode value="Поштовий індекс"/>
 		<phone value="Телефон"/>
-		<notes value="Комментарии к заказу"/>
-		<submit value="Заказать"/>
-		<back value="Вернуться к Каталогу"/>
-		<fieldinfo value="* Пожалуйста, заполните все необходимые поля."/>
-		<replabel1 value="Зона обслуживания"/>
-		<replabel2 value=""/>
+		<notes value="Примітки"/>
+		<submit value="Відправити замовлення"/>
+		<back value="Повернутися до каталога"/>
+		<fieldinfo value="*Поля обов'язкові для заповнення"/>
+		<replabel1 value="Обслуговується в"/>
+		<replabel2 value="районі"/>
 	</emailrep>
+
 	<categories>
-		<category value="" width="300"/>
-	</categories>
+ 		 <category value="" width="200"/> 
+ 	 </categories>
+
 	<checkout>
-		<checkoutlabel value="ОФОРМЛЕНИЕ"/>
-		<checkoutdesc value="Пожалуйста, введите необходимую информацию для окончательного оформления Вашего заказа. Ваш представитель свяжется с Вами в ближайшее время."/>
-		<replabel value="Информация о Представителе"/>
+		<checkoutlabel value="Закінчити покупки"/>
+		<checkoutdesc value="Для завершення замовлення заповніть інформацію нижче. Ваш Представник зв'яжеться з Вами найближчим часом"/>
+		<replabel value="Інформація про Представника"/>
 	</checkout>
-	<thumbnail>
-		<title value="Миниатюра"/>
-	</thumbnail>
-	<resolution>
-		<title value="Качество изображения"/>
-		<select value="ОК"/>
-		<radio1 value="Высокое качество (DSL-подключение)"/>
-		<radio2 value="Низкое качество (Dial-up -подключение)"/>
-	</resolution>
+
+    <thumbnail>
+   		<title value="Проглядання індексів"/>
+    </thumbnail>
+    
+    <resolution>
+	    <title value="Якість каталогу"/>
+	    <select value="ОК"/>
+	    <radio1 value="Висока якість"/>
+	    <radio2 value="Низька якість"/>
+    </resolution>
+	
 	<searchresults>
-		<title failure="Поиск не дал результатов" success="Результаты поиска"/>
-		<noresults bullet1="Проверьте орфографию или попробуйте похожее ключевое слово." bullet2="Для просмотра Каталога в режиме мини-картинок нажмите &quot;Миниатюра&quot;" bullet3="Для просмотра по категориям средств нажмите выше &quot;Категории&quot;" info="Возможно, товар не представлен в этом Каталоге." title="Извините, наименований по Вашему запросу не найдено."/>
-		<preview value="предварительный просмотр"/>
+		<title failure="Не знайдено результатів" success="Результат пошуку"/>
+		<noresults bullet1="Перевірте правопис або спробуйте інше слово для пошуку" bullet2="Продивіться каталог через &quot;Проглядання індексів&quot;" bullet3="Прогляньте по категорям через &quot;Категорії&quot;" info="Можливо, в цьому каталозі продукт не представлено" title="Вибачте, за Вашим запитом нічого не знайдено"/>
+		<preview value="проглядання"/>
+		
 	</searchresults>
+
 	<shopping>
 		<reason value="Причина"/>
-		<validatingitems value="Подтверждение заказа"/>
-		<title value="Подтверждение заказа"/>
-		<productnotavailable header="Изменить Наименования в Заказе" value="К сожалению, следующие наименования в настоящее время не доступны, поэтому они будут удалены из Вашего заказа."/>
-		<continueShopping header="Подтверждение заказа" value="Вы хотите продолжить покупки?"/>
-		<prorderplacedwithouterror value="Ваш заказ отправлен Представителю."/>
-		<prorderplacedwitherror value="В заказе присутсвуют продукты, которые "/>
-		<orderplacedwithouterror value="Ваш заказ был размещен."/>
-		<orderplacedwitherror value="Ваш заказ был размещен. К сожалению, следующие наименования в настоящее время не доступны, поэтому они будут удалены из Вашего заказа."/>
-		<updateitems header="Обновить Корзину" value="Вы хотите обновить наименование (-я)?"/>
+		<validatingitems value="Перевірка замовленої продукції"/>
+		<title value="Підтвердження замовлення"/>
+		<productnotavailable header="Зміни в замовленні" value="Ці товари зараз недоступні, їх буде видалено з Вашого замовлення"/>
+		<continueShopping header="Підтвердження замовлення" value="Продовжити робити покупки"/>
+		<orderplacedwithouterror value="Замовлення розміщено"/>
+		<orderplacedwitherror value="Замовлення розміщено, але дані продукти тимчасово недоступні. Їх було видалено із замовлення"/>
+		<updateitems header="Оновити кошик" value="Оновити кошик"/>
 	</shopping>
+	
 	<stickynote>
-		<note value="Текст сообщения:"/>
-		<bookmark value="На этой странице уже есть закладка."/>
-		<add value="Добавить Комментарии к Закладке"/>
-		<save value="Сохранить"/>
+		<note value="Повідомлення"/>
+		<bookmark value="На сторінці закладка"/>
+		<add value="Додати примітку до закладки"/>
+		<save value="Зберегти"/>
 	</stickynote>
+
 	<help>
-		<title value="Помощь!"/>
-		<helpnav value="Навигатор заглавной страницы"/>
-		<helpcategories value="Категории"/>
-		<helpthumbnail value="Миниатюра"/>
+		<title value="Допомога"/>
+		<helpnav value="Навігатор"/>
+		<helpcategories value="Категорії"/>
+		<helpthumbnail value="Проглядання індексів"/>
 		<helpbookmark value="Закладка"/>
-		<helpzoom value="Масштаб"/>
-		<helpprint value="Печать"/>
+		<helpzoom value="Збільшити"/>
+		<helpprint value="Друкувати"/>
 		<helpemail value="Email"/>
-		<helpsearch value="Поиск"/>
-		<helpshoppingbag value="Корзина"/>
-		<allPages value="Нажмите на эту кнопку, чтобы увидеть мини-изображения всех страниц Каталога. Нажмите на любую из миниатюр для просмотра всей страницы."/>
-		<goToPage value="Введите номер страницы и нажмите &quot;ввод&quot; , чтобы перейти к выбранной странице. Нажмите на номер любой страницы для ее открытия. Используйте стрелки для перехода на следующую и предыдущую страницы."/>
-		<search value="Введите Артикул или Наименование или Ключевое слово и нажмите ввод или кнопку &quot;поиск&quot;, чтобы отобразить страницы, на которых встречается продукт, соответствующий введенным данным"/>
-		<searchbycategory value="Нажмите на кнопку &quot;Категории средств&quot; и выберите категорию из списка. Вы сможете увидеть все страницы с продуктами, принадлежащими этой категории. Нажмите на любую из миниатюр, чтобы увидеть всю страницу."/>
-		<magnify value="Нажмите &quot;Увеличить&quot;, чтобы увеличить текущую страницу. Вращайте колесико мыши для просмотра всех частей изображения. Нажмите &quot;Уменьшить&quot; для просмотра всей страницы."/>
-		<print value="Нажмите на кнопку, чтобы распечатать текущую страницу."/>
-		<favorite value="Нажмите &quot;Добавить закладку&quot;, чтобы &quot;запомнить&quot; текущую страницу. Вы можете оставить и сохранить комментарии к закладке. Нажмите &quot;Удалить закладку&quot; для удаления закладки. Закладки расположены на правой стороне Каталога."/>
-		<emailtofriend value="Нажмите на эту кнопку, чтобы отправить эту страницу Каталога по e-mail. Вы можете отправить ее нескольким адресатам, поместив их адреса через запятую."/>
-		<shoppingbag value="Нажмите на контур рядом с продуктами на странице. В появившемся окне &quot;Добавить Наименование в Корзину&quot; введите необходимое количество Наименований и нажмите на кнопку &quot;Добавить в Корзину&quot;. Нажмите на изображение Корзины в верхнем правом углу страницы. В появившемся окне Вы можете удалять или обновлять наименования, а также перейти к оформлению заказа нажатием кнопки &quot;Заказать&quot;."/>
-		<contactus text="Свяжитесь с нами" value=""/>
+		<helpsearch value="Пошук"/>
+		<helpshoppingbag value="Кошик"/>
+		<allPages value="Щоб подивитись каталог по індексам, натисніть на кнопку. Натиснувши на будь-який індекс Ви побачите цю сторінку в повному обсязі"/>
+		<goToPage value="Введіть номер сторінки, щобперейти на неї. Для переходу на конкретну сторінку, натисніть на її номер. Для переходу між сторінками користуйтесь кнопками вперед/назад"/>
+		<search value="Введіть код продукту, назву або ключове слово, щоб знайти всі продукти, які відповідають критеріям пошуку"/>
+		<searchbycategory value="Натисніть на кнопку &quot;Категорії&quot; та оберіть категорію продукції зі списку. Ви побачите сторінки каталогу, де представлено продукти  обраної категорії."/>		
+		<magnify value="Натисніть на Збільшити/Зменшити, щоб продивитись збільшене зображення продукції"/>
+		<print value="Натисніть на цю кнопку, щоб роздрукувати сторінку"/>
+		<favorite value="Натисніть на &quot;Зробити закладку&quot;, щоб додати закладку для цієї сторінки. Ви можете додати примітки та зберегти їх на закладці. Натисніть на &quot;Видалити закладку, щоб прибрати закладку зі сторінки. Закладки відображаються праворуч на сторінках каталогу"/>
+		<emailtofriend value="Щоб відправити сторінку по електронній пошті, натисніть на кнопку. Відправку можна зробити на декілька адрес, вводячи адреси одержувачів в адресний рядок і розділяючи їх комами"/>
+		<shoppingbag value="У віконці &quot;Додати до товар в замовлення&quot; введіть необхідну кількість. Для проглядання замовлення, натисніть на свій кошик в правому верхньому кутку екрану. В кошику можна видалити продукцію або виправити кількість, а потім відправити кошик до замовлення"/>
+		<contactus text="Зв'яжіться з нами" value=""/>
 	</help>
+	
 	<bookmark>
-		<thumbnail tip="Нажмите, чтобы открыть страницу"/>
-		<maxlimit value="Максимально возможное число закладок."/>
-		<maxlimit value="Вы не можете добавить еще одну закладку. Пожалуйста, удалите существующие закладки перед добавлением новых."/>
-		<maxlimitheader value="Превышение максимального числа закладок."/>
+		<thumbnail tip="Натисніть, щоб відкрити сторінку"/>
+		<maxlimit value="ви досягли максимальної кількості закладок. Ви більше не можете додати."/>
+		<maxlimit value="Щоб створити нову закладку треба видалити існуючу"/>
+		<maxlimitheader value="Ліміт кількості закладок перевищено"/>
 	</bookmark>
+	
 	<loaderpage>
-		<loading value="ЗАГРУЗКА"/>
+		<loading value="ЗАВАНТАЖЕННЯ"/>
 	</loaderpage>
+	
 	<errors>
-		<multiemail value="Некорректный формат e-mail. Пожалуйста, проверьте и исправьте адрес."/>
-		<requiredfielderror value="Необходимо заполнить это поле."/>
-		<decimalpointcounterror value="Запятая может использоваться только один раз."/>
-		<integererror phone="Телефонный номер не должен содержать пробелов." quantity="Введите корректный телефонный номер." value="Число не должно содержать пробелов."/>
-		<invalidcharerror value="Введенные данные содержат неверные символы."/>
-		<invalidformatcharserror value="Один из параметров задан в неверном формате."/>
-		<negativeerror value="Количество не может быть отрицательным."/>
-		<precisionerror value="Число содержит слишком много цифр после десятичного разделителя."/>
-		<separationerror value="После тысячного разделителя должны идти три цифры."/>
-		<exceedsmaxerror goto="Вы превысили совокупное число страниц." value="Введенное число слишком велико."/>
-		<lowerthanminerror goto="Введите корректный номер страницы." phone3D="Телефонный номер должен содержать 10 цифр без пробелов." phone4D="" qty="Введите корректное количество." value="Число слишком мало."/>
-		<toolongerror value="Текст сообщения должен содержать не менее 3 символов."/>
-		<tooshorterror value="Текст сообщения должен содержать не менее 3 символов."/>
-		<zipinvalidcharerror value="Неверный почтовый индекс"/>
+		<multiemail value="Формат електронної адреси невірний"/>
+		<requiredfielderror value="Обов'язкове для заповнювання поле"/>
+		
+		<decimalpointcounterror value="Дільник розряду використовується лише один раз"/> 
+	 	<integererror phone="Номер телефону має бути цифровим" quantity="Введіть номер телефону" value="Номер має бути числом"/>
+		<invalidcharerror value="Введені дані містять некоректні символи"/> 
+		<invalidformatcharserror value="Один з параметрів форматування некоректний"/> 
+	 	<negativeerror value="Кількість не може бути від'ємною"/> 
+		<precisionerror value="Забагато знаків після коми"/> 
+		<separationerror value=""/>
+		<exceedsmaxerror goto="Ви перевищили кількість всіх сторінок" value="Введена кількість занадто велика"/>
+		<lowerthanminerror goto="Введіть номер сторінки" phone3D="В номері телефону  має бути 11 знаків" phone4D="" qty="Введіть кількість" value="Введена кількість занадто мала"/>
+		 
+		<toolongerror value="Значення перевищує максимально допустиме - повинно бути менше {0} знаків"/>
+		<tooshorterror value="Значення менше мінімального -  повинно бути {0} знаків"/>
+	
+	
+	
+		<zipinvalidcharerror value="Неправильний поштовий індекс"/>
 		<zipinvaliddomainerror value=""/>
 		<wrongcaformaterror value=""/>
 		<wronglengtherror value=""/>
 		<wrongusformaterror value=""/>
-		<emailinvalidcharerror value="Ваш электронный адрес содержит неверные символы."/>
-		<emailinvaliddomainerror value="IP-домен Вашего электронного адреса имеет неверный формат."/>
-		<invalidipdomainerror value="В названии домена несколько точек."/>
-		<invalidperiodsindomainerror value="В названии домена несколько точек."/>
-		<missingatsignerror value="Электронный адрес должен содержать символ @."/>
-		<missingperiodindomainerror value="В названии домена отсутствует точка."/>
-		<missingusernameerror value="Электронный адрес не содержит логина."/>
-		<toomanyatsignserror value="Электронный адрес содержит больше одной @."/>
-		<specialCharacterNotAllowedError value="Имя не должно содержать специальные символы."/>
-		<numeralNotAllowedError value="Имя не должно содержать цифры."/>
-		<spaceNotAllowedError value="Имя не должно содержать пробелы."/>
+		
+		
+		<emailinvalidcharerror value="Адреса містить некоректні знаки"/>
+		<emailinvaliddomainerror value="Адреса містить некоректні знаки"/>
+		<invalidipdomainerror value="Адреса містить некоректні знаки"/> 
+		<invalidperiodsindomainerror value="Адреса містить некоректні знаки"/> 
+		<missingatsignerror value="В адресі пропущено знак @"/>
+		<missingperiodindomainerror value="В адресі пропущено крапку"/>
+		<missingusernameerror value="Адреса містить некоректні знаки"/>
+		<toomanyatsignserror value="Адреса має забагато символів @"/>
+		 
+		<specialCharacterNotAllowedError value="В поле &quot;Ім'я&quot; не може бути спеціальних символів"/>
+		<numeralNotAllowedError value="В поле &quot;Ім'я&quot; не може бути цифр"/>
+		<spaceNotAllowedError value="В полі &quot;Ім'я&quot; не може бути пробіл"/>
+
 	</errors>
+	
 	<alertlabels>
 		<ok value="ОК"/>
-		<yes value="Да"/>
-		<no value="Нет"/>
+		<yes value="Так"/>
+		<no value="Ні"/>
 	</alertlabels>
-	<buttonlabel>
-		<previous value="ПРЕДЫДУЩАЯ"/>
-		<next value="СЛЕДУЮЩАЯ"/>
-		<go value="НАЧАТЬ"/>
-		<category value="Категории"/>
-		<thumbnail value="Миниатюра"/>
-		<fullpage value="Страница на весь экран"/>
-		<bookmarkAdd value="Закладка"/>
-		<bookmarkDel value="Закладка"/>
-		<bookmarkGry value="Закладка"/>
-		<zoomIn value="Масштаб"/>
-		<zoomOut value="Масштаб"/>
-		<zoomGry value="Масштаб"/>
-		<print value="Печать"/>
-		<email value="Email"/>
-		<search value="Поиск"/>
-		<help value="Помощь"/>
-		<close value="ЗАКРЫТЬ"/>
-		<on value="Вкл."/>
-		<off value="Откл."/>
-		<contactme value="Contact Me"/>
-	</buttonlabel>
-	<otherbrochure>
-		<title value="Каталог"/>
-		<campaign value="Кампания"/>
-		<brochure value="Каталог"/>
-	</otherbrochure>
-	<emailCustText>
-		<viralBrochureText value="Вы также можете использовать собственный почтовый ящик.Просто скопируйте ссылку ниже и вставьте ее в новое сообщение, исходящее с Вашего персонального адреса. Добавьте несколько теплых слов и отправьте письмо всем Вашим постоянным и потенциальным Клиентам."/>
-		<custListText value="-Отправьте Ваш персональный электронный каталог Вашим Клиентам. 
--Выделите всех или нескольких Клиентов из списка
--Добавьте личное обращение в поле «Текст сообщения»
-- Ознакомьтесь с правилами использования данного сервиса и подтвердите свое согласие с ними
--Нажмите на «Отправить письмо»
-"/>
-	</emailCustText>
-	<directordertext>
-		<sucess value="Заказ успешно размещен"/>
-		<missing value="Вы не можете заказать в текущей кампании следующие товары:"/>
-	</directordertext>
-	<orderconfirmationtext>
-		<Title value="Спасибо!"/>
-		<TitleDescription value="Ваш заказ был отправлен Представителю."/>
-		<Campaign value="Кампания"/>
-		<Description value="Название"/>
-		<ProductNum value="Код"/>
-		<PageNum value="Страница"/>
-		<Quantity value="Количество"/>
-	</orderconfirmationtext>
-	<termsandconditionsPage>
-		<title value="что прочитал/а и принимаю"/>
-		<shopacclabel value="Я подтверждаю, что прочитал/а и принимаю"/>
-		<emailcustacclabel value="Я подтверждаю, что ознакомилась/ознакомился с Правилами использования данного сервиса и принимаю их"/>
-		<emailfriendacclabel value="Я подтверждаю, что прочитал/а и принимаю"/>
-		<subproductacclabel value="Я подтверждаю, что прочитал/а и принимаю"/>
-		<text value="The content of the pages of this website is for your general information and use only. It is subject to change without notice"/>
-		<directorderRep value="Добавить товар в заказ"/>
-		<Shoppingalert value="Вы действительно хотите отправить заказ?"/>
-		<emailfriendalert value="Do you want to send email?"/>
-		<emailcustalert value="Вы хотите отправить электронное письмо?"/>
-		<emailFriendContent value="Я подтверждаю, что прочитал/а и принимаю"/>
-		<emailCustContent value="Я подтверждаю, что прочитал/а и принимаю"/>
-	</termsandconditionsPage>
-	<suites>
-		<REP value="REPSuite"/>
-		<PR value="PRSuite"/>
-		<SL value="SLSuite"/>
-		<ZM value="ZMSuite"/>
-		<DM value="DMSuite"/>
-	</suites>
+
+	<omniture account="avonua" qaeaccount="avonceeqa" curr="UAH">
+		<index value="CFT"/>
+	</omniture>
+
 </editorials>

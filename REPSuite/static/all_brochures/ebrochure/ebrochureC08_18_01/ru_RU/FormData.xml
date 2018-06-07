@@ -1,37 +1,17 @@
 <forms>
-	<orderform url="/eBrochureOrderEntry.page" method="post" useproxy="false">
+	<orderform url="/PRSuite/custOnlineOrderEntry.page" method="post" useproxy="false">
 	</orderform>
-	
-	<emailfriend url="/rep_email_Customer.page" method="post" useproxy="false">
+	<emailfriend url="/PRSuite/email_friend_flash.page" method="post" useproxy="false">
 	</emailfriend>
-	
-	<customerlist url="/cust_details_flash.page" method="post" useproxy="false">
-	</customerlist>
-	
-	<directordercustomer url="/rep_custOrder.page" method="post" useproxy="false">
-	</directordercustomer>
-	
-	<othercampaign url="/rep_otherBrochure.page" method="post" useproxy="false">	
-	</othercampaign>
-	
-	<customerlistemail url="/cust_details_sendEmail.page" method="get" useproxy="false"></customerlistemail>
-
-	<sendemail url="/email_sendBrochure.page" method="get" useproxy="false"></sendemail>
-	
-	<sendemailterms url="/sendEmailStaticTerms.page" method="post" useproxy="false"></sendemailterms>
-	<emailcustterms url="/sendEmailBrochTerms.page" method="post" useproxy="false"></emailcustterms>
-	
 	<!-- make the hide header status as true if the ebrochure is opened in same window.If ebrochure is opened as 
 	pop up, then this value in hide header value should be false -->
 	<hideheader status="true"/>	
 	<ordervalidation url="d:" method="get" useproxy="false">
 	</ordervalidation>
-	<crossdomain url="/static/sendEbrochure/Framework/uk_UA/crossdomain.xml"/>
+	<becomearep url="/PRSuite/dreamJobApply.page" />
+	<findarep url="/PRSuite/needARep.page" />
 	<!-- Added to reroute to the landing page when the user clicks on no continue shopping -->
-	<nocontinueaction url="/orderEntry.page?" />
-	<nocontinueactiondemo url="/orderEntry.page?"/>
-	<music url="/static/ebrochure/Framework/uk_UA/Avon_HelloTomorrow_LongForm.mp3"></music>
-	<becomearep url="/dreamJobApply.page?c=si018ff1bar" />
-	<findarep url="/needARep.page?c=si018ff2nar"/>
-    <emailsubject disable="false"/>
+	<nocontinueaction url="/PRSuite/custonlineOrderEBrochure.page?" />
+        <nocontinueactiondemo url="/PRSuite/demoBrochure.page?"/>
+	<music url="/PRSuite/static/ebrochure/Avon_HelloTomorrow_LongForm.mp3"></music>
 </forms>
