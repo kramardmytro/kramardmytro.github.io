@@ -1,0 +1,17 @@
+<forms>
+	<orderform url="/PRSuite/custOnlineOrderEntry.page" method="post" useproxy="false">
+	</orderform>
+	<emailfriend url="/PRSuite/email_friend_flash.page" method="post" useproxy="false">
+	</emailfriend>
+	<!-- make the hide header status as true if the ebrochure is opened in same window.If ebrochure is opened as 
+	pop up, then this value in hide header value should be false -->
+	<hideheader status="true"/>	
+	<ordervalidation url="d:" method="get" useproxy="false">
+	</ordervalidation>
+	<becomearep url="/PRSuite/dreamJobApply.page" />
+	<findarep url="/PRSuite/needARep.page" />
+	<!-- Added to reroute to the landing page when the user clicks on no continue shopping -->
+	<nocontinueaction url="/PRSuite/custonlineOrderEBrochure.page?" />
+        <nocontinueactiondemo url="/PRSuite/demoBrochure.page?"/>
+	<music url="/PRSuite/static/ebrochure/Avon_HelloTomorrow_LongForm.mp3"></music>
+</forms>
