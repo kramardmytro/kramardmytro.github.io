@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<editorials>
+	<marketname value="Ukraine"/>
+	<currency value="$"/>
+	<header>
+		<backtoorder alertmess="Все, оставшиеся в корзине товары, не попадут в заказ. Продолжить?" value="назад к заказу"/>
+		<favorite addtip="Сделать закладку" removetip="Удалить закладку"/>
+		<allpages source="" tip="Все страницы"/>
+		<categories popupheader="Категория" source="" tip="Список категорий"/>
+		<search buttonsource="" buttontip="Искать" fieldsource="" fieldtip="Введите ключевое слово для поиска"/>
+		<gotopage buttontip="Перейти на страницу" textinputtip="Введите номер страницы, чтобы перейти"/>
+		<magnify source="" tip="Увеличить/Уменьшить"/>
+		<print source="" tip="Распечатать"/>
+		<help source="" tip="Помощь"/>
+		<needrep source="" tip="Найти Представителя"/>
+		<becomerep source="" tip="Хочу стать Представителем"/>
+		<zoomdrag tip="Нажмите и перетяните, чтобы увидеть все части изображения"/>
+		<sound playtip="Включить музыку" stoptip="Выключить музыку"/>
+		<language value="Язык"/>
+		<addtoorder tip="Нажмите, чтобы заказать продукцию из корзины" value="добавить в заказ"/>
+		<note tip="Сделать заметку"/>
+		<fullpage tip="Посмотреть всю страницу"/>
+	</header>
+	
+	<coverflow>
+		<previous source="" tip="На предыдущую"/>
+		<next source="" tip="На следующую"/>
+	</coverflow>
+	
+	<allpages>
+		<thumbnail tip="Открыть страницу"/>
+		<pages back="назад" cover="прикрыть"/>
+	</allpages>
+	
+	<shoppingbag>
+		<maxitemswarn value="Вы превысили максимальное количество заказываемых единиц"/>
+		<ordernow value="Закончить покупки"/>
+		<update value="Обновить корзину"/>
+		<emailorder value="Отправить заказ Представителю"/>
+		<shoppingtitle value="Моя корзина"/>
+		<productname value="Название"/>
+		<lineno value="Код"/>
+		<pageno value="Стр."/>
+		<productprice value="Цена"/>
+		<productqty value="Кол-во"/>
+		<producttotal value="Итого"/>
+		<totalqty value="ВСЕГО"/>
+		<productremove value="Удалить"/>
+		<alertmsg value="Перед размещением заказа, добавьте товары в корзину"/>
+	</shoppingbag>
+	
+	<shoppingcart>
+		<title value="Добавить товар в заказ"/>
+		<id value="Код"/>
+		<productname value="Название"/>
+		<productqty value="Кол-во"/>
+		<productprice value="Цена"/>
+		<productpage value="Стр."/>
+		<addtobag value="Добавить в корзину"/>
+	</shoppingcart>
+	
+	<mainpage>
+		<mainemail tip="Отправить страницу другу" value="Переслать страницу"/>
+		<shoppingbag tip="Открыть корзину"/>
+		<mainshopbag value="ед."/>
+		<topnav lefttip="На предыдущую" righttip="На следующую"/>
+		<shoptip tip="Переслать страницу"/>
+		<booktip tip="Нажмите на уголки, чтобы перелистать страницы"/>
+	</mainpage>
+	<emailcust>
+		<clientemail value=""/>
+		<clientemailsub value=""/>
+		<title value="Отправить Клиенту"/>
+		<comboheading1 value="Ваши Клиенты"/>
+		<comboheading2 value="Выберите Клиента"/>
+	</emailcust>
+	<emailfriendpage>
+		<emailLink value="Нажать здесь"/>
+		<title value="Переслать страницу"/>
+		<emailinfo value="Кому:"/>
+		<successmess value="Отправлено"/>
+		<failuremess value="Не отправлено"/>
+		<emailfrndemail value="Введите несколько адресов, разделяя их запятой"/>
+		<emailername value="Ваше имя:"/>
+		<emaileremail value="Ваш e-mail:"/>
+		<subject value="Тема:"/>
+		<message value="Сообщение:"/>
+		<messageinfo1 value="Нажмите на ячейку ниже, чтобы добавить личное сообщение"/>
+		<messageinfo2 value="максимум 300 знаков"/>
+		<send value="Отправить"/>	
+		<emailfriendurl value="Для просмотра присланной Вам страницы, нажмите на ссылку ниже"/>
+	</emailfriendpage>
+
+	<emailrep>
+		<poptitle value="Отправить заказ Представителю"/>
+		<divtitle emailadd="E-Mail адрес" mailadd="Адрес получателя" name="Имя" phone="Телефон"/>
+		<namefirst value="Имя"/>
+		<namelast value="Фамилия"/>
+		<mailaddress1 value="Адрес"/>
+		<mailaddress2 value="Адрес"/>
+		<mailcity value="Город"/>
+		<mailcounty value="Административный район"/>
+		<mailpostalcode value="Почтовый индекс"/>
+		<phone value="Телефон"/>
+		<notes value="Примечания"/>
+		<submit value="Отправить заказ"/>
+		<back value="Вернуться к каталогу"/>
+		<fieldinfo value="* Поля, обязательные для заполнения"/>
+		<replabel1 value="Обслуживается в "/>
+		<replabel2 value=" районе"/>
+	</emailrep>
+
+	<categories>
+ 		 <category value="" width="220"/> 
+ 	 </categories>
+
+	<checkout>
+		<checkoutlabel value="Закончить покупки"/>
+		<checkoutdesc value="Для завершения заказа, заполните информацию ниже. Ваш Представитель свяжется с Вами в ближайшее время"/>
+		<replabel value="Информация о Представителе"/>
+	</checkout>
+
+    <thumbnail>
+   		<title value="Просмотр индексов"/>
+    </thumbnail>
+    
+    <resolution>
+	    <title value="Качество каталога"/>
+	    <select value="ОК"/>
+	    <radio1 value="Высокое качество"/>
+	    <radio2 value="Низкое качество"/>
+    </resolution>
+	
+	<searchresults>
+		<title failure="Не найдено результатов" success="Результат поиска"/>
+		<noresults bullet1="Проверьте правописание или попробуйте другое слово для поиска" bullet2="Просмотрите каталог через &quot;Просмотр индексов&quot;" bullet3="Просмотрите по категориям через &quot;Категории&quot;" info="Возможно, в этом каталоге продукт не представлен" title="Извините, по Вашему запросу ничего не найдено"/>
+		<preview value="просмотр"/>
+		
+	</searchresults>
+
+	<shopping>
+		<reason value="Причина"/>
+		<validatingitems value="Проверка заказанной продукции…"/>
+		<title value="Подтверждение заказа"/>
+		<productnotavailable header="Изменение в заказе" value="Данные товары сейча не доступны, они будут удалены из Вашего заказа"/>
+		<continueShopping header="Подтверждение заказа" value="Продолжить делать покупки"/>
+		<orderplacedwithouterror value="Заказ размещен"/>
+		<orderplacedwitherror value="Заказ разещен, но данные продукты временно недоступны. Они были удалены из заказа"/>
+		<updateitems header="Обновить корзину" value="Обновить корзину"/>
+	</shopping>
+	
+	<stickynote>
+		<note value="Сообщение:"/>
+		<bookmark value="На странице закладка"/>
+		<add value="Добавить примечания к закладке"/>
+		<save value="Сохранить"/>
+	</stickynote>
+
+	<help>
+		<title value="Помощь"/>
+		<helpnav value="Навигатор"/>
+		<helpcategories value="Категории"/>
+		<helpthumbnail value="Просмотр индексов"/>
+		<helpbookmark value="Закладка"/>
+		<helpzoom value="Увеличить"/>
+		<helpprint value="Печатать"/>
+		<helpemail value="Email"/>
+		<helpsearch value="Поиск"/>
+		<helpshoppingbag value="Корзина"/>
+		<allPages value="Чтобы посмотреть каталог по индексам, нажмите на кнопку. При нажатии на любой индекс, Вы увидите эту страницу в полном размере"/>
+		<goToPage value="Введите номер страницы, чтобы перейти на нее. Для перехода на конкретную страницу, нажмите на ее номер. Для перехода между страницами, пользуйтесь кнопками вперед/назад"/>
+		<search value="Введите код продукта, название или ключевое слово, чтобы найти все продукты, которые соответствуют параметрам поиска"/>
+		<searchbycategory value="Нажмите на кнопку &quot;Категории&quot; и выберите категорию продукции из списка. Вы увидите страницы каталога, на которых представлены продукты из выбранной категории"/>		
+		<magnify value="Нажмите на Увеличить/Уменьшить, чтобы посмотреть изображение продукта крупнее"/>
+		<print value="Нажмите на эту кнопку, чтобы распечатать страницу"/>
+		<favorite value="Нажмите на &quot;Сделать закладку&quot;, чтобы добавить закладку для этой страницы. Вы можете добавить примечания и сохранить их на закладке. Нажмите на &quot;Удалить закладку&quot;, чтобы убрать закладку со страницы. Закладки отображаются справа на страницах каталога"/>
+		<emailtofriend value="Чтобы отправить страницу по электронной почте, нажмте на кнопку. Отправку можно сделать на несколько адресов, вводя адреса получателей в адресную строку и разделяя их запятой"/>
+		<shoppingbag value="В окошке &quot;Добавить к товар в заказ&quot; введите требуемое количество. Для просмотра заказа, нажмите на свою корзину в правом верхнем углу экрана. В корзине можно удалить продукцию или исправить количество, а потом отправить корзину в заказ"/>
+		<contactus text="Свяжитесь с нами" value=""/>
+	</help>
+	
+	<bookmark>
+		<thumbnail tip="Нажмите, чтобы открыть страницу"/>
+		<maxlimit value="вы достигли максимального количества закладок. Вы больше не можете добавить"/>
+	<maxlimit value="Чтобы создать новую закладку, нужно удалить существующую"/>
+		<maxlimitheader value="Лимит количества закладок превышен"/>
+	</bookmark>
+	
+	<loaderpage>
+		<loading value="ЗАГРУЗКА"/>
+	</loaderpage>
+	
+	<errors>
+		<multiemail value="Формат электронного адреса неверен"/>
+		<requiredfielderror value="Обязательное для заполнения поле"/>
+		
+		<decimalpointcounterror value="Разделитель разряда может использоваться только один раз"/> 
+	 	<integererror phone="Номер телефона должен быть числовым" quantity="Введите номер телефона" value="Номер должен быть числом"/>
+		<invalidcharerror value="Введенные данные содержат некорректные символы"/> 
+		<invalidformatcharserror value="Один из параметров форматирования некорректен"/> 
+	 	<negativeerror value="Количество не может быть отрицательным"/> 
+		<precisionerror value="Слишком много знаков после запятой"/> 
+		<separationerror value="-"/>
+		<exceedsmaxerror goto="Вы превысили количество всех страниц" value="Введенное количество слишком большое"/>
+		<lowerthanminerror goto="Введите номер страницы" phone3D="Номер телефона долженм содержать 11 знаков" phone4D="" qty="Введите количество" value="Введенное количество слишком мало"/>
+		 
+		<toolongerror value="Значение превышает максимально допустимое - должно быть менее {0} знаков"/>
+		<tooshorterror value="Значение меньше минимального -  должно быть {0} знаков"/>
+	
+	
+	
+		<zipinvalidcharerror value="Неверный почтовый индекс"/>
+		<zipinvaliddomainerror value=""/>
+		<wrongcaformaterror value=""/>
+		<wronglengtherror value=""/>
+		<wrongusformaterror value=""/>
+		
+		
+		<emailinvalidcharerror value="Адрес содержит некорректные знаки"/>
+		<emailinvaliddomainerror value="Адрес содержит некорректные знаки"/>
+		<invalidipdomainerror value="Адрес содержит некорректные знаки"/> 
+		<invalidperiodsindomainerror value="Адрес содержит некорректные знаки"/> 
+		<missingatsignerror value="В адресе пропущен знак @"/>
+		<missingperiodindomainerror value="В адресе пропущена точка"/>
+		<missingusernameerror value="Адрес содержит некорректные знаки"/>
+		<toomanyatsignserror value="В адресе слишком много знаков @"/>
+		 
+		<specialCharacterNotAllowedError value="Поле &quot;Имя&quot; не может содержать специальные символы"/>
+		<numeralNotAllowedError value="Поле &quot;Имя&quot; не может содержать цифры"/>
+		<spaceNotAllowedError value="Поле &quot;Имя&quot; не может содержать пробелы"/>
+
+	</errors>
+	
+	<alertlabels>
+		<ok value="ОК"/>
+		<yes value="Да"/>
+		<no value="Нет"/>
+	</alertlabels>
+
+	<omniture account="avonua" qaeaccount="avonceeqa" curr="UAH">
+		<index value="CFT"/>
+	</omniture>
+
+</editorials>
