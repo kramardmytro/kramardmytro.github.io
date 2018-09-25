@@ -9,9 +9,12 @@
 		<button>Submit</button>
 	</form>
 	<script type="text/javascript">
-		$.post("test.php", {name:name}, function(response){
-			alert(response);
-		}
+		$("button").click(function(){
+			$.post("test.php", {name:name}, function(response){
+				alert(response);
+			}
+			event.preventDefault();
+		});
 	</script>
 </body>
 </html>

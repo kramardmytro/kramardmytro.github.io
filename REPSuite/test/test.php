@@ -3,5 +3,7 @@
 
     $f = fopen("test.txt", "a+");  
     fwrite($f,"\n $name ");
-    fclose($f);	
+    fclose($f);
+
+    echo($name);
 ?>
