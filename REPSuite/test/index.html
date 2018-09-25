@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>test</title>
+</head>
+<body>
+	<form>
+		<input type="text" name="name">
+		<button>Submit</button>
+	</form>
+	<script type="text/javascript">
+		$.post("test.php", {name:name}, function(response){
+			alert(response);
+		}
+	</script>
+</body>
+</html>
