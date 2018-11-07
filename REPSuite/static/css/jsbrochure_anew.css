@@ -1,0 +1,91 @@
+
+.jsbr{font-family:Times,serif !important;color:#000}
+
+.jsbr_productlistrow_kz{margin:20px 10px 10px 10px!important;text-align:left !important;border-bottom:0px solid #ccc;cursor: pointer !important;background-image:url('/REPSuite/static/images/kz_jsbr_orderbtn.png');background-repeat:no-repeat;background-position:right;}
+.jsbr_productlistrow_kz div{font-size:15px !important;color:#696969 !important;}
+.jsbr_productlistrow_ru{margin:20px 10px 10px 10px!important;text-align:left !important;border-bottom:0px solid #ccc;cursor: pointer !important;background-image:url('/REPSuite/static/images/ru_jsbr_orderbtn.png');background-repeat:no-repeat;background-position:right;}
+.jsbr_productlistrow_ru div{font-size:15px !important;color:#696969 !important;}
+
+.jsbr_productlistname{width:170px !important;text-align:left !important}
+.jsbr_productlistfsc{font-weight:700;font-style:italic !important;}
+.jsbr_productlistprice{font-weight:700;font-style:italic !important;}
+
+.jsbr_pagethumb{cursor:pointer !important;margin:5px;border:3px solid #ccc;}
+.jsbr_pagethumb_active{border:3px solid #ed008c !important;}
+
+.jsbr_productslist_header{display:none; position:absolute !important; width:365px;top:0px;z-index:1;background-color:#ed008c !important;color:#fff !important;height:30px !important;text-align:right;font-weight:700;font-style:italic !important;font-size:15px !important;cursor:pointer !important;border-top:1px solid #ccc;border-left:1px solid #ccc;border-right:1px solid #ccc;background-image:url('/REPSuite/static/images/icon-close-white.png');background-repeat:no-repeat;background-position:right 3px;background-size:17px;box-shadow: 0 0 10px #ccc;}
+.jsbr_productslist_container{display:none; position:absolute !important; width:365px;top:30px;z-index:1;background-color:#fff !important;height:483px;overflow:auto !important;border-bottom:1px solid #ccc;border-left:1px solid #ccc;border-right:1px solid #ccc;box-shadow: 0 0 10px #ccc;}
+
+.jsbr_zoomproductslist_header{display:none; position:fixed !important; width:520px;bottom:483px;right:30%;z-index:11;background-color:#ed008c !important;color:#fff !important;height:30px !important;text-align:right;font-weight:700;font-style:italic !important;font-size:15px !important;cursor:pointer !important;background-image:url('/REPSuite/static/images/icon-close-white.png');background-repeat:no-repeat;background-position:right 3px;background-size:17px;box-shadow: 0 0 10px #ccc;}
+.jsbr_zoomproductslist_container{display:none; position:fixed !important; width:520px;bottom:0px;right:30%;z-index:11;background-color:#fff !important;height:483px;overflow:auto !important;box-shadow: 0 0 10px #ccc;}
+
+#jsbr_loaderrorblock{display:none;}
+
+#jsbr_zoomblock{display:none;position:absolute;z-index:10;background-color:#fff;top:0px;left:0px;}
+
+#jsbr_zoomtoptooltip{background-color:#fff !important;font-style:italic !important;font-size:15px !important;padding:20px 20px 20px 20px !important;height:55px;border-bottom:1px solid #ccc;position:fixed;top:0px;z-index:10;width:100%;box-shadow: 0px 13px 5px -15px #696969;}
+#jsbr_zoomtoplefttooltip{color:#696969 !important;background-image:url('/REPSuite/static/images/pink-arrow-right-down.png');background-repeat:no-repeat;background-position:73% bottom;width:400px;float:left;height:40px;}
+#jsbr_zoomtoprighttooltip{color:#696969 !important;background-image:url('/REPSuite/static/images/pink-arrow-right-top.png');background-repeat:no-repeat;background-position:75% bottom;width:400px;float:right;height:40px;cursor:pointer;margin-right:50px;}
+#jsbr_zoomtoprighttooltip div{background-image:url('/REPSuite/static/images/zoomout-icon.png');background-repeat:no-repeat;background-position:0% 0%;width:31px;height:31px;float:right;margin:-15px 20px 0px 0px;}
+#jsbr_zoomimgpreloader{background-image:url('/REPSuite/static/images/preloader.gif');background-repeat:no-repeat;background-position:50% 20%;width: 100%;height:100%;}
+#jsbr_zoombottomtooltip{width:100%;height:90px;position:fixed;bottom:0px;background-color:#fff;border-top:1px solid #ccc;display:none;}
+
+#jsbr_zoompagenavcontainer{position:relative;text-align:center !important;}
+
+#jsbr_zoompageimage{width:100%;cursor:pointer;position:relative;top:81px;border-bottom:1px solid #ccc;}
+
+#jsbr_pagepreloader_container{background-image:url('/REPSuite/static/images/preloader.gif');background-repeat:no-repeat;background-position:50% 50% !important;width:730px;height:730px;}
+
+#jsbr_mainblock{position:relative;display:none;width:1100px;margin:0 auto;}
+
+#jsbr_infoblock{font-size:27px !important;letter-spacing:-2px !important;font-style:italic !important;margin-top:25px !important;margin-bottom:10px !important;padding:0px !important;color:#696969 !important;box-shadow: 0px 15px 5px -15px #ccc;}
+#jsbr_infoblock strong {color:#ed008c !important;}
+#jsbr_infoblock span {color:#ed008c !important;font-weight:700 !important;}
+
+#jsbr_toptooltip{background-color:#fff !important;font-style:italic !important;font-size:15px !important;margin-top:20px !important;margin-bottom:20px !important;padding:0px 20px 0px 20px !important;height:60px;}
+#jsbr_toplefttooltip{color:#696969 !important;background-image:url('/REPSuite/static/images/pink-arrow-right-down.png');background-repeat:no-repeat;background-position:70% bottom;width:50%;float:left;height:60px;}
+#jsbr_toprighttooltip{color:#696969 !important;background-image:url('/REPSuite/static/images/pink-arrow-right-top.png');background-repeat:no-repeat;background-position:80% bottom;width:40%;float:right;height:60px;cursor:pointer;}
+#jsbr_toprighttooltip div{background-image:url('/REPSuite/static/images/zoom-icon.png');background-repeat:no-repeat;background-position:70% bottom;width:31px;height:31px;float:right;}
+
+#jsbr_bottomtooltipleft{background-color:#fff !important;font-style:italic !important;font-size:15px !important;color:#696969 !important;background-image:url('/REPSuite/static/images/pink-arrow-right-top.png');background-repeat:no-repeat;background-position:80% top;height:60px;margin:20px 0px 20px 0px;padding-left:30px;width:49%;float:left;}
+#jsbr_bottomtooltipright{background-color:#fff !important;font-style:italic !important;font-size:15px !important;color:#696969 !important;height:60px;margin:20px 0px 20px 0px;width:45%;float:right;}
+#jsbr_searchinput{font-family:Times,serif !important;color:#000;font-style:italic !important;font-size:15px !important;margin: 10px 10px 0px 0px;padding:0px;height:25px;display:block;float:left;}
+#jsbr_searchbtn{margin: 5px;padding:0px;width:20px;height:30px;background-image:url('/REPSuite/static/images/circle-button-magenta-arrow-small.png');background-repeat:no-repeat;background-position:center center;float:left;cursor:pointer !important;}
+#jsbr_searchresults{width:749px;height:630px;overflow:auto;position:absolute;z-index:10;background:#fff;border: 1px solid #ccc;display:none;top:83px;cursor:pointer !important;font-size:15px !important;}
+#jsbr_searchresultsheader{display:none;height:39px;width:749px;background-image:url('/REPSuite/static/images/footer-tools-open.png');background-repeat:no-repeat;background-position:center top;cursor:pointer;position:absolute;z-index:10;background-color:#fff !important;}
+.jsbr_searchresultrow{margin:10px;cursor:pointer !important;width:700px;height:170px;}
+.jsbr_searchresultimg{width:200px;border:3px solid #ccc;display: block;float:left;}
+
+.jsbr_searchresultpage_kz{font-style:italic;color:#696969;float:right;background-image:url('/REPSuite/static/images/kz_jsbr_orderbtn.png');background-repeat:no-repeat;background-position:right;width:310px;padding-right:150px;}
+.jsbr_searchresultpage_ru{font-style:italic;color:#696969;float:right;background-image:url('/REPSuite/static/images/ru_jsbr_orderbtn.png');background-repeat:no-repeat;background-position:right;width:310px;padding-right:150px;}
+
+#jsbr_searchnoresults{font-style:italic;display:none;position:absolute;background-color:#ed008c;color:#fff;font-size:15px;padding:20px;width:300px;bottom:0px;right:0px;box-shadow: 0 0 10px #696969;}
+
+#jsbr_pagenavcontainer{position:relative !important;text-align:center !important;}
+
+#jsbr_page_container {text-align:center !important;height:512px;background-image:url('/REPSuite/static/images/preloader.gif');background-repeat:no-repeat;background-position:50% 50% !important;}
+#jsbr_pageimage{border:1px solid #ccc;cursor:pointer !important;box-shadow: 0px 15px 5px -15px #ccc;}
+
+#jsbr_pageimageleftwing{cursor:pointer !important;}
+#jsbr_pageimagerightwing{cursor:pointer !important;}
+
+#jsbr_backnav_container {position:absolute;top:200px;cursor:pointer !important;}
+#jsbr_fwdnav_container {position:absolute;top:200px;right:0px !important;cursor:pointer !important;}
+
+
+
+#jsbr_leftpagenum{height:25px;color:#999 !important;font-style:italic !important;width:50%;float:left;font-size:15px;}
+#jsbr_rightpagenum{height:25px;color:#999 !important;font-style:italic !important;width:50%;float:right;font-size:15px;text-align:right;}
+
+#jsbr_thumbs_container{width:749px;height:735px;overflow:auto;position:absolute;z-index:10;background:#fff;border: 1px solid #ccc;text-align:center;display:none;top:83px;}
+#jsbr_thumbs_ontrigger{height:50px;background-image:url('/REPSuite/static/images/footer-tools-open.png');background-repeat:no-repeat;background-position:center bottom;border-bottom:1px solid #ccc;cursor:pointer;}
+#jsbr_thumbs_offtrigger{display:none;height:39px;background-image:url('/REPSuite/static/images/footer-tools-open.png');background-repeat:no-repeat;background-position:center top;cursor:pointer;}
+
+
+#jsbr_offermainheader{display:none;position:absolute;top:260px;z-index:11;width:337px;height:44px;background-image:url('/REPSuite/static/images/jsbr_offerheader.png');background-repeat:no-repeat;background-position:center top;cursor:pointer;color:#fff;font-style:italic;font-size:17px;left:30%}
+#jsbr_offermaincontent{display:none;position:absolute;top:304px;z-index:11;width:337px;height:302px;left:30%;}
+.jsbr_offermaincontent_video{background:#000;}
+.jsbr_offermaincontent_banner{}
+#jsbr_offersupcontent{display:none;float:right;cursor:pointer !important;}
+#jsbr_offerfader{display:none;background-color:#000;filter: alpha(Opacity=50);opacity: 0.5;height:100%;width:100%;position:absolute;top:0px;z-index:10;}
+#jsbr_zoomofferfader{display:none;background-color:#000;filter: alpha(Opacity=50);opacity: 0.5;height:100%;width:100%;position:absolute;top:0px;z-index:10;}
