@@ -1,5 +1,5 @@
 
-.jsbr{font-family:Times,serif !important;color:#000}
+.jsbr{font-family:Arial !important;color:#000}
 
 .jsbr_productlistrow_kz{margin:20px 10px 10px 10px!important;text-align:left !important;border-bottom:0px solid #ccc;cursor: pointer !important;background-image:url('/REPSuite/static/images/kz_jsbr_orderbtn.png');background-repeat:no-repeat;background-position:right;}
 .jsbr_productlistrow_kz div{font-size:15px !important;color:#696969 !important;}
@@ -38,17 +38,17 @@
 
 #jsbr_mainblock{position:relative;display:none;width:800px;margin:0 auto;}
 
-#jsbr_infoblock{font-size:27px !important;letter-spacing:-2px !important;font-style:italic !important;margin-top:25px !important;margin-bottom:10px !important;padding:0px !important;color:#696969 !important;box-shadow: 0px 15px 5px -15px #ccc;}
+#jsbr_infoblock{font-size:24px !important;margin-top:20px !important;margin-bottom:10px !important;padding:0px !important;color:#696969 !important;box-shadow: 0px 15px 5px -15px #ccc;}
 #jsbr_infoblock strong {color:#ed008c !important;}
 #jsbr_infoblock span {color:#ed008c !important;font-weight:700 !important;}
 
-#jsbr_toptooltip{background-color:#fff !important;font-style:italic !important;font-size:15px !important;margin-top:20px !important;margin-bottom:20px !important;padding:0px 20px 0px 20px !important;height:60px;}
+#jsbr_toptooltip{background-color:#fff !important;font-size:15px !important;margin-top:20px !important;margin-bottom:20px !important;padding:0px 20px 0px 20px !important;height:60px;}
 #jsbr_toplefttooltip{color:#696969 !important;background-image:url('/REPSuite/static/images/pink-arrow-right-down.png');background-repeat:no-repeat;background-position:70% bottom;width:50%;float:left;height:60px;}
 #jsbr_toprighttooltip{color:#696969 !important;background-image:url('/REPSuite/static/images/pink-arrow-right-top.png');background-repeat:no-repeat;background-position:80% bottom;width:40%;float:right;height:60px;cursor:pointer;}
 #jsbr_toprighttooltip div{background-image:url('/REPSuite/static/images/zoom-icon.png');background-repeat:no-repeat;background-position:70% bottom;width:31px;height:31px;float:right;}
 
-#jsbr_bottomtooltipleft{background-color:#fff !important;font-style:italic !important;font-size:15px !important;color:#696969 !important;background-image:url('/REPSuite/static/images/pink-arrow-right-top.png');background-repeat:no-repeat;background-position:80% top;height:60px;margin:20px 0px 20px 0px;padding-left:30px;width:49%;float:left;}
-#jsbr_bottomtooltipright{background-color:#fff !important;font-style:italic !important;font-size:15px !important;color:#696969 !important;height:60px;margin:20px 0px 20px 0px;width:45%;float:right;}
+#jsbr_bottomtooltipleft{background-color:#fff !important;font-size:15px !important;color:#696969 !important;background-image:url('/REPSuite/static/images/pink-arrow-right-top.png');background-repeat:no-repeat;background-position:80% top;height:60px;margin:20px 0px 20px 0px;padding-left:30px;width:49%;float:left;}
+#jsbr_bottomtooltipright{background-color:#fff !important;font-size:15px !important;color:#696969 !important;height:60px;margin:20px 0px 20px 0px;width:45%;float:right;}
 #jsbr_searchinput{font-family:Times,serif !important;color:#000;font-style:italic !important;font-size:15px !important;margin: 10px 10px 0px 0px;padding:0px;height:25px;display:block;float:left;}
 #jsbr_searchbtn{margin: 5px;padding:0px;width:20px;height:30px;background-image:url('/REPSuite/static/images/circle-button-magenta-arrow-small.png');background-repeat:no-repeat;background-position:center center;float:left;cursor:pointer !important;}
 #jsbr_searchresults{width:749px;height:630px;overflow:auto;position:absolute;z-index:10;background:#fff;border: 1px solid #ccc;display:none;top:83px;cursor:pointer !important;font-size:15px !important;}
@@ -74,8 +74,8 @@
 
 
 
-#jsbr_leftpagenum{height:25px;color:#999 !important;font-style:italic !important;width:50%;float:left;font-size:15px;}
-#jsbr_rightpagenum{height:25px;color:#999 !important;font-style:italic !important;width:50%;float:right;font-size:15px;text-align:right;}
+#jsbr_leftpagenum{height:25px;color:#999 !important;width:50%;float:left;font-size:15px;}
+#jsbr_rightpagenum{height:25px;color:#999 !important;width:50%;float:right;font-size:15px;text-align:right;}
 
 #jsbr_thumbs_container{width:749px;height:735px;overflow:auto;position:absolute;z-index:10;background:#fff;border: 1px solid #ccc;text-align:center;display:none;top:83px;}
 #jsbr_thumbs_ontrigger{height:50px;background-image:url('/REPSuite/static/images/footer-tools-open.png');background-repeat:no-repeat;background-position:center bottom;border-bottom:1px solid #ccc;cursor:pointer;}
@@ -89,3 +89,15 @@
 #jsbr_offersupcontent{display:none;float:right;cursor:pointer !important;}
 #jsbr_offerfader{display:none;background-color:#000;filter: alpha(Opacity=50);opacity: 0.5;height:100%;width:100%;position:absolute;top:0px;z-index:10;}
 #jsbr_zoomofferfader{display:none;background-color:#000;filter: alpha(Opacity=50);opacity: 0.5;height:100%;width:100%;position:absolute;top:0px;z-index:10;}
+
+#js_back_to_order {
+    background-color: #ed008c;
+    color: #fff !important;
+    font-weight: normal !important;
+    font-size: 16px !important;
+    padding: 5px 15px !important;
+    border-radius: 2px;
+    margin-left: 250px;
+    position: relative;
+    bottom: 5px;
+}
