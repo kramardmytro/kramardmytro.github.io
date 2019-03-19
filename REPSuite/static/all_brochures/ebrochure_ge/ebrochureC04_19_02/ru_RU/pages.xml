@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<avon total="3"><cover addtobag="1" category=""><limage url="assets/images/large/cover.jpg"/><mimage url="assets/images/medium/cover.jpg"/><simage url="assets/images/small/cover.jpg"/></cover><page addtobag="1" id="1" category=""><limage url="assets/images/large/002.jpg"/><mimage url="assets/images/medium/002.jpg"/><simage url="assets/images/small/002.jpg"/></page><page addtobag="1" id="2" category=""><limage url="assets/images/large/004.jpg"/><mimage url="assets/images/medium/004.jpg"/><simage url="assets/images/small/004.jpg"/></page><page addtobag="1" id="3" category=""><limage url="assets/images/large/006.jpg"/><mimage url="assets/images/medium/006.jpg"/><simage url="assets/images/small/006.jpg"/></page><back addtobag="1" category=""><limage url="assets/images/large/back.jpg"/><mimage url="assets/images/medium/back.jpg"/><simage url="assets/images/small/back.jpg"/></back>
+  <categories>
+ <category value="" width="230"/> 
+ 	 </categories>
+
+<omniture account="avonge" curr="GEL" qaeaccount="avonceeqa">
+  <index value="CFT"/> 
+  </omniture>
+  </avon>
