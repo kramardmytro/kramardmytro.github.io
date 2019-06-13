@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<avon total="3">
+    <cover addtobag="1" category="">
+        <limage url="assets/images/large/cover.jpg"/>
+        <mimage url="assets/images/medium/cover.jpg"/>
+        <simage url="assets/images/small/cover.jpg"/>
+    </cover>
+    <page addtobag="1" id="1" category="">
+        <limage url="assets/images/large/002.jpg"/>
+        <mimage url="assets/images/medium/002.jpg"/>
+        <simage url="assets/images/small/002.jpg"/>
+        <product id="12719" name="Спа. Очищувальна Маска Д/Обл З Глиною І " price="0" height="450" width="450" y="0"
+                 x="0">
+            <subproduct id="22329" name="Крем-Гель Д/Душу &quot;Чарівне Королівство&quot;" price="0" height="100"
+                        width="100" y="10" x="10"/>
+            <subproduct id="22667" name="Гель Д/Душу &quot;Зачарований Рай&quot; 500мл" price="0" height="100"
+                        width="100" y="10" x="10"/>
+            <subproduct id="23077" name="Гель Д/Душу &quot;Кір Рояль&quot; 250 Мл" price="0" height="100" width="100"
+                        y="10" x="10"/>
+            <subproduct id="46021" name="Рушник, Бордовий." price="0" height="100" width="100" y="10" x="10"/>
+            <subproduct id="70149" name="Лосьйон-Спрей Д/Тіла &quot;Аром.Апельс.Цвіт&quot;" price="0" height="100"
+                        width="100" y="10" x="10"/>
+            <subproduct id="54362" name="Лосьон-Спрей Д/Тіла &quot;Стиглий Рожевий Гре" price="0" height="100"
+                        width="100" y="10" x="10"/>
+            <subproduct id="40632" name="Гель Д/Душу З Ароматом Ожини І Ванілі" price="0" height="100" width="100"
+                        y="10" x="10"/>
+            <subproduct id="71692" name="Піна Д/Ванни З Аромат.Ванілі/Орхід.250мл" price="0" height="100" width="100"
+                        y="10" x="10"/>
+            <subproduct id="40854" name="Лосьйон-Спрей Д/Тіла З Аромат.Ожин/Ваніл" price="0" height="100" width="100"
+                        y="10" x="10"/>
+            <subproduct id="60600" name="Спа Охолодж. Маска Д/Обл. &quot;Тоніз/Гармоні" price="0" height="100"
+                        width="100" y="10" x="10"/>
+            <subproduct id="45585" name="Маска Д/Обличчя &quot;Скарби Бразилії&quot;" price="0" height="100" width="100"
+                        y="10" x="10"/>
+            <subproduct id="57206" name="Спрей Д/Фарб.Волосся &quot;Захист Кольору&quot;" price="0" height="100"
+                        width="100" y="10" x="10"/>
+        </product>
+        <product id="48257" name="Лак Д/Нігтів &quot;Експерт Кольору&quot; Натюрель " price="0" height="450" width="450"
+                 y="0" x="429">
+            <subproduct id="60172" name="Зажим Д/Волосся. Сріблястий" price="0" height="100" width="100" y="10" x="10"/>
+            <subproduct id="77127" name="Набір Д/Волосся &quot;Дорогоцінні Олії&quot;" price="0" height="100"
+                        width="100" y="10" x="10"/>
+            <subproduct id="31806" name="Палітра Тіней Д/Повік Luxe. Темні Ночі" price="0" height="100" width="100"
+                        y="10" x="10"/>
+            <subproduct id="29591" name="Шпильки Для Укладання Волосся (2 Шт)" price="0" height="100" width="100" y="10"
+                        x="10"/>
+            <subproduct id="31315" name="Набір Пензликів Д/Макіяжу" price="0" height="100" width="100" y="10" x="10"/>
+            <subproduct id="30250" name="Рум'Яна &quot;Ніжне Сяйво&quot; Рожеве Сяйво" price="0" height="100"
+                        width="100" y="10" x="10"/>
+            <subproduct id="16240" name="Парф.-Космет. Набір Attractіon Д/Нього" price="0" height="100" width="100"
+                        y="10" x="10"/>
+            <subproduct id="15901" name="Парф.-Космет. Набір Attractіon Д/Неї" price="0" height="100" width="100" y="10"
+                        x="10"/>
+            <subproduct id="97782" name="Лак Д/Нігтів &quot;Дизайн-Студія. Неон&quot; Апель" price="0" height="100"
+                        width="100" y="10" x="10"/>
+            <subproduct id="09020" name="Набір Для Манікюру" price="0" height="100" width="100" y="10" x="10"/>
+            <subproduct id="97297" name="Лак Д/Нігтів &quot;Дизайн-Студія. Неон&quot; Сині" price="0" height="100"
+                        width="100" y="10" x="10"/>
+            <subproduct id="97817" name="Лак Д/Нігтів &quot;Дизайн-Студія. Неон&quot; Черво" price="0" height="100"
+                        width="100" y="10" x="10"/>
+            <subproduct id="49426" name="Лак Д/Нігтів &quot;Експерт Кольору&quot; Троянда" price="0" height="100"
+                        width="100" y="10" x="10"/>
+            <subproduct id="05460" name="Лак Д/Нігтів &quot;Дизайн-Студія. Неон&quot; Соняч" price="0" height="100"
+                        width="100" y="10" x="10"/>
+            <subproduct id="49730" name="Лак Д/Нігтів &quot;Експерт Кольору&quot; Перлина" price="0" height="100"
+                        width="100" y="10" x="10"/>
+            <subproduct id="46839" name="Лак Д/Нігтів &quot;Експерт Кольору&quot; Бузок" price="0" height="100"
+                        width="100" y="10" x="10"/>
+            <subproduct id="05265" name="Лак Д/Нігтів &quot;Дизайн-Студія. Неон&quot; Смара" price="0" height="100"
+                        width="100" y="10" x="10"/>
+            <subproduct id="97820" name="Лак Д/Нігтів &quot;Дизайн-Студія. Неон&quot; Рожев" price="0" height="100"
+                        width="100" y="10" x="10"/>
+        </product>
+    </page>
+    <page addtobag="1" id="2" category="">
+        <limage url="assets/images/large/004.jpg"/>
+        <mimage url="assets/images/medium/004.jpg"/>
+        <simage url="assets/images/small/004.jpg"/>
+        <product id="63657" name="Брошка &quot;Птахи&quot;" price="0" height="450" width="450" y="0" x="0">
+            <subproduct id="64202" name="Сережки &quot;Елеонора&quot;" price="0" height="100" width="100" y="10"
+                        x="10"/>
+            <subproduct id="58580" name="Набір Сережок &quot;Тереза&quot; (3 Шт)" price="0" height="100" width="100"
+                        y="10" x="10"/>
+            <subproduct id="42861" name="Сережки &quot;Десі&quot;" price="0" height="100" width="100" y="10" x="10"/>
+            <subproduct id="65086" name="Сережки &quot;Шела&quot;" price="0" height="100" width="100" y="10" x="10"/>
+            <subproduct id="69895" name="Сережки &quot;Робін&quot;.Аквамарин" price="0" height="100" width="100" y="10"
+                        x="10"/>
+            <subproduct id="69256" name="Сережки &quot;Робін&quot;.Темно-Червоні" price="0" height="100" width="100"
+                        y="10" x="10"/>
+            <subproduct id="69958" name="Сережки &quot;Робін&quot;.Прозорі" price="0" height="100" width="100" y="10"
+                        x="10"/>
+            <subproduct id="70108" name="Сережки &quot;Робін&quot;.Смарагд" price="0" height="100" width="100" y="10"
+                        x="10"/>
+            <subproduct id="70117" name="Сережки &quot;Робін&quot;.Сапфір" price="0" height="100" width="100" y="10"
+                        x="10"/>
+            <subproduct id="65054" name="Сережки &quot;Альфі&quot;(Рожеві)" price="0" height="100" width="100" y="10"
+                        x="10"/>
+            <subproduct id="65024" name="Сережки &quot;Альфі&quot;(Сірі)" price="0" height="100" width="100" y="10"
+                        x="10"/>
+            <subproduct id="53250" name="Браслет &quot;Ноель&quot;" price="0" height="100" width="100" y="10" x="10"/>
+            <subproduct id="62260" name="Браслет&quot;Збережемо Планету Разом&quot;Золотист" price="0" height="100"
+                        width="100" y="10" x="10"/>
+            <subproduct id="48991" name="Браслет&quot;Збережемо Планету Разом&quot;Посрібле" price="0" height="100"
+                        width="100" y="10" x="10"/>
+            <subproduct id="26666" name="Браслет &quot;Райн&quot;" price="0" height="100" width="100" y="10" x="10"/>
+            <subproduct id="44646" name="Браслет З Підвісками.Золотисто-Рожевий" price="0" height="100" width="100"
+                        y="10" x="10"/>
+            <subproduct id="53935" name="Каблучка &quot;Еліша&quot;. Розмір 6" price="0" height="100" width="100" y="10"
+                        x="10"/>
+            <subproduct id="56121" name="Каблучка &quot;Еліша&quot;. Розмір 8" price="0" height="100" width="100" y="10"
+                        x="10"/>
+            <subproduct id="56737" name="Каблучка &quot;Еліша&quot;. Розмір 10" price="0" height="100" width="100"
+                        y="10" x="10"/>
+            <subproduct id="63795" name="Сережки &quot;Орва&quot;" price="0" height="100" width="100" y="10" x="10"/>
+            <subproduct id="63785" name="Каблучка &quot;Марі&quot;,Розмір 6" price="0" height="100" width="100" y="10"
+                        x="10"/>
+            <subproduct id="63787" name="Каблучка &quot;Марі&quot;,Розмір 8" price="0" height="100" width="100" y="10"
+                        x="10"/>
+            <subproduct id="63794" name="Каблучка &quot;Марі&quot;,Розмір 10" price="0" height="100" width="100" y="10"
+                        x="10"/>
+            <subproduct id="88236" name="Брошка &quot;Різдвяна Ялинка&quot;" price="0" height="100" width="100" y="10"
+                        x="10"/>
+            <subproduct id="46721" name="Брошка &quot;Птах&quot;" price="0" height="100" width="100" y="10" x="10"/>
+        </product>
+        <product id="19984" name="Комплект Біжутерії &quot;Лейла&quot;.Прозорий" price="0" height="450" width="450"
+                 y="0" x="429">
+            <subproduct id="45590" name="Намисто &quot;Кейті&quot;" price="0" height="100" width="100" y="10" x="10"/>
+            <subproduct id="87989" name="Набір Прикрас &quot;Колетта&quot;:Кольє(3)Сережк(3" price="0" height="100"
+                        width="100" y="10" x="10"/>
+            <subproduct id="45113" name="Набір Прикрас &quot;Кейті&quot;:Ланц З/Підв.Сережк" price="0" height="100"
+                        width="100" y="10" x="10"/>
+            <subproduct id="45471" name="Браслет &quot;Кейті&quot;" price="0" height="100" width="100" y="10" x="10"/>
+            <subproduct id="47947" name="Каблучка &quot;Бетані&quot;. Розмір 6" price="0" height="100" width="100"
+                        y="10" x="10"/>
+            <subproduct id="48047" name="Каблучка &quot;Бетані&quot;. Розмір 8" price="0" height="100" width="100"
+                        y="10" x="10"/>
+            <subproduct id="50320" name="Каблучка &quot;Бетані&quot;. Розмір 10" price="0" height="100" width="100"
+                        y="10" x="10"/>
+            <subproduct id="92780" name="Ланцюжок З Підвіскою &quot;Бетані&quot;" price="0" height="100" width="100"
+                        y="10" x="10"/>
+            <subproduct id="46457" name="Комплект Прикрас &quot;Ребека&quot; Рубіновий" price="0" height="100"
+                        width="100" y="10" x="10"/>
+            <subproduct id="51324" name="Комплект Прикрас &quot;Ребека&quot; Сапфіровий" price="0" height="100"
+                        width="100" y="10" x="10"/>
+            <subproduct id="50967" name="Комплект Прикрас &quot;Ребека&quot; Смарагдовий" price="0" height="100"
+                        width="100" y="10" x="10"/>
+            <subproduct id="82303" name="Комплект Біжутерії &quot;Гіна&quot;:Кольє+Сережки" price="0" height="100"
+                        width="100" y="10" x="10"/>
+            <subproduct id="45112" name="Набір Прикрас &quot;Анабель&quot;" price="0" height="100" width="100" y="10"
+                        x="10"/>
+            <subproduct id="67398" name="Набір Прикрас &quot;Пініта&quot;. Темний" price="0" height="100" width="100"
+                        y="10" x="10"/>
+            <subproduct id="29765" name="Набір Прикрас &quot;Пініта&quot;. Золотистий" price="0" height="100"
+                        width="100" y="10" x="10"/>
+            <subproduct id="42017" name="Комплект Біжутерії &quot;Перріс&quot;" price="0" height="100" width="100"
+                        y="10" x="10"/>
+            <subproduct id="60315" name="Комплект Біжутерії &quot;Альба&quot;" price="0" height="100" width="100" y="10"
+                        x="10"/>
+            <subproduct id="19487" name="Комплект Біжутерії &quot;Лейла&quot;.Смарагдовий" price="0" height="100"
+                        width="100" y="10" x="10"/>
+            <subproduct id="19806" name="Комплект Біжутерії &quot;Лейла&quot;.Темно-Червони" price="0" height="100"
+                        width="100" y="10" x="10"/>
+            <subproduct id="19491" name="Комплект Біжутерії &quot;Лейла&quot;.Сапфіровий" price="0" height="100"
+                        width="100" y="10" x="10"/>
+        </product>
+    </page>
+    <page addtobag="1" id="3" category="">
+        <limage url="assets/images/large/006.jpg"/>
+        <mimage url="assets/images/medium/006.jpg"/>
+        <simage url="assets/images/small/006.jpg"/>
+        <product id="48293" name="Кольє &quot;Юліана&quot;" price="0" height="450" width="450" y="0" x="0">
+            <subproduct id="58268" name="Прикраса На Шию &quot;Ліббі&quot;, Рожева" price="0" height="100" width="100"
+                        y="10" x="10"/>
+            <subproduct id="57991" name="Прикраса На Шию &quot;Ліббі&quot;, Смарагд" price="0" height="100" width="100"
+                        y="10" x="10"/>
+            <subproduct id="57973" name="Прикраса На Шию &quot;Ліббі&quot;, Прозора" price="0" height="100" width="100"
+                        y="10" x="10"/>
+            <subproduct id="58017" name="Прикраса На Шию &quot;Ліббі&quot;, Темно-Червона" price="0" height="100"
+                        width="100" y="10" x="10"/>
+            <subproduct id="58319" name="Прикраса На Шию &quot;Ліббі&quot;, Топаз" price="0" height="100" width="100"
+                        y="10" x="10"/>
+            <subproduct id="58765" name="Прикраса На Шию &quot;Ліббі&quot;, Блакитний Цирко" price="0" height="100"
+                        width="100" y="10" x="10"/>
+            <subproduct id="58014" name="Прикраса На Шию &quot;Ліббі&quot;, Світлий Аметист" price="0" height="100"
+                        width="100" y="10" x="10"/>
+            <subproduct id="57108" name="Прикраса На Шию &quot;Ліббі&quot;, Темно-Червона" price="0" height="100"
+                        width="100" y="10" x="10"/>
+            <subproduct id="58058" name="Прикраса На Шию &quot;Ліббі&quot;, Сапфір" price="0" height="100" width="100"
+                        y="10" x="10"/>
+            <subproduct id="57936" name="Прикраса На Шию &quot;Ліббі&quot;, Аквамарин" price="0" height="100"
+                        width="100" y="10" x="10"/>
+            <subproduct id="57217" name="Прикраса На Шию &quot;Ліббі&quot;, Аметист" price="0" height="100" width="100"
+                        y="10" x="10"/>
+            <subproduct id="58031" name="Прикраса На Шию &quot;Ліббі&quot;, Світло-Зелена" price="0" height="100"
+                        width="100" y="10" x="10"/>
+            <subproduct id="26751" name="Прикраса На Шию &quot;Райн&quot;" price="0" height="100" width="100" y="10"
+                        x="10"/>
+            <subproduct id="64311" name="Ланцюжок З Підвіскою &quot;Джоена&quot;" price="0" height="100" width="100"
+                        y="10" x="10"/>
+            <subproduct id="48407" name="Кольє-Чокер &quot;Лалана&quot;" price="0" height="100" width="100" y="10"
+                        x="10"/>
+            <subproduct id="85840" name="Кольє &quot;Кері&quot;" price="0" height="100" width="100" y="10" x="10"/>
+            <subproduct id="42293" name="Каблучка &quot;Юліана&quot;. Розмір: 8" price="0" height="100" width="100"
+                        y="10" x="10"/>
+            <subproduct id="42387" name="Каблучка &quot;Юліана&quot;. Розмір: 10" price="0" height="100" width="100"
+                        y="10" x="10"/>
+            <subproduct id="77503" name="Каблучка &quot;Юліана&quot;. Розмір: 6" price="0" height="100" width="100"
+                        y="10" x="10"/>
+            <subproduct id="31357" name="Ланцюжок З Підвіскою &quot;Лама&quot;" price="0" height="100" width="100"
+                        y="10" x="10"/>
+            <subproduct id="48289" name="Браслет &quot;Юліана&quot;" price="0" height="100" width="100" y="10" x="10"/>
+            <subproduct id="59022" name="Ланцюжок З Підвіскою &quot;Уїтні&quot;" price="0" height="100" width="100"
+                        y="10" x="10"/>
+        </product>
+        <product id="52999" name="Лампа Д/Селфі" price="0" height="450" width="450" y="0" x="429">
+            <subproduct id="67900" name="Кольє &quot;Ране&quot;" price="0" height="100" width="100" y="10" x="10"/>
+            <subproduct id="63699" name="Кольє-Чокер &quot;Жоржетта&quot;" price="0" height="100" width="100" y="10"
+                        x="10"/>
+            <subproduct id="39316" name="Кольє &quot;Стейсі&quot;" price="0" height="100" width="100" y="10" x="10"/>
+            <subproduct id="91059" name="Набір &quot;Ашер&quot;" price="0" height="100" width="100" y="10" x="10"/>
+            <subproduct id="99799" name="Чоловічий Кварцевий Годинник &quot;Блейн&quot;" price="0" height="100"
+                        width="100" y="10" x="10"/>
+            <subproduct id="77902" name="Кольє &quot;Шила&quot;.Сапфір" price="0" height="100" width="100" y="10"
+                        x="10"/>
+            <subproduct id="46461" name="Кабель 2-В-1 Для Мобільних Пристроїв" price="0" height="100" width="100" y="10"
+                        x="10"/>
+            <subproduct id="77980" name="Кольє &quot;Шила&quot;.Прозорий" price="0" height="100" width="100" y="10"
+                        x="10"/>
+            <subproduct id="37793" name="Каблучка &quot;Налін&quot;.Прозорий.Розмір 6" price="0" height="100"
+                        width="100" y="10" x="10"/>
+            <subproduct id="38015" name="Каблучка &quot;Налін&quot;.Прозорий.Розмір 8" price="0" height="100"
+                        width="100" y="10" x="10"/>
+            <subproduct id="37783" name="Каблучка &quot;Налін&quot;.Прозорий.Розмір 10" price="0" height="100"
+                        width="100" y="10" x="10"/>
+            <subproduct id="37120" name="Каблучка &quot;Налін&quot;.Сапфір.Розмір 6" price="0" height="100" width="100"
+                        y="10" x="10"/>
+            <subproduct id="36761" name="Каблучка &quot;Налін&quot;.Сапфір.Розмір 8" price="0" height="100" width="100"
+                        y="10" x="10"/>
+            <subproduct id="37202" name="Каблучка &quot;Налін&quot;.Сапфір.Розмір 10" price="0" height="100" width="100"
+                        y="10" x="10"/>
+            <subproduct id="32506" name="Багатофункціональний Інструмент" price="0" height="100" width="100" y="10"
+                        x="10"/>
+            <subproduct id="71998" name="Блокнот-Магніт. Ведмежатко" price="0" height="100" width="100" y="10" x="10"/>
+            <subproduct id="72051" name="Блокнот-Магніт. Кошеня" price="0" height="100" width="100" y="10" x="10"/>
+            <subproduct id="33850" name="Набір Джойстиків На Екран Смартф/Планшет" price="0" height="100" width="100"
+                        y="10" x="10"/>
+            <subproduct id="19421" name="Кружка" price="0" height="100" width="100" y="10" x="10"/>
+        </product>
+    </page>
+    <back addtobag="1" category="">
+        <limage url="assets/images/large/back.jpg"/>
+        <mimage url="assets/images/medium/back.jpg"/>
+        <simage url="assets/images/small/back.jpg"/>
+        <product id="43576" name="Жіночий Гаманець &quot;Лілі&quot;" price="0" height="450" width="450" y="0" x="0">
+            <subproduct id="62272" name="Жіноча Сукня, Розмір 40-42" price="0" height="100" width="100" y="10" x="10"/>
+            <subproduct id="62537" name="Жіноча Сукня, Розмір 44-46" price="0" height="100" width="100" y="10" x="10"/>
+            <subproduct id="62797" name="Жіноча Сукня, Розмір 48-50" price="0" height="100" width="100" y="10" x="10"/>
+            <subproduct id="62803" name="Жіноча Сукня, Розмір 52-54" price="0" height="100" width="100" y="10" x="10"/>
+            <subproduct id="63150" name="Жіноча Сукня, Розмір 56-58" price="0" height="100" width="100" y="10" x="10"/>
+            <subproduct id="11517" name="Жіноча Сукня. Розмір 40-42 " price="0" height="100" width="100" y="10" x="10"/>
+            <subproduct id="11519" name="Жіноча Сукня. Розмір 44-46__" price="0" height="100" width="100" y="10"
+                        x="10"/>
+            <subproduct id="11716" name="Жіноча Сукня. Розмір 48-50" price="0" height="100" width="100" y="10" x="10"/>
+            <subproduct id="11717" name="Жіноча Сукня. Розмір 52-54" price="0" height="100" width="100" y="10" x="10"/>
+            <subproduct id="11718" name="Жіноча Сукня. Розмір 56-58__" price="0" height="100" width="100" y="10"
+                        x="10"/>
+            <subproduct id="13383" name="Жіноч. Домашній Одяг:Сукня. Розмір 40-42" price="0" height="100" width="100"
+                        y="10" x="10"/>
+            <subproduct id="13423" name="Жіноч. Домашній Одяг:Сукня. Розмір 44-46" price="0" height="100" width="100"
+                        y="10" x="10"/>
+            <subproduct id="13424" name="Жіноч. Домашній Одяг:Сукня. Розмір 48-50" price="0" height="100" width="100"
+                        y="10" x="10"/>
+            <subproduct id="13553" name="Жіноч. Домашній Одяг:Сукня. Розмір 52-54" price="0" height="100" width="100"
+                        y="10" x="10"/>
+            <subproduct id="13784" name="Жіноч. Домашній Одяг:Сукня. Розмір 56-58" price="0" height="100" width="100"
+                        y="10" x="10"/>
+            <subproduct id="87122" name="Жіноча Сукня. Розмір: 40/42" price="0" height="100" width="100" y="10" x="10"/>
+            <subproduct id="28682" name="Жіноча Сукня. Розмір: 44/46" price="0" height="100" width="100" y="10" x="10"/>
+            <subproduct id="30151" name="Жіноча Сукня. Розмір: 48/50" price="0" height="100" width="100" y="10" x="10"/>
+            <subproduct id="30286" name="Жіноча Сукня. Розмір: 52/54" price="0" height="100" width="100" y="10" x="10"/>
+            <subproduct id="87506" name="Жіноча Сукня. Розмір: 56/58" price="0" height="100" width="100" y="10" x="10"/>
+            <subproduct id="55308" name="Жіноча Толстовка Розмір 40-42" price="0" height="100" width="100" y="10"
+                        x="10"/>
+            <subproduct id="55507" name="Жіноча Толстовка Розмір 52-54" price="0" height="100" width="100" y="10"
+                        x="10"/>
+            <subproduct id="55508" name="Жіноча Толстовка Розмір 56-58" price="0" height="100" width="100" y="10"
+                        x="10"/>
+            <subproduct id="55801" name="Жіночий Шарф &quot;Кейтлін&quot;" price="0" height="100" width="100" y="10"
+                        x="10"/>
+            <subproduct id="92873" name="Жіноча Блузка, Розмір 40-42" price="0" height="100" width="100" y="10" x="10"/>
+            <subproduct id="92875" name="Жіноча Блузка, Розмір 44-46" price="0" height="100" width="100" y="10" x="10"/>
+            <subproduct id="93085" name="Жіноча Блузка, Розмір 56-58" price="0" height="100" width="100" y="10" x="10"/>
+            <subproduct id="55510" name="Жіночі Штани Д/Актив.Відпоч.Розмір 44-46" price="0" height="100" width="100"
+                        y="10" x="10"/>
+            <subproduct id="55511" name="Жіночі Штани Д/Актив.Відпоч.Розмір 48-50" price="0" height="100" width="100"
+                        y="10" x="10"/>
+            <subproduct id="06141" name="Жіночий Рюкзак &quot;Дарсі&quot;" price="0" height="100" width="100" y="10"
+                        x="10"/>
+            <subproduct id="56340" name="Жіноча Сумка &quot;Йоанна&quot;, Рожева" price="0" height="100" width="100"
+                        y="10" x="10"/>
+            <subproduct id="56339" name="Жіноча Сумка &quot;Йоанна&quot;, Темна Бірюза" price="0" height="100"
+                        width="100" y="10" x="10"/>
+        </product>
+    </back>
+
+    <categories>
+        <category value="" width="200"/>
+    </categories>
+
+    <omniture account="avonua" qaeaccount="avonceeqa" curr="UAH">
+        <index value="CFT"/>
+    </omniture>
+
+</avon>
