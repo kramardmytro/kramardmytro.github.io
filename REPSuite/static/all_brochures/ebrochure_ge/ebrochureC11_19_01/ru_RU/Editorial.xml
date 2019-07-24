@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<editorials>
+  <marketname value="Georgia"/> 
+  <currency value="$"/> 
+<header>
+  <backtoorder alertmess="შეკვეთის კალათში დატოვებული პრდუქტები არ შედის თქვენს შეკვეთაში. გსურთ გაგრძელება?" value="დაბრუნება შეკვეთაში"/> 
+  <favorite addtip="დააჭირე გვერდის მოსანიშნად" removetip="დააჭირე რომ გააუქმოთ გვერდის მონიშვნა"/> 
+  <allpages source="" tip="იხილე ყველა გვერდი"/> 
+  <categories popupheader="კატეგორია" source="" tip="იხილე კატეგორიების ჩამონათვალი"/> 
+  <search buttonsource="" buttontip="დააჭირე საძიებლად" fieldsource="" fieldtip="აკრიფე საძიებო სიტყვა"/> 
+  <gotopage buttontip="დააჭირე გვერდის გასახსნელად" textinputtip="აკრიფე გვერდის ნომერი და დააჭირე &quot;ენთერს&quot;"/> 
+  <magnify source="" tip="დააჭირე დაახლოვების/დაშორების გასააქტიურებლად"/> 
+  <print source="" tip="გვერდის ბეჭდვა"/> 
+  <help source="" tip="გჭირდება დახმარება? დააჭირე აქ"/> 
+  <needrep source="" tip="იპოვე წარმომადგენელი"/> 
+  <becomerep source="" tip="გახდი წარმომადგენელი"/> 
+  <zoomdrag tip="დააჭირე და წამოიღე გამოსახულების სრულად სანახავად"/> 
+  <sound playtip="მუსკის ჩართვა" stoptip="მუსიკის გამორთვა"/> 
+  <language value="ენა"/> 
+  <addtoorder tip="პროდუქტების დამატება შეკვეთის კალათში" value="დაამატე შესაკვეთაში"/> 
+  <note tip="დაამატე ჩანაწერი ამ გვერდზე"/> 
+  <fullpage tip="დააჭირე მთლიანი გვერდის სანახავად"/> 
+  </header>
+<coverflow>
+  <previous source="" tip="გადადი წინა გვერდზე"/> 
+  <next source="" tip="გადადი შემდეგ გვერდზე"/> 
+  </coverflow>
+<allpages>
+  <thumbnail tip="გახსენი გვერდი"/> 
+  <pages back="უკან" cover="გარე ყდა"/> 
+  </allpages>
+<shoppingbag>
+  <maxitemswarn value="თქვენ გადააჭარბეთ შეკვეთის კალათში დასაშვები პროდუქტების რაოდენობას."/> 
+  <ordernow value="შეკვეთის გამჟღავნება"/> 
+  <update value="განაახლე შეკვეთის კალათი"/> 
+  <emailorder value="გაუგზავნე შეკვეთა წარმომადგენელს ელ-ფოსტით"/> 
+  <shoppingtitle value="ჩემი შეკვეთის კალათა"/> 
+  <productname value="აღწერა"/> 
+  <lineno value="ხაზი #"/> 
+  <pageno value="გვ #"/> 
+  <productprice value="ფასი"/> 
+  <productqty value="რ-ობა"/> 
+  <producttotal value="სულ:"/> 
+  <totalqty value="ჯამი"/> 
+  <productremove value="წაშლა"/> 
+  <alertmsg value="გთხოვთ, შეკვეთის განთავსებამდე დაამატოთ შესაკვეთი პროდუქტები კალათში"/> 
+  </shoppingbag>
+<shoppingcart>
+  <title value="დაამატე პროდუქტი შენს შეკვეთაში"/> 
+  <id value="ხაზი #"/> 
+  <productname value="აღწერა"/> 
+  <productqty value="რ-ობა"/> 
+  <productprice value="ფასი"/> 
+  <productpage value="გვ #"/> 
+  <addtobag value="დაამატე კალათში"/> 
+  </shoppingcart>
+<mainpage>
+  <mainemail tip="დააჭირე რომ გაუგზავნო გვერდი შენს მეგობარს" value="გააგზავნე გვერდი ელ.ფოსტის საშუალებით"/> 
+  <shoppingbag tip="დააჭირე რომ გახსნა შეკვეთის კალათა"/> 
+  <mainshopbag value="პროდუქტები"/> 
+  <topnav lefttip="გადადი წინა გვერდზე" righttip="გადადი შემდეგ გვერდზე"/> 
+  <shoptip tip="გააგზავნე გვერდი ელ.ფოსტის საშუალებით"/> 
+  <booktip tip="დააჭირე გვერდს კუთხეებში გადასაშლელად"/> 
+  </mainpage>
+<emailcust>
+  <clientemail value=""/> 
+  <clientemailsub value=""/> 
+  <title value="ელ-ფოსტა კლიენტს"/> 
+  <comboheading1 value="შენი კლიენტები:"/> 
+  <comboheading2 value="გთხოვთ, აიღციოთ კლიენტი"/> 
+  </emailcust>
+<emailfriendpage>
+  <emailLink value="დააჭირე აქ"/> 
+  <title value="გააგზავნე გვერდი ელ.ფოსტის საშუალებით"/> 
+  <emailinfo value="ვის:"/> 
+  <successmess value="ელ-ფოსტა გაიგზავნა წარმატებით"/> 
+  <failuremess value="ელ-ფოსტა არ გაიგზავნა"/> 
+  <emailfrndemail value="შეიყვანე ელ-ფოსტის მისამართები და გამოყავი მძიმეებით"/> 
+  <emailername value="თქვენი სახელი (არჩევით):"/> 
+  <emaileremail value="თქვენი ელ-ფოსტა:"/> 
+  <subject value="სათაური:"/> 
+  <message value="შეტყობინება:"/> 
+  <messageinfo1 value="დაამათე პერსონალური შეტყობინება ქვემოთ"/> 
+  <messageinfo2 value="(300 სიმბოლო მაქს.) ან დატოვე სანიმუშო შეტყობინება"/> 
+  <send value="წერილის გაგზავნა"/> 
+  <emailfriendurl value="დააჭირე აქ, იმისათვის რომ იხილო შენთვის გამოგზავნილი კატალოგის გვერდები:"/> 
+  </emailfriendpage>
+<emailrep>
+  <poptitle value="გაუგზავნე შეკვეთა წარმომადგენელს ელ-ფოსტით"/> 
+  <divtitle emailadd="ელ-ფოსტის მისამართები" mailadd="საფოსტო მისამართი" name="სახელი" phone="ტელეფონის ნომრები"/> 
+  <namefirst value="სახელი"/> 
+  <namelast value="გვარი"/> 
+  <mailaddress1 value="მისამართი 1"/> 
+  <mailaddress2 value="მისამართი 2"/> 
+  <mailcity value="ქალაქი/დასახლება"/> 
+  <mailcounty value="რაიონი"/> 
+  <mailpostalcode value="საფოსტო კოდი"/> 
+  <phone value="ტელეფონი"/> 
+  <notes value="ჩანიშვნები"/> 
+  <submit value="შეკვეთის განთავსება"/> 
+  <back value="დაბრუნება კატალოგში"/> 
+  <fieldinfo value="*გთხოვთ, შეავსოთ სავალდებულო ველები"/> 
+  <replabel1 value="ემსახურება"/> 
+  <replabel2 value="ზონა"/> 
+  </emailrep>
+
+  <categories>
+ <category value="პარფიუმერია_სახის კანის მოვლის საშუალებები_სხეულის მოვლის საშუალებები_დეკორატიული კოსმეტიკა_თმის მოვლა_სამკაული და აქსესუარები" width="230"/> 
+ 	 </categories>
+
+<checkout>
+  <checkoutlabel value="შეკვეთის გამჟღავნება"/> 
+  <checkoutdesc value="გთხოვთ, შეავსოთ მოთხოვნილი ინფორმაცია ქვემოთ, იმისათვის რომ დაასრულოთ შეკვეთა"/> 
+  <replabel value="წარმომადგენლის ინფორმაცია"/> 
+  </checkout>
+<thumbnail>
+  <title value="მინი გვერდები"/> 
+  </thumbnail>
+<resolution>
+  <title value="კატალოგის ხარისხი"/> 
+  <select value="OK"/> 
+  <radio1 value="მაღალი ხარისხის კავშირი"/> 
+  <radio2 value="დაბალი ხარისხის კავშირი"/> 
+  </resolution>
+<searchresults>
+  <title failure="შედეგები არ მოიძებნა" success="ძიების შედეგები"/> 
+  <noresults bullet1="შეამოწმეთ მართლწერა ან სცადეთ ახალი საძიებო სიტყვა" bullet2="დააჭირე - &quot;მინი გვერდები&quot; და დაათვალიერე კატალოგი." bullet3="დააჭირე &quot;კატეგორიები&quot; და შეარჩიე პროდუქტები კატეგორიების მიხედვით" info="შესაძლოა აღნიშნული პროდუქტი არ არის გაყიდვაში მიმდინარე კატალოგში" title="ბოდიშს გიხდით, თქვენს მიერ მითითებული პროდუქტი არ მოიძებნა"/> 
+  <preview value="ანონსი"/> 
+  </searchresults>
+<shopping>
+  <reason value="მიზეზი"/> 
+  <validatingitems value="მიმდინარეობს შეკვეთილი პროდუქტების დადასტურება..."/> 
+  <title value="შეკვეთის დადასტურება"/> 
+  <productnotavailable header="ცვლილება შესაკვეთ პროდუქტებში" value="ამჟამად აღნიშნული პროდუქტები მიუწვდომელია, ამიტომ მოხდება მათი წაშლა თქვენი შეკვეთის სიიდან."/> 
+  <continueShopping header="შეკვეთის დადასტურება" value="გსურთ განაგრძოთ შეკვეთის კალათის შევსება?"/> 
+  <orderplacedwithouterror value="თქვენი შეკვეთა განთავსებულია."/> 
+  <orderplacedwitherror value="თქვენი შეკვეთა განთავსებულია, მაგრამ ამჟამად აღნიშნული პროდუქტები მიუწვდომელია, ამიტომ მოხდება მათი წაშლა თქვენი შეკვეთიდან"/> 
+  <updateitems header="განაახლე შეკვეთის კალათი" value="გსურთ პროდუქტ(ებ)ის განახლება შეკვეთის კალათში?"/> 
+  </shopping>
+<stickynote>
+  <note value="შეტყობინება:"/> 
+  <bookmark value="ეს გვერდი მონიშნულია"/> 
+  <add value="დაამატე ჩანაწერი გვერდის სანიშნს"/> 
+  <save value="დამახსოვრება"/> 
+  </stickynote>
+<help>
+  <title value="დახმარება!"/> 
+  <helpnav value="გვერდის მართვის პანელი"/> 
+  <helpcategories value="კატეგორიები"/> 
+  <helpthumbnail value="მინი გვერდები"/> 
+  <helpbookmark value="სანიშნი"/> 
+  <helpzoom value="მასშტაბი"/> 
+  <helpprint value="ბეჭდვა"/> 
+  <helpemail value="ელ-ფოსტა"/> 
+  <helpsearch value="ძიება"/> 
+  <helpshoppingbag value="შეკვეთის კალათი"/> 
+  <allPages value="დააჭირე აქ ყველა გვერდის სანახავად. დააჭირე ნებისმიერ მინი გვერდს მისი სრული ზომით სანახავად."/> 
+  <goToPage value="აკრიფე გვერდის ნომერი და დააჭირე ღილაკს &quot;დაწყება&quot; სასურველ გვერდზე გადასასვლელად. დაათვალიერე გვერდების მართვის პანელი და დააჭირე გვერდის ნომერს კონკრეტული გვერდის სანახავად. დააჭირე ისრიან ღილაკს &quot;უკან&quot; ან &quot;შემდეგ&quot; და გადადი წინა ან მომდევნო გვერდზე."/> 
+  <search value="აკრიფე პროდუქტის კოდი, დასახელება, ან საძიებო სიტყვა დააჭირე ღილაკს &quot;ძიება&quot;, რათა იხილო ის პროდუქტი, რომელიც შეესაბამება აკრეფილ სიტყვას."/> 
+  <searchbycategory value="დააჭირე ღილაკს &quot;კატეგორიები&quot; და აირჩიე სასურველი პროდუქტის კატეგორია მოცემული სიიდან. აქ მოყვანილია ყველა პროდუქტი, რომელიც შეესაბამება აღნიშნულ კატეგორიას. იხილე ანონსი და დააჭირე ნებისმიერ მინი გვერდს სრული ზომით სანახავად."/> 
+  <magnify value="დააჭირე ღილაკს &quot;მასშტაბი+&quot; მიმდინარე გვერდის დასაახლოვებლად. გამოსახულებაზე გადაატარეთ კურსორი მისი ფრაგმენტების დეტალურად სანახავად."/> 
+  <print value="დააჭირე აქ გვერდის დასაბეჭდად."/> 
+  <favorite value="დააჭირე ღილაკს &quot;სანიშნი+&quot; მიმდინარე გვერდის მოსანიშნად. მონიშნულ გვერდზე შესაძლებელია ჩანაწერების გაკეთება და დამახსოვრება. დააჭირე ღილაკს &quot;სანიშნი-&quot; გვერდის სანიშნიდან მოსახსნელად. სანიშნები ემატება კატალოგის მარჯვენა მხარეს."/> 
+  <emailtofriend value="დააჭირე აქ მოცემული გვერდის ელ-ფოსტით გასაგზავნად. შესაძლებელია რამოდენიმე მიმღებთან ფოსტის ერთდროულად გაგზავნა, მძიმის ნიშნით გამოყოფილი ელ-ფოსტის მისამართების მითითებით, და სასურველი შეტყობინებით."/> 
+  <shoppingbag value="დააჭირე პროდუქტების ახლოს გამოკვეთილ კონტურებს. ეკრანზე ფანჯარაში &quot;დაამატე პროდუქტი შენს შეკვეთაში&quot; , აკრიფე აღნიშნული პროდუქტის სასურველი რაოდენობა და დააჭირე ღილაკს &quot;დაამატე კალათში&quot; . დააჭირე შეკვეთის კალათის ნიშანს ზედა მარჯვენა კუთხეში. ეკრანზე ფანჯარაში &quot;შეკვეთის კალათი&quot; შესაძლებელია მოთავსებული პროდუქტის წაშლა, რაოდენობის შეცვლა და შეკვეთის გაშვება, ღილაკზე &quot;შეკვეთის განთავსება&quot; დაჭერით."/> 
+  <contactus text="დაგვიკავშირდით" value=""/> 
+  </help>
+<bookmark>
+  <thumbnail tip="დააჭირე გვერდის გასახსნელად"/> 
+  <maxlimit value="თქვენ მიაღწიეთ დასაშვები სანიშნების მაქსიმუმს.თქვენ აღარ გაქვთ დამატების უფლება."/> 
+  <maxlimit value="გთხოვთ, მოხსნათ არსებული სანიშნები იმისათვის, რომ დაამატოთ ახლები."/> 
+  <maxlimitheader value="სანიშნების ლიმიტი გადაჭარბებულია"/> 
+  </bookmark>
+<loaderpage>
+  <loading value="იტვირთება"/> 
+  </loaderpage>
+<errors>
+  <multiemail value="ელ-ფოსტა არ შეესაბამება სასურველ ფორმატს. გთხოვთ, შეამოწმეთ და ჩაასწორეთ."/> 
+  <requiredfielderror value="სავალდებულოა ველის შევსება"/> 
+  <decimalpointcounterror value="მეათედების გამყოფი ჩნდება მხოლოდ ერთხელ"/> 
+  <integererror phone="ტელეფონის ნომერი უნდა იყოს მთლიანი რიცხვი" quantity="აკრიფე სწორი ტელეფონის ნომერი" value="ნომერი უნდა იყოს მთლიანი რიცხვი"/> 
+  <invalidcharerror value="შეყვანილი ინფორმაცია შეიცავს დაუშვებელ სიმბოლოებს"/> 
+  <invalidformatcharserror value="ფორმატირების ერთ-ერთი პარამეტრი არასწორია"/> 
+  <negativeerror value="მაცვენებელი არ შეიძლება იყოს უარყოფითი რიცხვი"/> 
+  <precisionerror value="შეყვანილი რაოდენობა შეიცავს დაუშვებლად ბევრ ციფრს მეათედის ნიშნის შემდეგ."/> 
+  <separationerror value="ათასების გამყოფის შემდეგ უნდა აიკრიფოს სამი ციფრი"/> 
+  <exceedsmaxerror goto="თქვენ გადააჭარბეთ გვერდების სრულ რაოდენობას" value="აკრეფილი ნომერი ძალიან გრძელია"/> 
+  <lowerthanminerror goto="აკრიფე სწორი გვერდის ნომერი" phone3D="ტელეფონის ველი უნდა იყოს შევსებული 11 ციფრიანი მთლიანი რიცხვით" phone4D="" qty="აკრიფე სწორი რაოდენობა" value="აკრეფილი ნომერი ძალიან მოკლეა"/> 
+  <toolongerror value="ტექსტის რიგი აჭარბებს მაქსიმუმ დასაშვებ სიგრძეს. იგი უნდა იყოს {0} -ზე ნაკლები"/> 
+  <tooshorterror value="ტექსტის რიგი მინიმალურ დასშვებ სიგრძეზე მოკლეა. იგი უნდა იყოს ყველაზე მცირე {0} სიმბოლოსგან შემდგარი."/> 
+  <zipinvalidcharerror value="საფოსტო კოდი არასწორია"/> 
+  <zipinvaliddomainerror value=""/> 
+  <wrongcaformaterror value=""/> 
+  <wronglengtherror value=""/> 
+  <wrongusformaterror value=""/> 
+  <emailinvalidcharerror value="თქვენი ელ-ფოსტის მისამართი შეიცავს დაუშვებელ სიმბოლოებს."/> 
+  <emailinvaliddomainerror value="თქვენი ელ-ფოსტის მისამართში შეცდომით არის მოცემული IP დომეინის ფორმატი."/> 
+  <invalidipdomainerror value="თქვენი ელ-ფოსტის დომეინი შეიცავს თანმიმდევრულ წერტილებს."/> 
+  <invalidperiodsindomainerror value="თქვენი ელ-ფოსტის დომეინი შეიცავს თანმიმდევრულ წერტილებს."/> 
+  <missingatsignerror value="თქვენს ელ-ფოსტის მისამართს აკლია ეთ ნიშანი (@)"/> 
+  <missingperiodindomainerror value="თქვენს ელ-ფოსტის მისამართს აკლია წერტილის ნიშანი."/> 
+  <missingusernameerror value="თქვენს ელ-ფოსტის მისამართს აკლია მომხმარებლის სახელი"/> 
+  <toomanyatsignserror value="თქვენი ელ-ფოსტის მისამართი შეიცავს ზედმეტ @ ნიშანს"/> 
+  <specialCharacterNotAllowedError value="სახელის ველში დაუშვებელია სპეციალური სიმბოლოების გამოყენება"/> 
+  <numeralNotAllowedError value="სახელის ველში დაუშვებელია ციფრების გამოყენება"/> 
+  <spaceNotAllowedError value="სახელის ველში დაუშვებელია ადგილების გამოტოვება"/> 
+  </errors>
+<alertlabels>
+  <ok value="OK"/> 
+  <yes value="დიახ"/> 
+  <no value="არა"/> 
+  </alertlabels>
+<omniture account="avonge" curr="GEL" qaeaccount="avonceeqa">
+  <index value="CFT"/> 
+  </omniture>
+  </editorials>
