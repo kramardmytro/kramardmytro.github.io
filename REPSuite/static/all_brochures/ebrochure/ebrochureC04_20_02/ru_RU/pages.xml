@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<avon total="5">
+  <cover addtobag="1" category="">
+    <limage url="assets/images/large/cover.jpg"/>
+    <mimage url="assets/images/medium/cover.jpg"/>
+    <simage url="assets/images/small/cover.jpg"/>
+  </cover>
+  <page addtobag="1" id="1" category="">
+    <limage url="assets/images/large/002.jpg"/>
+    <mimage url="assets/images/medium/002.jpg"/>
+    <simage url="assets/images/small/002.jpg"/>
+    <product id="43858" name="Щипчики для нiгтiв" price="0" height="450" width="450" y="0" x="0">
+      <subproduct id="23310" name="Гiдрогелева маска д/обличчя &quot;Гуру сяйва&quot;" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="46867" name="Мiнеральна пудра д/обл. Порцелянова" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="97789" name="Основа пiд макiяж &quot;Досконалiсть&quot;" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="90913" name="Лак д/нiгтiв &quot;Модний мiкс&quot;Пристр/рожевий" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="78485" name="Лак д/нiгтiв &quot;Модний мiкс&quot; Гiркий шокола" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="78374" name="Лак д/нiгтiв &quot;Модний мiкс&quot; Малина в шоко" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="90930" name="Лак д/нiгтiв &quot;Модний мiкс&quot;Бiрюзова хвиля" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="90361" name="Лак д/нiгтiв &quot;Модний мiкс&quot; Жовтий пiсок" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="78484" name="Лак д/нiгтiв &quot;Модний мiкс&quot; Кава" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="78298" name="Лак д/нiгтiв &quot;Модний мiкс&quot; Карамель" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="20735" name="Матуюч/сонцез/крем/обличчя/тон/еф.SPF 50" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="67345" name="Мат/тiнi д/повiк &quot;Чудовий квартет&quot; Кавов" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="70673" name="Мат/тiнi д/повiк &quot;Чудовий квартет&quot; Небес" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="67016" name="Мат/тiнi д/повiк &quot;Чудовий квартет&quot;Небесн" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="42343" name="Тiнi-олiвець д/повiк, Мокко" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="42317" name="Тiнi-олiвець д/повiк, Темно-сiрий шовк" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="67343" name="Мат/тiнi д/повiк &quot;Чудовий квартет&quot; Шляхе" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="46872" name="Тiнi-олiвець д/повiк, Синя димка" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="45597" name="Тiнi-олiвець д/повiк, Падаюча зiрка" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="40730" name="Подвiйнi тiнi д/повiк. Рожева димка" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="40727" name="Подвiйнi тiнi д/повiк. Чорна зiрка" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="40718" name="Подвiйнi тiнi д/повiк. Нiжний блиск" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="34770" name="Pозсипчастi тiнi для повiк Сяючий фiолет" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="40879" name="Подвiйнi тiнi д/повiк. Хвиля" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="34797" name="Pозсипчастi тiнi для повiк Iскрист.рожев" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="40715" name="Подвiйнi тiнi д/повiк. Зачарований лiс" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="34783" name="Pозсипчастi тiнi для повiк Мерехтливий" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="34782" name="Pозсипчастi тiнi для повiк Променистий" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="28832" name="Лак д/нiгтiв &quot;Модний мiкс&quot; Виноградне же" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="29525" name="Лак д/нiгтiв &quot;Модний мiкс&quot; Лiмончелло " price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="29588" name="Лак д/нiгтiв&quot;Модний мiкс&quot;,Нiжнiсть" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="29624" name="Лак д/нiгтiв &quot;Модний мiкс&quot; Гармонiя" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="62421" name="Лак д/нiгтiв &quot;Модний мiкс&quot; Рожевий метал" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="27324" name="Лак д/нiгтiв&quot;Модний мiкс&quot;,Солодка вата" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="27378" name="Лак д/нiгтiв &quot;Модний мiкс&quot; Рожева цукерк" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="29510" name="Лак д/нiгтiв &quot;Модний мiкс&quot; Свiжiсть" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1310388" name="Набiр спонжiв для макiяжу (5 шт.)" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="89963" name="Палiтра тiней &quot;Вибух кольору&quot; Мусон" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="90039" name="Палiтра тiней &quot;Вибух кольору&quot; Мокачiно" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="03843" name="Косметичний спонж" price="0" height="100" width="100" y="10" x="10"/>
+    </product>
+    <product id="58031" name="Прикраса на шию &quot;Лiббi&quot;, Свiтло-зелена" price="0" height="450" width="450" y="0" x="429">
+      <subproduct id="77503" name="Каблучка &quot;Юлiана&quot;. Розмiр: 6" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="42293" name="Каблучка &quot;Юлiана&quot;. Розмiр: 8" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1312497" name="Каблучка &quot;Хеттi&quot;, розмiр 6" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1312498" name="Каблучка &quot;Хеттi&quot;, розмiр 8" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1312218" name="Каблучка &quot;Хеттi&quot;, розмiр 10" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1312083" name="Каблучка &quot;Елiза&quot;, розмiр 6" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1312087" name="Каблучка &quot;Елiза&quot;, розмiр 8" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1312088" name="Каблучка &quot;Елiза&quot;, розмiр 10" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="67900" name="Кольє &quot;Ране&quot;" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1311651" name="Каблучка &quot;Перлiн&quot;, Розмiр 6" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1311655" name="Каблучка &quot;Перлiн&quot;, Розмiр 8" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1311656" name="Каблучка &quot;Перлiн&quot;, Розмiр 10" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="64207" name="Кольє &quot;Розалi&quot;" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1311218" name="Прикраса на шию &quot;Келсi&quot;" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="64189" name="Сережки &quot;Розалi&quot;" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="88485" name="Каблучка &quot;Агата&quot;, розмiр 6" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="88382" name="Каблучка &quot;Агата&quot;, розмiр 8" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="88478" name="Каблучка &quot;Агата&quot;, розмiр 10" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="70115" name="Каблучка &quot;Зефiра&quot;.Розмiр 6" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="70398" name="Каблучка &quot;Зефiра&quot;.Розмiр 10" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1311829" name="Комплект &quot;Каелiя&quot;(Посрiблений).Розмiр 6" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1317914" name="Комплект &quot;Каелiя&quot;(Золотистий).Розмiр 8" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1317917" name="Комплект &quot;Каелiя&quot;(Посрiблений).Розмiр 10" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1317915" name="Комплект &quot;Каелiя&quot;(Золотистий).Розмiр 10" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1317916" name="Комплект &quot;Каелiя&quot;(Посрiблений).Розмiр 8" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1311828" name="Комплект &quot;Каелiя&quot;(Золотистий).Розмiр 6" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="66731" name="Набiр сережок &quot;Карiн&quot; (6 пар)" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="58268" name="Прикраса на шию &quot;Лiббi&quot;, Рожева" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="58017" name="Прикраса на шию &quot;Лiббi&quot;, Темно-червона" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="57991" name="Прикраса на шию &quot;Лiббi&quot;, Смарагд" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="57973" name="Прикраса на шию &quot;Лiббi&quot;, Прозора" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="58765" name="Прикраса на шию &quot;Лiббi&quot;, Блакитний цирко" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="58014" name="Прикраса на шию &quot;Лiббi&quot;, Свiтлий аметист" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="57108" name="Прикраса на шию &quot;Лiббi&quot;, Темно-червона" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="58319" name="Прикраса на шию &quot;Лiббi&quot;, Топаз" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="58058" name="Прикраса на шию &quot;Лiббi&quot;, Сапфiр" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="57936" name="Прикраса на шию &quot;Лiббi&quot;, Аквамарин" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="57217" name="Прикраса на шию &quot;Лiббi&quot;, Аметист" price="0" height="100" width="100" y="10" x="10"/>
+    </product>
+  </page>
+  <page addtobag="1" id="2" category="">
+    <limage url="assets/images/large/004.jpg"/>
+    <mimage url="assets/images/medium/004.jpg"/>
+    <simage url="assets/images/small/004.jpg"/>
+    <product id="65543" name="Брошка &quot;Букет&quot;" price="0" height="450" width="450" y="0" x="0">
+      <subproduct id="45199" name="Кольє &quot;Дiннi&quot;. Фiолетове" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="45128" name="Кольє &quot;Дiннi&quot;. Зелене" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="73874" name="Ланцюжок з пiдвiскою &quot;Стрiлець&quot;" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="45132" name="Кольє &quot;Дiннi&quot;. Синє" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="73917" name="Ланцюжок з пiдвiскою &quot;Козерiг&quot;_" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="45129" name="Кольє &quot;Дiннi&quot;. Прозоре" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="45126" name="Кольє &quot;Дiннi&quot;. Червоне" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="73297" name="Ланцюжок з пiдвiскою &quot;Терези&quot; " price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="73299" name="Ланцюжок з пiдвiскою &quot;Скорпiон&quot;" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="73250" name="Ланцюжок з пiдвiскою &quot;Водолiй&quot;" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="73288" name="Ланцюжок з пiдвiскою &quot;Дiва&quot;" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="73249" name="Ланцюжок з пiдвiскою &quot;Риби&quot;" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="73246" name="Ланцюжок з пiдвiскою &quot;Овен&quot;" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="73253" name="Ланцюжок з пiдвiскою &quot;Рак&quot;" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="73248" name="Ланцюжок з пiдвiскою &quot;Телець&quot;" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="05871" name="Ланцюжок з пiдвiскою &quot;Рашида&quot;" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="73254" name="Ланцюжок з пiдвiскою &quot;Лев&quot;" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="73251" name="Ланцюжок з пiдвiскою &quot;Близнюки&quot;" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="77980" name="Кольє &quot;Шила&quot;.Прозорий" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="77902" name="Кольє &quot;Шила&quot;.Сапфiр" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="73918" name="Брошка &quot;Козерiг&quot;" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="73919" name="Брошка &quot;Риби&quot;" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="73923" name="Брошка &quot;Овен&quot;" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="73926" name="Брошка &quot;Водолiй&quot;" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="73924" name="Брошка &quot;Тiлець&quot;" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="74136" name="Брошка &quot;Лев&quot;" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="79793" name="Кольє зi зйомною брошкою &quot;Бернадетта&quot;" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="74170" name="Брошка &quot;Терези&quot;" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="74263" name="Брошка &quot;Близнюки&quot;" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="75045" name="Брошка &quot;Дiва&quot;" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="75162" name="Брошка &quot;Стрiлець&quot;" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="11686" name="Намисто &quot;Наталiя&quot;" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="61355" name="Ланцюжок з пiдвiскою &quot;Мiлада&quot;. Червоний" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="66081" name="Ланцюжок з пiдвiскою &quot;Мiлада&quot;. Чорний" price="0" height="100" width="100" y="10" x="10"/>
+    </product>
+    <product id="1313505" name="Жiночий годинник &quot;Ельнора&quot;" price="0" height="450" width="450" y="0" x="429">
+      <subproduct id="47809" name="Комплект бiжутерiї &quot;Телець&quot;" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="48357" name="Комплект бiжутерiї &quot;Рак&quot;" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="47348" name="Комплект бiжутерiї &quot;Овен&quot;" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="48363" name="Комплект бiжутерiї &quot;Лев&quot;" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="48203" name="Комплект бiжутерiї &quot;Близнята&quot;" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="48509" name="Комплект бiжутерiї &quot;Дiва&quot;" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="48516" name="Комплект бiжутерiї &quot;Терези&quot;" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="46695" name="Комплект бiжутерiї &quot;Водолiй&quot;" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="11670" name="Браслет &quot;Сiлла&quot;.Кремовий" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="60265" name="Браслет &quot;Сiлла&quot;.Шоколадний" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="64198" name="Кольє &quot;Ванесса&quot;" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="63796" name="Ланцюжок з пiдвiскою &quot;Венера&quot;" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="53250" name="Браслет &quot;Ноель&quot;" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="42861" name="Сережки &quot;Десi&quot;" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="55066" name="Сережки &quot;Мадалiн&quot;" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="55197" name="Каблучка &quot;Мадалiн&quot;.Розмiр 6" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="55848" name="Каблучка &quot;Мадалiн&quot;.Розмiр 8" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="55850" name="Каблучка &quot;Мадалiн&quot;.Розмiр 10" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="59022" name="Ланцюжок з пiдвiскою &quot;Уїтнi&quot;" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="55878" name="Кольє &quot;Мадалiн&quot;" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="01039" name="Жiночий годинник &quot;Деннiса&quot;" price="0" height="100" width="100" y="10" x="10"/>
+    </product>
+  </page>
+  <page addtobag="1" id="3" category="">
+    <limage url="assets/images/large/006.jpg"/>
+    <mimage url="assets/images/medium/006.jpg"/>
+    <simage url="assets/images/small/006.jpg"/>
+    <product id="49580" name="Жiноча сумка &quot;Стiвi&quot;.Червона" price="0" height="450" width="450" y="0" x="0">
+      <subproduct id="1306122" name="Рушник д/тiла (Морська хвиля).70*130 см" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1306120" name="Рушник для тiла (Рожевий).70*130 см" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1306121" name="Рушник для тiла (Бежевий).70*130 см" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1306119" name="Рушник для обличчя(Морська хвиля)50*70см" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1306117" name="Рушник для обличчя(Рожевий)50*70см" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1306118" name="Рушник для обличчя(Бiлий)50*70см" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1302786" name="Жiноча сумка &quot;Стасiя&quot;. Зелена" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1302785" name="Жiноча сумка &quot;Стасiя&quot;. Синя" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="44500" name="Жiноча сумка &quot;Неталi&quot;, Блакитна" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="09160" name="Жiноча сумка &quot;Залiна&quot;. Коричнева" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="43489" name="Жiноча сумка &quot;Естель&quot;, Бордова" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="43864" name="Жiноча сумка &quot;Естель&quot;, Бежева" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="35510" name="Жiночий гаманець &quot;Тiфанi&quot;. Рак" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="25002" name="Жiночий гаманець &quot;Тiфанi&quot;. Водолiй" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="25024" name="Жiночий гаманець &quot;Тiфанi&quot;. Телець" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="25166" name="Жiночий гаманець &quot;Тiфанi&quot;. Козерiг" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="24954" name="Жiночий гаманець &quot;Тiфанi&quot;. Близнюки" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="24974" name="Жiночий гаманець &quot;Тiфанi&quot;. Терези" price="0" height="100" width="100" y="10" x="10"/>
+    </product>
+    <product id="46065" name="Кабель 2в1 д/моб. пристроїв" price="0" height="450" width="450" y="0" x="429">
+      <subproduct id="1305377" name="Пензлик для тiней" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1304128" name="Багатофункцiональний кухонний iнструмент" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1308452" name="Штатив-монопод для селфi" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="24099" name="Тренажер" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="44156" name="Набiр iнструментiв. Машина" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="11970" name="Фiксатор д/бретельок бюстгальтера" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1299598" name="Аксесуар для укладки волосся" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="34253" name="Кабель 2в1 д/моб. пристроїв" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="42179" name="Розгалужувач д/навушникiв, чорний." price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="64622" name="Розгалужувач д/навушникiв, червоний." price="0" height="100" width="100" y="10" x="10"/>
+    </product>
+  </page>
+  <page addtobag="1" id="4" category="">
+    <limage url="assets/images/large/008.jpg"/>
+    <mimage url="assets/images/medium/008.jpg"/>
+    <simage url="assets/images/small/008.jpg"/>
+    <product id="09413" name="Труси жiночi (чорнi), розмiр 48-50" price="0" height="450" width="450" y="0" x="0">
+      <subproduct id="22823" name="Жiночi туфлi, розмiр 36" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="23248" name="Жiночi туфлi, розмiр 37" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="23370" name="Жiночi туфлi, розмiр 38" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="23475" name="Жiночi туфлi, розмiр 39" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="23537" name="Жiночi туфлi, розмiр 40" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="23595" name="Жiночi туфлi, розмiр 41" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="25142" name="Жiночi туфлi рожевi, розмiр 36" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="25687" name="Жiночi туфлi рожевi, розмiр 37" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="26017" name="Жiночi туфлi рожевi, розмiр 38" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="26872" name="Жiночi туфлi рожевi, розмiр 39" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="26913" name="Жiночi туфлi рожевi, розмiр 40" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="27520" name="Жiночi туфлi рожевi, розмiр 41" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="28098" name="Жiночi туфлi рожевi, розмiр 42" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="67129" name="Жiночi туфлi (Синi). Розмiр 36" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="67130" name="Жiночi туфлi (Синi). Розмiр 37" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="67143" name="Жiночi туфлi (Синi). Розмiр 38" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="67144" name="Жiночi туфлi (Синi). Розмiр 39" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="67154" name="Жiночi туфлi (Синi). Розмiр 40" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="67155" name="Жiночi туфлi (Синi). Розмiр 41" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="67160" name="Жiночi туфлi (Червонi). Розмiр 36" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="67162" name="Жiночi туфлi (Червонi). Розмiр 37" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="67163" name="Жiночi туфлi (Червонi). Розмiр 38" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="67164" name="Жiночi туфлi (Червонi). Розмiр 39" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="67168" name="Жiночi туфлi (Червонi). Розмiр 40" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="67808" name="Жiночi туфлi (Червонi). Розмiр 41" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="63620" name="Жiночi туфлi (Червонi). Розмiр 42" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="59104" name="Жiночi еспадрильї (жовтi), розмiр 36" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="59219" name="Жiночi еспадрильї (жовтi), розмiр 37" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="59510" name="Жiночi еспадрильї (жовтi), розмiр 38" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="59533" name="Жiночi еспадрильї (жовтi), розмiр 39" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="59540" name="Жiночi еспадрильї (жовтi), розмiр 40" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="60017" name="Жiночi еспадрильї (жовтi), розмiр 41" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="60538" name="Жiночi еспадрильї (жовтi), розмiр 42" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="60574" name="Жiночi еспадрильї, розмiр 36" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="61083" name="Жiночi еспадрильї, розмiр 37" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="61369" name="Жiночi еспадрильї, розмiр 38" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="61522" name="Жiночi еспадрильї, розмiр 39" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="61902" name="Жiночi еспадрильї, розмiр 40" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="62621" name="Жiночi еспадрильї, розмiр 41" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="32788" name="Жiночi сандалi, розмiр 36" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="33217" name="Жiночi сандалi, розмiр 37" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="35057" name="Жiночi сандалi, розмiр 38" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="35415" name="Жiночi сандалi, розмiр 39" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="36512" name="Жiночi сандалi, розмiр 40" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="36560" name="Жiночi сандалi, розмiр 41" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="36582" name="Жiночi сандалi, розмiр 42" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="39778" name="Жiночi сандалi (золотi), розмiр 36" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="40590" name="Жiночi сандалi (золотi), розмiр 37" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="40786" name="Жiночi сандалi (золотi), розмiр 38" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="46372" name="Жiночi сандалi (золотi), розмiр 39" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="46790" name="Жiночi сандалi (золотi), розмiр 41" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="46290" name="Олiвець 3в1 Сонячна Бронза" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="55308" name="Жiноча толстовка Розмiр 40-42" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="55507" name="Жiноча толстовка Розмiр 52-54" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="55508" name="Жiноча толстовка Розмiр 56-58" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="11947" name="Набiр подушечок проти натирання стоп (6ш" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="52930" name="Жiночi кросiвки, розмiр 36" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="53064" name="Жiночi кросiвки, розмiр 37" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="53578" name="Жiночi кросiвки, розмiр 41" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="14240" name="Комплект жiн/домашнього одягу, р 40-42" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="14241" name="Комплект жiн/домашнього одягу, р 44-46" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="14244" name="Комплект жiн/домашнього одягу, р 48-50" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="14246" name="Комплект жiн/домашнього одягу, р 52-54" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="14247" name="Комплект жiн/домашнього одягу, р 56-58" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="12861" name="Одяг домашнiй жiночий:сукня.Розмiр 40-42" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="13336" name="Одяг домашнiй жiночий:сукня.Розмiр 44-46" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="13703" name="Одяг домашнiй жiночий:сукня.Розмiр 48-50" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="14236" name="Одяг домашнiй жiночий:сукня.Розмiр 52-54" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="12535" name="Комп.жiн/дом/одягу:джемпер i штани,48-50" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="12571" name="Комп.жiн/дом/одягу:джемпер i штани,52-54" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="08128" name="Труси жiночi (рожевi), розмiр 40-42" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="08129" name="Труси жiночi (рожевi), розмiр 44-46" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="08134" name="Труси жiночi (рожевi), розмiр 48-50" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="09219" name="Труси жiночi (чорнi), розмiр 40-42" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="09366" name="Труси жiночi (чорнi), розмiр 44-46" price="0" height="100" width="100" y="10" x="10"/>
+    </product>
+    <product id="1299191" name="Жiноча нiчна сорочка. Розмiр 52-54" price="0" height="450" width="450" y="0" x="429">
+      <subproduct id="38039" name="Жiночi штани. Розмiр 42" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="38102" name="Жiночi штани. Розмiр 44" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="38138" name="Жiночi штани. Розмiр 46" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="38435" name="Жiночi штани. Розмiр 48" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="38444" name="Жiночi штани. Розмiр 50" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1293146" name="Жiночi штани. Розмiр 52" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1293147" name="Жiночi штани. Розмiр 54" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="71560" name="Жiночi штани, Розмiр 40-42" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="71903" name="Жiночi штани, Розмiр 52-54" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="71997" name="Жiночi штани, Розмiр 56-58" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="13576" name="Жiночi штани (Синi), Розмiр 40-42" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="13580" name="Жiночi штани (Синi), Розмiр 56-58" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="13582" name="Жiночi штани (Чорнi), Розмiр 40-42" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="13586" name="Жiночi штани (Чорнi), Розмiр 44-46" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="13593" name="Жiночi штани (Чорнi), Розмiр 56-58" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="46409" name="Жiночi штани (Сiрi) Розмiр: 40/42" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="46452" name="Жiночi штани (Сiрi) Розмiр: 52/54" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="46455" name="Жiночi штани (Сiрi) Розмiр: 56/58" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="71678" name="Жiночий топ. Розмiр 40-42" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="71685" name="Жiночий топ. Розмiр 44-46" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="93602" name="Жiночi штани (Чорнi) Розмiр: 40/42" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="93609" name="Жiночi штани (Чорнi) Розмiр: 44/46" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="93721" name="Жiночi штани (Чорнi) Розмiр: 56/58" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="85751" name="Жiночий купальник (Рожевий) Розмiр 40-42" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="85753" name="Жiночий купальник (Рожевий) Розмiр 44-46" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="86119" name="Жiночий купальник (Рожевий) Розмiр 48-50" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="86157" name="Жiночий купальник (Рожевий) Розмiр 52-54" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="86409" name="Жiночий купальник (Рожевий) Розмiр 56-58" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1299188" name="Жiноча нiчна сорочка. Розмiр 40-42" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1299189" name="Жiноча нiчна сорочка. Розмiр 44-46" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1299190" name="Жiноча нiчна сорочка. Розмiр 48-50" price="0" height="100" width="100" y="10" x="10"/>
+    </product>
+  </page>
+  <page addtobag="1" id="5" category="">
+    <limage url="assets/images/large/010.jpg"/>
+    <mimage url="assets/images/medium/010.jpg"/>
+    <simage url="assets/images/small/010.jpg"/>
+    <product id="76325" name="Жiноча сукня, Розмiр 56-58" price="0" height="450" width="450" y="0" x="0">
+      <subproduct id="77341" name="Жiноча пляжна сукня, розмiр 40-42" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="77636" name="Жiноча пляжна сукня, розмiр 44-46" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="78664" name="Жiноча пляжна сукня, розмiр 48-50" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="78682" name="Жiноча пляжна сукня, розмiр 52-54" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="78780" name="Жiноча пляжна сукня, розмiр 56-58" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="37533" name="Жiноча сукня в горошок, розмiр 40-42" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="37537" name="Жiноча сукня в горошок, розмiр 44-46" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="37539" name="Жiноча сукня в горошок, розмiр 48-50" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="37540" name="Жiноча сукня в горошок, розмiр 52-54" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="37541" name="Жiноча сукня в горошок, розмiр 56-58" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="23761" name="Жiноча сукня.Розмiр 40-42" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="24001" name="Жiноча сукня.Розмiр 44-46" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="24005" name="Жiноча сукня.Розмiр 48-50" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="24479" name="Жiноча сукня.Розмiр 56-58" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="95852" name="Жiн/сукня &quot;Вишуканий силует&quot;, р 40-42" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="96722" name="Жiн/сукня &quot;Вишуканий силует&quot;, р 44-46" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="97593" name="Жiн/сукня &quot;Вишуканий силует&quot;, р 48-50" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="97748" name="Жiн/сукня &quot;Вишуканий силует&quot;, р 52-54" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="98294" name="Жiн/сукня &quot;Вишуканий силует&quot;, р 56-58" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="36421" name="Жiноча сукня зелена, р. 40-42" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="36475" name="Жiноча сукня зелена, р. 44-46" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="36483" name="Жiноча сукня зелена, р. 52-54" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="36574" name="Жiноча сукня зелена, р. 56-58" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="10992" name="Жiноча сукня &quot;Витончений силует&quot; р:40/42" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="11104" name="Жiноча сукня &quot;Витончений силует&quot; р:44/46" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="11206" name="Жiноча сукня &quot;Витончений силует&quot; р:48/50" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="11346" name="Жiноча сукня &quot;Витончений силует&quot; р:56/58" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="86583" name="Жiноча сукня (Рожева). Розмiр 40-42" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="86658" name="Жiноча сукня (Рожева). Розмiр 44-46" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="86673" name="Жiноча сукня (Рожева). Розмiр 48-50" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="86674" name="Жiноча сукня (Рожева). Розмiр 52-54" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="86676" name="Жiноча сукня (Рожева). Розмiр 56-58" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="90084" name="Жiноча сукня (Червона). Розмiр 40-42" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="90275" name="Жiноча сукня (Червона). Розмiр 44-46" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="90281" name="Жiноча сукня (Червона). Розмiр 48-50" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="90284" name="Жiноча сукня (Червона). Розмiр 52-54" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="90477" name="Жiноча сукня (Червона). Розмiр 56-58" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="65099" name="Жiноча сукня.Блакитна.Розмiр 40-42" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="65218" name="Жiноча сукня.Блакитна.Розмiр 44-46" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="65291" name="Жiноча сукня.Блакитна.Розмiр 48-50" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="65642" name="Жiноча сукня.Блакитна.Розмiр 52-54" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="75585" name="Жiноча сукня, Розмiр 48-50" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="75770" name="Жiноча сукня, Розмiр 52-54" price="0" height="100" width="100" y="10" x="10"/>
+    </product>
+    <product id="37913" name="Жiноча куртка. Розмiр 54" price="0" height="450" width="450" y="0" x="429">
+      <subproduct id="92873" name="Жiноча блузка, Розмiр 40-42" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="92875" name="Жiноча блузка, Розмiр 44-46" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="92878" name="Жiноча блузка, Розмiр 48-50" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="92964" name="Жiноча блузка, Розмiр 52-54" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="93085" name="Жiноча блузка, Розмiр 56-58" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="54793" name="Жiноча блузка. Розмiр: 40-42" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="55005" name="Жiноча блузка. Розмiр: 44-46" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="55058" name="Жiноча блузка. Розмiр: 48-50" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="55225" name="Жiноча блузка. Розмiр: 52-54" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="55455" name="Жiноча блузка. Розмiр: 56-58" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="46974" name="Жiноча блузка. Розмiр 40-42" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="47049" name="Жiноча блузка. Розмiр 44-46" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="47056" name="Жiноча блузка. Розмiр 48-50" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="47150" name="Жiноча блузка. Розмiр 52-54" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="47216" name="Жiноча блузка. Розмiр 56-58" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="38485" name="Жiноча футболка, розмiр 44-46" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="38487" name="Жiноча футболка, розмiр 48-50" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="38488" name="Жiноча футболка, розмiр 52-54" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="38490" name="Жiноча футболка, розмiр 56-58" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="44982" name="Жiноча футболка (Чорна). Розмiр 40-42" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="44568" name="Жiноча футболка (Бежева). Розмiр 40-42" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="44902" name="Жiноча футболка (Бежева). Розмiр 48-50" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="44970" name="Жiноча футболка (Бежева). Розмiр 56-58" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="44248" name="Жiноча футболка (Синя). Розмiр 40-42" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="13617" name="Жiноча блузка (Чорна) Розмiр 40-42" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="65271" name="Жiночий джемпер. Розмiр: 40/42" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="66762" name="Жiночий джемпер. Розмiр: 44/46" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="67657" name="Жiночий джемпер. Розмiр: 48/50" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="67792" name="Жiночий джемпер. Розмiр: 52/54" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="69417" name="Жiночий джемпер. Розмiр: 56/58" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="48798" name="Жiноча куртка. Розмiр 42" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="48799" name="Жiноча куртка. Розмiр 44" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="48800" name="Жiноча куртка. Розмiр 46" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="48801" name="Жiноча куртка. Розмiр 48" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="12928" name="Жiноча блузка. Розмiр 40-42" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="13019" name="Жiноча блузка. Розмiр 48-50" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="13027" name="Жiноча блузка. Розмiр 52-54" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="13381" name="Жiноча блузка. Розмiр 56-58" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="50957" name="Жiноча куртка. Розмiр 50" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="37845" name="Жiноча куртка. Розмiр 52" price="0" height="100" width="100" y="10" x="10"/>
+    </product>
+  </page>
+  <back addtobag="1" category="">
+    <limage url="assets/images/large/back.jpg"/>
+    <mimage url="assets/images/medium/back.jpg"/>
+    <simage url="assets/images/small/back.jpg"/>
+    <product id="08325" name="" price="0" height="450" width="450" y="0" x="0">
+      <subproduct id="46083" name="" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="36485" name="" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="26170" name="" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="13792" name="" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="72213" name="" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="74523" name="" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="87707" name="" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="10622" name="" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="14625" name="" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="72680" name="" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="65288" name="" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="12757" name="" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="13445" name="" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="67581" name="" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="38460" name="" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="23694" name="" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="35099" name="" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="23684" name="" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="25554" name="" price="0" height="100" width="100" y="10" x="10"/>
+    </product>
+  </back>
+  <categories>
+    <category value="" width="200"/>
+  </categories>
+  <omniture account="avonua" qaeaccount="avonceeqa" curr="UAH">
+    <index value="CFT"/>
+  </omniture>
+</avon>
