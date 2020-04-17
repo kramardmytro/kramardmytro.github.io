@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<avon total="7">
+  <cover addtobag="1" category="">
+    <limage url="assets/images/large/cover.jpg"/>
+    <mimage url="assets/images/medium/cover.jpg"/>
+    <simage url="assets/images/small/cover.jpg"/>
+  </cover>
+  <page addtobag="1" id="1" category="">
+    <limage url="assets/images/large/002.jpg"/>
+    <mimage url="assets/images/medium/002.jpg"/>
+    <simage url="assets/images/small/002.jpg"/>
+    <product id="1346384" name="П/в Avon Cherish Escape для Неї 50 мл" price="0" height="450" width="450" y="0" x="0"/>
+    <product id="1300514" name="Парфумна вода Avon Segno Success для Нього 75 мл" price="319" height="450" width="450" y="0" x="429">
+      <subproduct id="94211" name="Парфумований лосьйон для тіла Today 150 мл" price="74.99" height="100" width="100" y="10" x="10"/>
+      <subproduct id="58341" name="Парфумна вода Always 10 мл" price="84.99" height="100" width="100" y="10" x="10"/>
+      <subproduct id="61121" name="Парфумна вода Tomorrow 10 мл" price="84.99" height="100" width="100" y="10" x="10"/>
+      <subproduct id="78252" name="Парфумна вода Today для неї 50 мл" price="359" height="100" width="100" y="10" x="10"/>
+      <subproduct id="22012" name="Парфумна вода Tomorrow 50 мл" price="359" height="100" width="100" y="10" x="10"/>
+      <subproduct id="14853" name="Парфумна вода Always 50 мл" price="359" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1314114" name="Парфумна вода Artistique Patchouli Indulgence для неї 50 мл" price="599" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1315891" name="Парфумна вода Artistique Magnolia En Fleurs для неї 50 мл" price="599" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1326826" name="Парфумна вода Artistique Iris Fetiche для неї 50 мл" price="599" height="100" width="100" y="10" x="10"/>
+      <subproduct id="20304" name="Шампунь-гель для душу для чоловіків Avon Maxime 200 мл" price="74.99" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1308301" name="Парфумований лосьйон для тіла Avon Maxima 150 мл" price="74.99" height="100" width="100" y="10" x="10"/>
+      <subproduct id="16362" name="Парфумна вода Avon Maxima 50 мл" price="419" height="100" width="100" y="10" x="10"/>
+      <subproduct id="09080" name="Туалетна вода Avon Maxime 75 мл" price="419" height="100" width="100" y="10" x="10"/>
+      <subproduct id="19134" name="Парфумна вода Avon Eve Elegance 50 мл" price="319" height="100" width="100" y="10" x="10"/>
+      <subproduct id="17585" name="Парфумна вода Avon Eve Alluring 50 мл" price="319" height="100" width="100" y="10" x="10"/>
+      <subproduct id="77802" name="Парфумна вода Avon Eve Truth 50 мл" price="319" height="100" width="100" y="10" x="10"/>
+      <subproduct id="17879" name="Парфумна вода Avon Eve Confidence 50 мл" price="319" height="100" width="100" y="10" x="10"/>
+      <subproduct id="26635" name="Парфумований лосьйон для тіла AVON Luck для Неї 150 мл" price="69.99" height="100" width="100" y="10" x="10"/>
+      <subproduct id="26634" name="Шампунь-гель для душу для чоловіків AVON Luck 200 мл" price="54.99" height="100" width="100" y="10" x="10"/>
+      <subproduct id="06248" name="Туалетна вода Avon Luck для Нього 75 мл" price="319" height="100" width="100" y="10" x="10"/>
+      <subproduct id="06229" name="Парфумна вода Avon Luck для Неї 50 мл" price="319" height="100" width="100" y="10" x="10"/>
+      <subproduct id="68678" name="Шампунь-гель для душу Avon Segno Success 250 мл" price="64.99" height="100" width="100" y="10" x="10"/>
+      <subproduct id="54987" name="Шампунь-гель для душу AVON Segno 250 мл" price="64.99" height="100" width="100" y="10" x="10"/>
+      <subproduct id="42515" name="Парфумна вода Avon Segno for Men 75 мл" price="319" height="100" width="100" y="10" x="10"/>
+    </product>
+  </page>
+  <page addtobag="1" id="2" category="">
+    <limage url="assets/images/large/004.jpg"/>
+    <mimage url="assets/images/medium/004.jpg"/>
+    <simage url="assets/images/small/004.jpg"/>
+    <product id="1347341" name="Гель-желе для вмивання, 150 мл" price="0" height="450" width="450" y="0" x="429">
+      <subproduct id="1344968" name="Мiцелярна вода &quot;Вiдродження&quot;, 200 мл" price="0" height="100" width="100" y="10" x="10"/>
+    </product>
+  </page>
+  <page addtobag="1" id="3" category="">
+    <limage url="assets/images/large/006.jpg"/>
+    <mimage url="assets/images/medium/006.jpg"/>
+    <simage url="assets/images/small/006.jpg"/>
+    <product id="26205" name="Очищувальна вода д/обл.&quot;Очищення 3-в-1&quot;" price="0" height="450" width="450" y="0" x="0">
+      <subproduct id="17839" name="Крем д/обличчя&quot;Рiвний тон/змiцнення&quot;15мл" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="24218" name="Пiдтягуючий крем д/обл. &quot;Лiфтинг та змiц" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="72566" name="Сироватка д/обл&quot;Рiвний тон/змiцнен&quot;10 мл" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="16432" name="Нiчний крем д/обл. &quot;Захист i вiдновлення" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="26472" name="Омолодж.сироватка&quot;Максимальна молодiсть&quot;" price="0" height="100" width="100" y="10" x="10"/>
+    </product>
+    <product id="08325" name="Набiр засобiв д/догляду за шкiрою &quot;Заря" price="0" height="450" width="450" y="0" x="429">
+      <subproduct id="34758" name="Набiр &quot;Ожина i мускус&quot;" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="92362" name="Набiр &quot;Бiла орхiдея&quot;" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="94938" name="Т/в Perceive для Нього 100мл" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="36563" name="Т/в Perceive Dew (50 мл)" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="74728" name="Набiр Today" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="85481" name="Набiр SPA" price="0" height="100" width="100" y="10" x="10"/>
+    </product>
+  </page>
+  <page addtobag="1" id="4" category="">
+    <limage url="assets/images/large/008.jpg"/>
+    <mimage url="assets/images/medium/008.jpg"/>
+    <simage url="assets/images/small/008.jpg"/>
+    <product id="1325842" name="Т/в Absolute by Elite Gentleman д/Нього" price="0" height="450" width="450" y="0" x="0"/>
+    <product id="1358233" name="Зрз г/п &quot;Легенда&quot; Нiжний поцiлунок, 0.6" price="0" height="450" width="450" y="0" x="429">
+      <subproduct id="1358213" name="Г/п &quot;Легенда&quot; Пралiне" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1358214" name="Зрз г/п &quot;Легенда&quot; Пралiне, 0.6 мл" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1358217" name="Г/п &quot;Легенда&quot; Дрескод" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1358231" name="Кремова губна помада «Легенда» - пробний зразок 0, г Iconic" price="9.99" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1358216" name="Г/п &quot;Легенда&quot; Дiвчина з персиками" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1358230" name="Зрз г/п &quot;Легенда&quot; Дiвчина з персиками," price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1358222" name="Г/п &quot;Легенда&quot; Мулен Руж" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1358236" name="Зрз г/п &quot;Легенда&quot; Мулен Руж, 0.6 мл" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1358223" name="Г/п &quot;Легенда&quot; Примхливий червоний" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1358237" name="Зрз г/п &quot;Легенда&quot; Примхливий червоний," price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1358235" name="Зрз г/п &quot;Легенда&quot; Мрiя бунтарки, 0.6 мл" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1358221" name="Г/п &quot;Легенда&quot; Мрiя бунтарки" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1358218" name="Г/п &quot;Легенда&quot; Лолiта" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1358232" name="Зрз г/п &quot;Легенда&quot; Лолiта, 0.6 мл" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1358219" name="Г/п &quot;Легенда&quot; Нiжний поцiлунок" price="0" height="100" width="100" y="10" x="10"/>
+    </product>
+  </page>
+  <page addtobag="1" id="5" category="">
+    <limage url="assets/images/large/010.jpg"/>
+    <mimage url="assets/images/medium/010.jpg"/>
+    <simage url="assets/images/small/010.jpg"/>
+    <product id="1329656" name="Зрз. г/п &quot;Avon True&quot; Нюдова феєрiя" price="0" height="450" width="450" y="0" x="0">
+      <subproduct id="9803463" name="Набiр зразкiв з усiх 11 вiдтiнкiв" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="86960" name="Набiр зразкiв &quot;Матовий iдеал&quot;" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="10640" name="Зрз.&quot;Матовий iдеал&quot;,Бузковий" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="10786" name="Зрз.&quot;Матовий iдеал&quot; Персиковий" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="11320" name="Зрз.&quot;Матовий iдеал&quot; Пелюстки троянди" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="11330" name="Зрз.&quot;Матовий iдеал&quot;,Чарiвна троянда" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1329657" name="Зрз. г/п Avon True Рубiн Королеви, 0.6 " price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1329658" name="Зрз. г/п &quot;Avon True&quot; Той самий бордо 0.6" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1329659" name="Зрз. г/п &quot;Avon True&quot; Винний поцiлунок" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1358214" name="Зрз г/п &quot;Легенда&quot; Пралiне, 0.6 мл" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1358231" name="Кремова губна помада «Легенда» - пробний зразок 0, г Iconic" price="9.99" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1358230" name="Зрз г/п &quot;Легенда&quot; Дiвчина з персиками," price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="11366" name="Зрз.&quot;Матовий iдеал&quot;,Бездоганний червоний" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="10212" name="Зрз.&quot;Матовий iдеал&quot;,Насичений рожевий" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="11369" name="Зрз.&quot;Матовий iдеал&quot;,Рубiновий поцiлунок" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="11400" name="Зрз.&quot;Матовий iдеал&quot;,Соковитий рожевий" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1329660" name="Зрз. г/п &quot;Avon True&quot; Сливовий оксамит" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1329654" name="Зрз. г/п &quot;Avon True&quot; Пудровий культ" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1329653" name="Зрз. г/п &quot;Avon True&quot; Лiловий космос" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1358236" name="Зрз г/п &quot;Легенда&quot; Мулен Руж, 0.6 мл" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1358237" name="Зрз г/п &quot;Легенда&quot; Примхливий червоний," price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1358235" name="Зрз г/п &quot;Легенда&quot; Мрiя бунтарки, 0.6 мл" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="10642" name="Зрз.&quot;Матовий iдеал&quot;,Лiловий" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="10612" name="Зрз.&quot;Матовий iдеал&quot;,Ягiдний коктейль" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="11321" name="Зрз.&quot;Матовий iдеал&quot;,Нiжний рожевий" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="10234" name="Зрз.&quot;Матовий iдеал&quot;,Натурльний беж" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1329652" name="Зрз. г/п &quot;Avon True&quot; Фуксiя назавжди" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1329384" name="Зрз. г/п &quot;Avon True&quot; Рожева спокуса" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1329661" name="Зрз. г/п &quot;Avon True&quot; Спекотний корал" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1358232" name="Зрз г/п &quot;Легенда&quot; Лолiта, 0.6 мл" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1358233" name="Зрз г/п &quot;Легенда&quot; Нiжний поцiлунок, 0.6" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="10839" name="Зрз.&quot;Матовий iдеал&quot;,Справжнiй нюд" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="11384" name="Зрз.&quot;Матовий iдеал&quot;,Розкiшна фуксiя" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="10615" name="Зрз.&quot;Матовий iдеал&quot;,Ультрарожевий" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1329655" name="Зрз. г/п &quot;Avon True&quot; Кава у лiжко" price="0" height="100" width="100" y="10" x="10"/>
+    </product>
+    <product id="22644" name="Зрз.г/п &quot;Призма&quot; Лiлова зiрка" price="0" height="450" width="450" y="0" x="429">
+      <subproduct id="75645" name="Набiр зразкiв &quot;Ультра&quot;." price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="71195" name="Набiр &quot;Чутливi очi&quot;" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="89509" name="Набiр зразкiв з усiх вiдтiнкiв &quot;Призма&quot;" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="15867" name="Зрз.г/п &quot;З ефектом об'єму&quot; Рожева нiжнiс" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="96613" name="Зрз.г/п &quot;Призма&quot; Мiстичний корал" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="93411" name="Зразок г/п &quot;Призма&quot;, Сливовий вибух" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="14122" name="Зрз.г/п &quot;Ультра&quot; Шовковистий персик" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="12588" name="Зрз.г/п &quot;Ультра&quot; Темнi глибини" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="14229" name="Зрз.г/п &quot;Ультра&quot; Натуральна iскра" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="13120" name="Зрз.г/п &quot;Ультра&quot; Кремове латте" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="13189" name="Зрз.г/п &quot;Ультра&quot; Сатин" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="15788" name="Зрз.г/п &quot;З ефектом об'єму&quot; Насичений чер" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="15787" name="Зрз.г/п &quot;З ефектом об'єму&quot; Вогняний черв" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="15673" name="Зрз.г/п &quot;З ефектом об'єму&quot; Чайна троянда" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="93418" name="Зразок г/п &quot;Призма&quot;, Рожевий спалах" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="93420" name="Зразок г/п &quot;Призма&quot;, Космiчна троянда" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="96861" name="Зрз.г/п &quot;Призма&quot; Епiчний рожевий" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="12366" name="Зрз.г/п &quot;Ультра&quot; Бронзовий скраб" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="12921" name="Зрз.г/п &quot;Ультра&quot; Гарячий пунш" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="12441" name="Зрз.г/п &quot;Ультра&quot; Шик" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="14370" name="Зрз.г/п &quot;Ультра&quot; Спекотнi тропiки" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="13374" name="Зрз г/п &quot;Ультра&quot; Яскраво червоний" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="15943" name="Зрз.г/п &quot;З ефектом об'єму&quot; Вишуканий рож" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="15600" name="Зрз.г/п &quot;З ефектом об'єму&quot; Бузкова орхiд" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="15452" name="Зрз.г/п &quot;З ефектом об'єму&quot; Розкiшний вин" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="95310" name="Зразок г/п &quot;Призма&quot;, Помаранчевий вибух" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="95401" name="Зразок г/п &quot;Призма&quot;, Сяючий мокко" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="94365" name="Зразок г/п &quot;Призма&quot;, Сяючий нюдовий" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="12853" name="Зрз.г/п &quot;Ультра&quot; Зимова троянда" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="13199" name="Зрз.г/п &quot;Ультра&quot; Милi вуста" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="12754" name="Зрз.г/п &quot;Ультра&quot; Морозна димка" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="13346" name="Зрз.г/п &quot;Ультра&quot; Рожева мрiя" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="13446" name="Зрз.г/п &quot;Ультра&quot; Стигла папая" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="15348" name="Зрз.г/п &quot;З ефектом об'єму&quot; Гаряче какао" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="09646" name="Зрз.г/п &quot;З ефектом об'єму&quot; Диня" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="15282" name="Зрз.г/п &quot;З ефектом об'єму&quot; Винна ягiдка" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="18570" name="Зрз.г/п &quot;Призма&quot; Нюдова iлюзiя" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="95489" name="Зразок г/п &quot;Призма&quot;, Орбiтальний беж" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="95650" name="Зразок г/п &quot;Призма&quot;, Цукрова вата" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="12478" name="Зрз.г/п &quot;Ультра&quot; Кремова фуксiя" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="13898" name="Зрз.г/п &quot;Ультра&quot; Сангрiя" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="09743" name="Зрз.г/п &quot;Ультра&quot; Соковита ягiдка" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="14595" name="Зрз.г/п &quot;Призма&quot; Iскристий нюдовий" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="97412" name="Зразок г/п &quot;Призма&quot;, Мерехтливий червони" price="0" height="100" width="100" y="10" x="10"/>
+    </product>
+  </page>
+  <page addtobag="1" id="6" category="">
+    <limage url="assets/images/large/012.jpg"/>
+    <mimage url="assets/images/medium/012.jpg"/>
+    <simage url="assets/images/small/012.jpg"/>
+    <product id="21741" name="Зрз. Нiчна маска д/обл. &quot;захист i вiднов" price="0" height="450" width="450" y="0" x="0">
+      <subproduct id="09289" name="Набiр зразкiв &quot;Спокiйне сяйво&quot;" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="98088" name="Набiр зразкiв &quot;Спокiйне сяйво&quot;" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="28929" name="Набiр зразкiв &quot;Бездоганний тон&quot;" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="35281" name="Зрз тон/крему д/обл &quot;Спокiйне сяйво&quot; Про" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="35491" name="Зрз тон/крему д/обл &quot;Спокiйне сяйво&quot; Про" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="35544" name="Зрз тон/крему д/обл &quot;Спокiйне сяйво&quot; Свi" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="38032" name="Зрз.тон/крему &quot;Спокiйне сяйво&quot; Прозорий" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="35622" name="Зрз.тон/крему &quot;Спокiйне сяйво&quot; Натуральн" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="37063" name="Зрз.тон/крему &quot;Спокiйне сяйво&quot; Порцеляно" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="35806" name="Зрз.тон/крему &quot;Спокiйне сяйво&quot; Бежевий" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="12970" name="Зрз.тон/крем &quot;Бездоганний тон&quot; Св/слон/к" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="15143" name="Зрз.тон/крем &quot;Бездоганний тон&quot; Слонова к" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="17129" name="Зрз.тон/крем &quot;Бездоганний тон&quot; Нюдовий" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="15648" name="Зрз.тон/крем &quot;Бездоганний тон&quot; Бежевий" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="16896" name="Зрз.тон/крем &quot;Бездоган.тон&quot;Теплий бежеви" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="87094" name="Набiр зразкiв &quot;24 години стiйкостi&quot;" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1300165" name="Зрз.тон/крем &quot;24 години стiйкостi&quot; Слоно" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1300166" name="Зрз.тон/крем &quot;24 години стiйкостi&quot; Корол" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1300167" name="Зрз.тон/крем &quot;24 години стiйкостi&quot; Серед" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1300386" name="Зрз.тон/крем &quot;24 години стiйкостi&quot; Медов" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1300170" name="Зрз.тон/крем &quot;24 години стiйкостi&quot; М'яки" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1300384" name="Зрз тон/крем &quot;24 години стiйкостi&quot; Слоно" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1300169" name="Зрз тон/крем &quot;24 години стiйкостi&quot; Медов" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1300385" name="Зрз.тон/крем &quot;24 години стiйкостi&quot; Пряже" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1300387" name="Зрз.тон/крем &quot;24 години стiйкостi&quot; Приро" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1300168" name="Зрз.тон/крем &quot;24 години стiйкостi&quot; Тепла" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1319983" name="Зрз.тон/крем &quot;24 години стiйкостi&quot; Натур" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1319982" name="Зрз тон/крем &quot;24 години стiйкостi&quot; Бежев" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="40886" name="Набiр зразкiв &quot;LUXE&quot; тональний крем д/об" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="87095" name="Набiр зразкiв &quot;Бездоганний тон&quot;" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="05879" name="Зрз.матуюч/крем&quot;Бездоганний тон&quot;Свiтлий" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="05884" name="Зрз.матуюч/крем&quot;Бездоганний тон&quot;Нiж/беже" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="05902" name="Зрз.матуюч/крем&quot;Бездоганний тон&quot;Нат/св/б" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="06984" name="Зрз.матуюч/крем&quot;Бездоганний тон&quot;Натураль" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="05864" name="Зрз.матуюч/крем&quot;Бездоганний тон&quot;Слон/кiс" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="05911" name="Зрз.матуюч/крем&quot;Бездоганний тон&quot;Нат/беже" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="72551" name="Зрз.тон/крему д/обл &quot;Luxe&quot; Порцеляновий" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="31273" name="Зрз.тон/крему д/обл &quot;Luxe&quot; Натуральний" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="30998" name="Зрз.тон/крему д/обл &quot;Luxe&quot; Природний беж" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="72173" name="Зрз.тон/крему д/обл &quot;Luxe&quot; Свiтлий бежев" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="72306" name="Зрз.тон/крему д/обл &quot;Luxe&quot; Теплий бежеви" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="42440" name="Зрз.тональний крем&quot;Кашемiр&quot; LUXE,бежевий" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="42685" name="Зрз.тональний крем&quot;Кашемiр&quot; LUXE,нат.беж" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="21360" name="Зрз. Легка олiя для обличчя 2мл" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="35094" name="Зрз. Пожив.крем/олiя д/обл &quot;Чудове сяйво" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="57806" name="Зрз.Тон/мат/крем ВВ &quot;Досконалiсть&quot;Есктра" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="20836" name="Зрз. тон/крем &quot;Досконалiсть&quot; Свiтлий 2мл" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="91641" name="Зрз.тон/крем &quot;Досконалiсть&quot; Кремовий 2мл" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="20759" name="Зрз. тон/крем &quot;Досконалiсть&quot; Свiтлий 2мл" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="91602" name="Зрз. тон/крем &quot;Досконалiсть&quot; Кремовий " price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="89408" name="Зрз.Тон/антив/крем ВВ &quot;Досконалiсть&quot;Ескт" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="03435" name="Зрз.денного крему &quot;Повне вiдновлення&quot;" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="25430" name="Сироватка для обличчя з вітаміном С «Максимальне сяйво» - пробний зразок 2 мл" price="15" height="100" width="100" y="10" x="10"/>
+      <subproduct id="37798" name="Зрз.Сироватка д/обл.&quot;Рiвний тон/змiцненн" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="22091" name="Зрз.Денний крем д/обл. &quot;Клiтинне вiдродж" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="22978" name="Зрз.Нiчний крем д/обл.&quot;Клiтинне вiдродж&quot;" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="26219" name="Зрз.омолодж.сироватка д/обл.Максим.молод" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="26878" name="Зрз.денний крем &quot;Оновлення&quot; д/обличчя" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="72710" name="Зрз.нiчний крем &quot;Оновлення&quot; д/обличчя" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="14447" name="Зрз. Крем д/обл. &quot;заряд енергiї. Доскона" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="42754" name="Зрз.Маска д/обличчя &quot;Сплеш-догляд&quot;" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1310964" name="Зрз. Нiчний крем д/обл &quot;Омолодження. Мул" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1310960" name="Зрз. Денний крем д/обл &quot;Омолодження. Мул" price="0" height="100" width="100" y="10" x="10"/>
+    </product>
+    <product id="36739" name="Зрз. т/води TTA Tomorrow д/Нього" price="0" height="450" width="450" y="0" x="429">
+      <subproduct id="13075" name="Зрз. п/в Avon Life 0.6 для неї" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="19809" name="Зрз п/в Avon Life Colour д/Неї, 0.6 мл" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="58898" name="Зрз.п/в Avon Life д/Нього, 0.6 мл" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="19865" name="Зрз т/в Avon Life Colour д/Нього, 0.6 мл" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="17056" name="Зрз п/в Always, 0.6 мл" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="60971" name="Зрз. п/в TTA Celebrate для Неї, 0.6 мл" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="61110" name="Зрз.п/в TTA Tomorrow" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="9803940" name="Набiр пробних зразкiв" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1372122" name="Зрз т/в Absolute by Elite Gentleman, 0.6" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="91689" name="Туалетна вода Attraction - зразок 0, мл" price="5" height="100" width="100" y="10" x="10"/>
+      <subproduct id="54774" name="Зрз. т/в Attraction Sensation д/нього" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="45341" name="Зрз.т/в Avon Luck 0.6мл" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="61498" name="Зрз. т/води Avon Pure д/нього" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="41516" name="Туалетна вода Avon Real — пробний зразок 0, мл" price="5" height="100" width="100" y="10" x="10"/>
+      <subproduct id="32394" name="Зрз. п/в Avon Segno д/нього 0.6мл" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="07737" name="Зрз. т/в Avon Stamina, 0.6мл для нього" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="54686" name="Зрз. т/в Avon V For Victory 0.6мл" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1318009" name="Туалетна вода Avon V for Victory Gold для нього - пробний зразок 0, мл" price="5" height="100" width="100" y="10" x="10"/>
+      <subproduct id="70492" name="Зрз.т/в Black Suede Intense 0.6мл" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="57000" name="Зрз.т/в Black Suede Leather, 0.6 мл" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="05780" name="Зрз.т/в Black Suede Night 0.6мл" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="36420" name="Зрз. т/в Black Suede Touch д/Нього" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="40510" name="Зрз т/в Elite Gentleman для Нього" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="20902" name="Зрз. п/в Elite Gentleman In Black 0.6мл" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1298506" name="Зрз. т/в Avon Elite Gentleman Reserve " price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="58556" name="Зрз.т/в Elite Gentleman Weekend 0.6 мл" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="36419" name="Туалетна вода Full Speed - пробний зразок 0, мл" price="5" height="100" width="100" y="10" x="10"/>
+      <subproduct id="41492" name="Зрз. т/в Full Speed Max Turbo 0.6мл" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="12410" name="Зрз.т/в Full Speed Nitro 0.6 мл" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="77196" name="Зрз.п/в Fullspeed Supersonic д/Нього,0.6" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1325439" name="Зрз. т/в Full Speed Virtual Adrenaline" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="72384" name="Зрз.т/в Individual Blue" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="42944" name="Зрз т/в Individual Blue Free" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="14568" name="Зрз. т/в Individual Blue Sunset 0.6 мл" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="61708" name="Зрз т/в INDIVIDUAL BLUE Unlimited 0.6 мл" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1318012" name="Зрз т/в Mesmerize Mystique Amber д/нього" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="91042" name="Зрз. т/в Musk Fresh 0.6 мл" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1318010" name="Зрз.т/в Musk Freeze, 0.5 мл" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="59953" name="Зрз.т/в MUSK STORM 0.6мл" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1309102" name="Зрз.т/в Perceive для Нього " price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="86214" name="Зрз п/в Perceive Soul для Нього" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="21287" name="Зрз. т/в Scent Fresh Citrus 0.6 мл" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="21897" name="Зрз. т/в Scent Musculine Woody 0.6 мл" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="12251" name="Зрз т/в Urban Pulse Sydney 0.6 мл" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="04617" name="Зрз. т/в Avon Urban Pulse Vegas 0.6мл" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="22448" name="0, мл" price="5" height="100" width="100" y="10" x="10"/>
+      <subproduct id="55106" name="Зрз т/в Aquavibe Dance Forever, 0.6 мл" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="55107" name="Зрз т/в Aquavibe Love, 0.6 мл" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="54455" name="Зрз. т/в Attraction Sensation д/неї" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1301629" name="Зрз.т/в Avon Cherish для Неї" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="62061" name="Зрз. Avon Cherish The Moment д/Неї" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="16837" name="Зрз.п/в Avon Eve Duet Radiant 0.6мл" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="16840" name="Зрз.п/в Avon Eve Duet Sensual 0.6мл" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="09584" name="Зрз.п/в Avon Eve Duet Contrasts Calm" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="09592" name="Зрз.п/в Avon Eve Duet Contrasts Daring" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="26032" name="Зрз. п/в Avon Luminata д/неї 0.6мл" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1329409" name="Зрз.т/в Avon Maxima for her, 0.5 мл" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1308312" name="Зрз. т/в Avon Pure 0.6 мл" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="20465" name="Зрз.п/в Rare Flowers Night Orchid " price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="08451" name="Зрз. т/в Avon Stamina, 0.6мл для неї" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1320224" name="Зрз.т/в Aspire Impress, 0.6 мл" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="37145" name="Зрз. т/в. Crazy Fun Atittude, 0.6 мл" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="70378" name="Зрз. Eau de Bouquet Blue (0.6 мл)" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="27534" name="Зрз. п/в Far Away д/Неї" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="27779" name="Зрз. п/в Far Away Bella д/Неї" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="78413" name="Зрз. Far Away Glamour (0.6 мл)" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="55701" name="Зрз. Avon Far Away Rebel 0.6мл" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="34153" name="Зрз. т/в Happy Attitude 0.6 мл" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1325144" name="Зрз. т/в HerStory 0.6 мл" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1302856" name="Парфумна вода Incandessence — пробний зразок 0, мл 1" price="5" height="100" width="100" y="10" x="10"/>
+      <subproduct id="59798" name="Зрз.т/в INCANDESSENCE GLOW 0.6мл" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="99474" name="Зрз.п/в Incandessence Lotus,0.6 мл" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="58173" name="Зрз т/в IMARI 0.6 мл" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1322354" name="Зрз.т/в Imari Elixir" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="03505" name="Зрз. Imari Corset (0.6 мл)" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="27775" name="Зрз. п/в Little Black Dress д/Неї" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1318011" name="Зрз т/в Mesmerize Mystique Amber д/неї" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="36446" name="Зрз. п/в Perceive для Неї" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="19099" name="Зрз п/в Perceive Soul для Неї" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="65783" name="Зрз п/в Perceive Sunshine 0,6 мл" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1319352" name="Зрз. т/в Avon Petit Lavande 0.6 мл" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="32526" name="Зрз. т/в Pur Blanca д/Неї" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="40319" name="Зрз. т/в Pur Blanca Elegance д/Неї" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="94598" name="Зрз.т/в Pur Blanca Smile, 0.6 мл" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="61189" name="Зрз.т/в LIME VERBENA 0.6мл" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="48371" name="Зрз. т/в Romantic Bouquet д/Неї" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="44697" name="Зрз.т/в Sparkly Citrus 0.6мл" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="63669" name="Зрз.т/в VELVET AMBER 0.6мл" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="48372" name="Зрз. т/в Vibrant Fruity д/Неї" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="58636" name="Зрз. т/в Scent Mix Pure Ocean 0.6 мл" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="62713" name="Зрз. т/в SOFT MUSK 0.6мл" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1301645" name="Зрз.т/в Soft Musk Lily" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="31811" name="Зрз т/в Surreal Island, 0.6 мл" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="63118" name="Зрз.Т/в TTA Celebrate для Нього, 0.6 мл" price="0" height="100" width="100" y="10" x="10"/>
+    </product>
+  </page>
+  <page addtobag="1" id="7" category="">
+    <limage url="assets/images/large/014.jpg"/>
+    <mimage url="assets/images/medium/014.jpg"/>
+    <simage url="assets/images/small/014.jpg"/>
+    <product id="02579" name="Каталог К09/2020 ПОСП" price="0" height="450" width="450" y="0" x="429">
+      <subproduct id="66759" name="Тональний крем для обличчя «Спокійне сяйво» 30 мл Прозорий Світлий" price="109" height="100" width="100" y="10" x="10"/>
+      <subproduct id="66758" name="Тональний крем для обличчя «Спокійне сяйво» 30 мл Порцеляновий" price="109" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1298557" name="Шампунь-гель для душу для чоловіків «Вибух прохолоди» 500 мл" price="69.99" height="100" width="100" y="10" x="10"/>
+      <subproduct id="54031" name="Шампунь-гель для душу для чоловіків з дезодоруючим ефектом «Екстрим» 500 мл" price="69.99" height="100" width="100" y="10" x="10"/>
+      <subproduct id="54127" name="Шамп.-гель д/душу &quot;Сила тяжiння&quot; 500 мл" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="99264" name="Шампунь-гель для душу для чоловіків «Гірський маршрут» 500 мл" price="69.99" height="100" width="100" y="10" x="10"/>
+      <subproduct id="66756" name="Тональний крем для обличчя «Спокійне сяйво» 30 мл Темний Бежевий" price="109" height="100" width="100" y="10" x="10"/>
+      <subproduct id="14516" name="Дезодорант-антиперспірант з кульковим аплікатором Incandessence 50 мл" price="29.99" height="100" width="100" y="10" x="10"/>
+      <subproduct id="67013" name="Тональний крем для обличчя «Спокійне сяйво» 30 мл Бежевий" price="109" height="100" width="100" y="10" x="10"/>
+      <subproduct id="67010" name="Тональний крем для обличчя «Спокійне сяйво» 30 мл Натуральний" price="109" height="100" width="100" y="10" x="10"/>
+      <subproduct id="94302" name="Гель для душу «Мандарин і жасмин» 500 мл" price="59.99" height="100" width="100" y="10" x="10"/>
+      <subproduct id="50082" name="Зволожувальний гель для душу «Цитрусовий заряд» 500 мл" price="59.99" height="100" width="100" y="10" x="10"/>
+      <subproduct id="51439" name="Зволожувальний гель для душу «Райський сад» 500 мл  Райський Сад" price="59.99" height="100" width="100" y="10" x="10"/>
+      <subproduct id="94236" name="Гель для душу «Зелений чай і вербена» 500 мл" price="59.99" height="100" width="100" y="10" x="10"/>
+      <subproduct id="40051" name="Дезодорант-антиперспірант з кульковим аплікатором Full Speed 50 мл" price="29.99" height="100" width="100" y="10" x="10"/>
+      <subproduct id="35407" name="Матуючий тональний крем із заспокійливим ефектом «Спокійне сяйво» 30 мл Порцеляновий" price="109" height="100" width="100" y="10" x="10"/>
+      <subproduct id="87718" name="Очищувальний тонік для обличчя «Огірок і чайне дерево» 100 мл" price="34.99" height="100" width="100" y="10" x="10"/>
+      <subproduct id="71957" name="Матуючий крем для обличчя «Огірок і чайне дерево» 75 мл" price="34.99" height="100" width="100" y="10" x="10"/>
+      <subproduct id="27259" name="Тканинна маска для обличчя «Здорове сяйво» 1 pc." price="32.99" height="100" width="100" y="10" x="10"/>
+      <subproduct id="35901" name="Матуючий тональний крем із заспокійливим ефектом «Спокійне сяйво» 30 мл Прозорий Світлий" price="109" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1343320" name="Гель для душу та піна для ванни 2-в-1 «Смачненька полуниця» 250 мл" price="34.99" height="100" width="100" y="10" x="10"/>
+      <subproduct id="35190" name="Матуючий тональний крем із заспокійливим ефектом «Спокійне сяйво» 30 мл Темний Бежевий" price="109" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1319819" name="Дитячий бальзам для губ 4 г Кавун Water Melon" price="32.99" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1319818" name="Дитячий бальзам для губ 4 г Вишня Cherry" price="32.99" height="100" width="100" y="10" x="10"/>
+      <subproduct id="27018" name="Тканинна маска для обличчя «Інтенсивне зволоження» 1 pc." price="32.99" height="100" width="100" y="10" x="10"/>
+      <subproduct id="98140" name="Зволожувальний крем-гель для душу «Небесна гармонія» 500 мл" price="64.99" height="100" width="100" y="10" x="10"/>
+      <subproduct id="23775" name="Крем-гель для душу «Ароматерапія: щастя» 500 мл" price="64.99" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1298357" name="Крем-гель для душу «Мед і гарденія» 500 мл" price="64.99" height="100" width="100" y="10" x="10"/>
+      <subproduct id="49549" name="Зволожувальний крем-гель для душу «Дивовижна казка» 500 мл" price="64.99" height="100" width="100" y="10" x="10"/>
+      <subproduct id="35961" name="Матуючий тональний крем із заспокійливим ефектом «Спокійне сяйво» 30 мл Бежевий" price="109" height="100" width="100" y="10" x="10"/>
+      <subproduct id="20401" name="Водостійка об'ємна туш для вій «СуперШокМАХ» 10 мл Чорна" price="74.99" height="100" width="100" y="10" x="10"/>
+      <subproduct id="59786" name="Зволожувальний гель для душу з ароматом рожевого грейпфрута й абрикоса «Середземноморські пригоди. Поцілунки сонця» 250 мл" price="29.99" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1311730" name="Лосьйон-спрей для тіла «Квітуча сакура» 100 мл" price="34.99" height="100" width="100" y="10" x="10"/>
+      <subproduct id="87722" name="Шампунь/ополіскувач 2-в-1 з вітамінним комплексом 700 мл" price="64.99" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1298934" name="Делікатний очищувальний засіб для жіночої інтимної гігієни з екстрактом ромашки 300 мл" price="44.99" height="100" width="100" y="10" x="10"/>
+      <subproduct id="35956" name="Матуючий тональний крем із заспокійливим ефектом «Спокійне сяйво» 30 мл Натуральний" price="109" height="100" width="100" y="10" x="10"/>
+      <subproduct id="27674" name="Тканинна маска для обличчя «Активне омолодження» 1 pc." price="32.99" height="100" width="100" y="10" x="10"/>
+      <subproduct id="99622" name="Зволожувальний гель для душу «Морська лагуна» 500 мл" price="59.99" height="100" width="100" y="10" x="10"/>
+      <subproduct id="54285" name="Зволожувальний крем-гель для душу «Аромат таємниці» 500 мл" price="64.99" height="100" width="100" y="10" x="10"/>
+      <subproduct id="23767" name="Крем-гель для душу «Любов у Парижі» 500 мл" price="64.99" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1298355" name="Крем-гель для душу «Червона троянда та пачулі» 500 мл" price="64.99" height="100" width="100" y="10" x="10"/>
+      <subproduct id="50955" name="Шампунь-гель для душу для чоловіків з дезодоруючим ефектом «Енергія океану» 500 мл" price="54.99" height="100" width="100" y="10" x="10"/>
+      <subproduct id="59843" name="Зволожувальний гель для душу з ароматом рожевого грейпфрута й абрикоса «Середземноморські пригоди. Поцілунки сонця» 500 мл" price="54.99" height="100" width="100" y="10" x="10"/>
+      <subproduct id="98630" name="Крем-гель для душу «Кохання у цвітінні. Пелюстки і квіти жасмину» 500 мл" price="54.99" height="100" width="100" y="10" x="10"/>
+      <subproduct id="05562" name="Дитяча піна для ванни/засіб для купання «Солодкі сни» з ароматом лаванди 250 мл" price="39.99" height="100" width="100" y="10" x="10"/>
+      <subproduct id="35101" name="Дитячий гель для душу / піна для ванни «Кумедна груша» 250 мл" price="54.99" height="100" width="100" y="10" x="10"/>
+      <subproduct id="79734" name="Дитячий гель для душу/піна для ванни «Вишнева радість» 250 мл" price="39.99" height="100" width="100" y="10" x="10"/>
+      <subproduct id="03962" name="Дитячий лосьйон для тіла «Солодкі сни» з ароматом лаванди 150 мл" price="54.99" height="100" width="100" y="10" x="10"/>
+      <subproduct id="12380" name="Дитячий шампунь-кондиціонер «Бадьора слива» 250 мл" price="54.99" height="100" width="100" y="10" x="10"/>
+      <subproduct id="44009" name="Дитячий шампунь-кондиціонер 200 мл" price="54.99" height="100" width="100" y="10" x="10"/>
+      <subproduct id="70332" name="Дитячий парфумно-косметичний набір 4 pc." price="249" height="100" width="100" y="10" x="10"/>
+      <subproduct id="22764" name="Спрей для полегшення розчісування волосся «Грайливе манго» 200 мл" price="44.99" height="100" width="100" y="10" x="10"/>
+      <subproduct id="68997" name="Дитячий шампунь для волосся 200 мл" price="54.99" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1327226" name="Дитячий шампунь-кондиціонер «Кавуновий бум» 250 мл" price="54.99" height="100" width="100" y="10" x="10"/>
+      <subproduct id="42956" name="Дитяча туалетна вода 150 мл" price="74.99" height="100" width="100" y="10" x="10"/>
+      <subproduct id="45292" name="Дитячий гель для душу 200 мл" price="44.99" height="100" width="100" y="10" x="10"/>
+      <subproduct id="33346" name="Дитячий гель для душу/піна для ванни «Помаранчевий настрій» 250 мл" price="39.99" height="100" width="100" y="10" x="10"/>
+      <subproduct id="77452" name="Дитячий гель для душу/піна для ванни «Смішний виноград» 250 мл" price="54.99" height="100" width="100" y="10" x="10"/>
+      <subproduct id="98617" name="Дитячий шампунь-кондиціонер «Веселе яблуко» 250 мл" price="39.99" height="100" width="100" y="10" x="10"/>
+      <subproduct id="73606" name="Піна для ванни з ароматом бабл-гам 500 мл" price="69.99" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1383374" name="Піна для ванни з ароматом лимонаду 500 мл" price="69.99" height="100" width="100" y="10" x="10"/>
+      <subproduct id="70141" name="Дитяча туалетна вода «Солодка фантазія» 50 мл" price="149" height="100" width="100" y="10" x="10"/>
+      <subproduct id="68588" name="Дитяча туалетна вода 50 мл" price="149" height="100" width="100" y="10" x="10"/>
+      <subproduct id="69001" name="Дитячий гель для душу 200 мл" price="44.99" height="100" width="100" y="10" x="10"/>
+      <subproduct id="68717" name="Дитяча ароматична вода-спрей для тіла 100 мл" price="69.99" height="100" width="100" y="10" x="10"/>
+      <subproduct id="85935" name="Крем для рук з маслом какао «Живлення» 75 мл" price="34.99" height="100" width="100" y="10" x="10"/>
+      <subproduct id="33518" name="Крем для рук «Олія кокоса. Відновлення» 75 г" price="34.99" height="100" width="100" y="10" x="10"/>
+      <subproduct id="05060" name="Концентрований бальзам для дуже сухої шкіри рук «Захист і відновлення» 75 мл" price="34.99" height="100" width="100" y="10" x="10"/>
+      <subproduct id="33243" name="Пилка-шліфовка для стоп 1 pc." price="69.99" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1346307" name="Крем для рук «Вирівнювання тону шкіри» 75 мл Вирівнювання Тону Шкіри" price="28.99" height="100" width="100" y="10" x="10"/>
+      <subproduct id="59406" name="Зволожувальний крем для рук з олією авокадо 75 мл" price="34.99" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1299042" name="Дезодоруючий спрей для ніг з ароматом лаванди 100 мл" price="59.99" height="100" width="100" y="10" x="10"/>
+      <subproduct id="11570" name="Дезодорант-спрей для ніг 75 мл" price="74.99" height="100" width="100" y="10" x="10"/>
+      <subproduct id="61052" name="Антивіковий крем для рук з колагеном і еластином «Молодість актив» 75 мл" price="34.99" height="100" width="100" y="10" x="10"/>
+      <subproduct id="14231" name="Дезодорувальний тальк для ніг з олією чайного дерева і ментолом 75 г" price="74.99" height="100" width="100" y="10" x="10"/>
+      <subproduct id="32117" name="Інструмент для відсунення кутикули 1 pc." price="34.99" height="100" width="100" y="10" x="10"/>
+      <subproduct id="40444" name="Щипчики для нігтів 1 pc." price="54.99" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1292602" name="Крем для рук з ароматом банана «Тонус» 75 мл" price="34.99" height="100" width="100" y="10" x="10"/>
+      <subproduct id="67580" name="Відновлювальний гель для ніг з ефірною олією м’яти 75 мл" price="49.99" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1338658" name="Лосьйон-спрей для ніг «Ананас і чайне дерево» 100 мл" price="59.99" height="100" width="100" y="10" x="10"/>
+      <subproduct id="44169" name="Двосторонній інструмент для педикюру 1 pc." price="54.99" height="100" width="100" y="10" x="10"/>
+      <subproduct id="62975" name="Ексфоліантна маска для ніг «Шкарпетки» з гліколевою кислотою та алое вера 20 мл" price="64.99" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1301631" name="Парфумна вода Avon Cherish 10 мл" price="125" height="100" width="100" y="10" x="10"/>
+      <subproduct id="30075" name="Парфумна вода Avon Cherish the Moment 10 мл" price="125" height="100" width="100" y="10" x="10"/>
+      <subproduct id="19037" name="Парфумна вода Little Black Dress Party 10 мл" price="125" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1317473" name="Парфумна вода Incandessence 10 мл" price="125" height="100" width="100" y="10" x="10"/>
+      <subproduct id="20344" name="Парфумна вода Avon Rare Flowers Night Orchid 10 мл" price="155" height="100" width="100" y="10" x="10"/>
+      <subproduct id="61190" name="Парфумна вода Avon Viva la Vita 10 мл" price="125" height="100" width="100" y="10" x="10"/>
+      <subproduct id="65778" name="Парфумна вода Perceive Sunshine 10 мл" price="125" height="100" width="100" y="10" x="10"/>
+      <subproduct id="72184" name=" Парфумна вода Little Black Dress 10 мл  Little Black Dress" price="125" height="100" width="100" y="10" x="10"/>
+      <subproduct id="67161" name="Парфумна вода Perceive 10 мл" price="125" height="100" width="100" y="10" x="10"/>
+      <subproduct id="67342" name="Крем від натоптишів 75 мл" price="49.99" height="100" width="100" y="10" x="10"/>
+      <subproduct id="22966" name="Відновлювальний крем для потрісканої шкіри стоп 75 мл" price="49.99" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1306973" name="Парфумна вода з кульковим аплікатором Incandessance 9 мл" price="125" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1308765" name="Туалетна вода з кульковим аплікатором Pur Blanca 9 мл" price="125" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1313459" name="Парфумна вода з кульковим аплікатором Far Away 9 мл" price="125" height="100" width="100" y="10" x="10"/>
+      <subproduct id="16290" name="Парфумна вода з кульковим аплікатором Little Black Dress 9 мл" price="125" height="100" width="100" y="10" x="10"/>
+      <subproduct id="59447" name="Парфумна вода з кульковим аплікатором Perceive 9 мл" price="125" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1321401" name="Парфумна вода Avon Herstory для неї 10 мл" price="155" height="100" width="100" y="10" x="10"/>
+      <subproduct id="82138" name="Засiб д/пом'якшення шкiри нiг з пемзою" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1338656" name="Скраб для ніг «Ананас і чайне дерево» 75 мл" price="57.99" height="100" width="100" y="10" x="10"/>
+      <subproduct id="65550" name="Інтенсивно зволожувальний крем для ніг 75 мл" price="49.99" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1338657" name="Зволожувальна сироватка для ніг «Ананас і чайне дерево» 75 мл" price="49.99" height="100" width="100" y="10" x="10"/>
+      <subproduct id="67613" name="Доглядовий нічний крем для ніг з екстрактом лаванди 150 мл" price="74.99" height="100" width="100" y="10" x="10"/>
+    </product>
+  </page>
+  <back addtobag="1" category="">
+    <limage url="assets/images/large/back.jpg"/>
+    <mimage url="assets/images/medium/back.jpg"/>
+    <simage url="assets/images/small/back.jpg"/>
+    <product id="32633" name="" price="0" height="450" width="450" y="0" x="0">
+      <subproduct id="9806698" name="" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="78119" name="" price="0" height="100" width="100" y="10" x="10"/>
+    </product>
+  </back>
+  <categories>
+    <category value="" width="200"/>
+  </categories>
+  <omniture account="avonua" qaeaccount="avonceeqa" curr="UAH">
+    <index value="CFT"/>
+  </omniture>
+</avon>
