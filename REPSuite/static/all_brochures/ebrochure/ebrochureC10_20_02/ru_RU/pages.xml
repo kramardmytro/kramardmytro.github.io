@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<avon total="1">
+  <cover addtobag="1" category="">
+    <limage url="assets/images/large/cover.jpg"/>
+    <mimage url="assets/images/medium/cover.jpg"/>
+    <simage url="assets/images/small/cover.jpg"/>
+  </cover>
+  <page addtobag="1" id="1" category="">
+    <limage url="assets/images/large/002.jpg"/>
+    <mimage url="assets/images/medium/002.jpg"/>
+    <simage url="assets/images/small/002.jpg"/>
+    <product id="76134" name="Палiтра хайлайтерiв для обличчя,(2.8 г)" price="0" height="450" width="450" y="0" x="0">
+      <subproduct id="1302277" name="Набiр д/неї Avon Attraction" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1300585" name="Набiр д/нього Today" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="72469" name="Т/в Avon Black Suede Night 75мл" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="54053" name="Т/в Summer White Bright 50 мл для Неї" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="48624" name="Дезод/ант/спрей д/жiнок&quot;Абсолютна свiжiс" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="46922" name="Дезод/ант/спрей д/чолов&quot;Абсолютна свiжiс" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="46383" name="Дезод/антиперспiр/спрей&quot;Активний захист&quot;" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="50433" name="Дезодор-антиперспiр/спрей&quot;Максимальний з" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1329479" name="Бомбочки для ванни &quot;Лiтнiй сад&quot; (3 шт)" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="85216" name="Дитячий шампунь-кондицiонер Avon Marvel " price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="67581" name="Олiвець проти натирання шкiри стоп" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="86484" name="Дитячий гель д/душу Avon Marvel Avengers" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="67343" name="Мат/тiнi д/повiк &quot;Чудовий квартет&quot; Шляхе" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="40253" name="Лак д/нiгтiв &quot;Дизайн-студiя&quot;, М'ятна нас" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="40118" name="Лак д/нiгтiв &quot;Дизайн-студiя&quot;, Птах Фенiк" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="40147" name="Лак д/нiгтiв &quot;Дизайн-студiя&quot;,Рожевi мрiї" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="40146" name="Лак д/нiгтiв &quot;Дизайн-студiя&quot;, Казкова Фе" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="40116" name="Лак д/нiгтiв &quot;Дизайн-студiя&quot;, Бузкова мi" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="40149" name="Лак д/нiгтiв &quot;Дизайн-студiя&quot;, Небесний п" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="67345" name="Мат/тiнi д/повiк &quot;Чудовий квартет&quot; Кавов" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="65924" name="Палiтра тiней д/повiк Luxe Блак.сяйво" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="65923" name="Палiтра тiней д/повiк Luxe Глам.рожевий" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="70673" name="Мат/тiнi д/повiк &quot;Чудовий квартет&quot; Небес" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="23684" name="Крем д/рук з екстрактом квiтки лотоса" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="23694" name="Крем для рук з екстрактом акацiї" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="67016" name="Мат/тiнi д/повiк &quot;Чудовий квартет&quot;Небесн" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="73542" name="Лак д/нiгтiв &quot;Люкс&quot; Блискучий бiрюзовий" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="73543" name="Лак д/нiгтiв &quot;Люкс&quot; Сяючий сливовий" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="73437" name="Лак д/нiгтiв &quot;Люкс&quot; Сяючий рожевий" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="97789" name="Основа пiд макiяж &quot;Досконалiсть&quot;" price="0" height="100" width="100" y="10" x="10"/>
+    </product>
+    <product id="1307845" name="Жiноча сумка &quot;Ельба&quot;" price="0" height="450" width="450" y="0" x="429">
+      <subproduct id="68827" name="Г/п &quot;Вибух кольору&quot; Рожева одержимiсть" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="61128" name="Г/п &quot;Вибух кольору&quot;, Цукрова вата" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="27769" name="Г/п &quot;Вибух кольору&quot; Бордовий сейшн" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="28728" name="Г/п &quot;Вибух кольору&quot; Рожевий краш" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="61123" name="Г/п &quot;Вибух кольору&quot;, Енергiйний помаранч" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="28346" name="Г/п &quot;Вибух кольору&quot; Бурхливий бурий" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="27335" name="Г/п &quot;Вибух кольору&quot; У ритмi вулицi" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="23171" name="Г/п &quot;Вибух кольору&quot; Закоханi в нюд" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="68848" name="Г/п &quot;Вибух кольору&quot; Плюшевий рожевий" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="26941" name="Г/п &quot;Вибух кольору&quot; Рожева поп-дiва" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="23207" name="Г/п &quot;Вибух кольору&quot; Рожева валентинка" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="23415" name="Г/п &quot;Вибух кольору&quot; Чуттєвий лiловий" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="47809" name="Комплект бiжутерiї &quot;Телець&quot;" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="47348" name="Комплект бiжутерiї &quot;Овен&quot;" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="48203" name="Комплект бiжутерiї &quot;Близнята&quot;" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="48357" name="Комплект бiжутерiї &quot;Рак&quot;" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="46687" name="Комплект бiжутерiї &quot;Козорiг&quot;" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="48363" name="Комплект бiжутерiї &quot;Лев&quot;" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="48509" name="Комплект бiжутерiї &quot;Дiва&quot;" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="49278" name="Комплект бiжутерiї &quot;Скорпiон&quot;" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="49280" name="Комплект бiжутерiї &quot;Стрiлець&quot;" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="48516" name="Комплект бiжутерiї &quot;Терези&quot;" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="46809" name="Комплект бiжутерiї &quot;Риби&quot;" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="46695" name="Комплект бiжутерiї &quot;Водолiй&quot;" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="55878" name="Кольє &quot;Мадалiн&quot;" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="45199" name="Кольє &quot;Дiннi&quot;. Фiолетове" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="45132" name="Кольє &quot;Дiннi&quot;. Синє" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="45126" name="Кольє &quot;Дiннi&quot;. Червоне" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="45128" name="Кольє &quot;Дiннi&quot;. Зелене" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="55197" name="Каблучка &quot;Мадалiн&quot;.Розмiр 6" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="55848" name="Каблучка &quot;Мадалiн&quot;.Розмiр 8" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="55850" name="Каблучка &quot;Мадалiн&quot;.Розмiр 10" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="64207" name="Кольє &quot;Розалi&quot;" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="16425" name="Брошка &quot;Собачка&quot;" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1309288" name="Комплект бiжутерiї &quot;Розалiн&quot;" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="39721" name="Пiдв.д/очей &quot;СуперДовжина.Акцент&quot; Чорна" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="42787" name="Каблучка &quot;Данi&quot;. Зелена. Розмiр 6" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1293489" name="Каблучка &quot;Данi&quot;. Зелена. Розмiр 10" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="42856" name="Каблучка &quot;Данi&quot;. Червона. Розмiр 6" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1293494" name="Каблучка &quot;Данi&quot;. Червона. Розмiр 8" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1293491" name="Каблучка &quot;Данi&quot;. Червона. Розмiр 10" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="42756" name="Каблучка &quot;Данi&quot;. Свiтло-синя. Розмiр 6" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1293490" name="Каблучка &quot;Данi&quot;. Свiтло-синя. Розмiр 10" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="42783" name="Каблучка &quot;Данi&quot;. Темно-синя. Розмiр 6" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1293496" name="Каблучка &quot;Данi&quot;. Темно-синя. Розмiр 8" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1293492" name="Каблучка &quot;Данi&quot;. Темно-синя. Розмiр 10" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1311633" name="Жiночий годинник &quot;Фелiса&quot;, Червоний" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1312505" name="Жiночий годинник &quot;Фелiса&quot;, Синiй" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1307726" name="Жiночий рюкзак &quot;Софiя&quot;, Бордовий" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1307725" name="Жiночий рюкзак &quot;Софiя&quot;, З принтом" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1307724" name="Жiночий рюкзак &quot;Софiя&quot;, Чорний" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1304736" name="Жiноча сумка &quot;Iлана&quot;, З принтом" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1304735" name="Жiноча сумка &quot;Iлана&quot;, Чорна" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1303148" name="Жiночий рюкзак &quot;Таммi&quot;" price="0" height="100" width="100" y="10" x="10"/>
+    </product>
+  </page>
+  <back addtobag="1" category="">
+    <limage url="assets/images/large/back.jpg"/>
+    <mimage url="assets/images/medium/back.jpg"/>
+    <simage url="assets/images/small/back.jpg"/>
+    <product id="08325" name="" price="0" height="450" width="450" y="0" x="0">
+      <subproduct id="38586" name="" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="38800" name="" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="39921" name="" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="40016" name="" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="46409" name="" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="46452" name="" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="46455" name="" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="96343" name="" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="96472" name="" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="54793" name="" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="55005" name="" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="55058" name="" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="55455" name="" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="55225" name="" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="65271" name="" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="66762" name="" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="67657" name="" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="67792" name="" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="69417" name="" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="73471" name="" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="73513" name="" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="73516" name="" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="73538" name="" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="03891" name="" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="03894" name="" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="03950" name="" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="55509" name="" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="55510" name="" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="55511" name="" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="55685" name="" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="55686" name="" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="07832" name="" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="07835" name="" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="07839" name="" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="07841" name="" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="92696" name="" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="92698" name="" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="92706" name="" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="92708" name="" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="93121" name="" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="77341" name="" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="77636" name="" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="78664" name="" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="78682" name="" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="78780" name="" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="59104" name="" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="59219" name="" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="59510" name="" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="59533" name="" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="59540" name="" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="60017" name="" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="60538" name="" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="60574" name="" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="61083" name="" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="61369" name="" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="61522" name="" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="61902" name="" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="62621" name="" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="39778" name="" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="40590" name="" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="40786" name="" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="46372" name="" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="46373" name="" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="46790" name="" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="47290" name="" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="32788" name="" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="33217" name="" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="35057" name="" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="35415" name="" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="36512" name="" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="36560" name="" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="36582" name="" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="95852" name="" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="96722" name="" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="97593" name="" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="97748" name="" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="98294" name="" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="5447868" name="" price="0" height="100" width="100" y="10" x="10"/>
+      <subproduct id="1305382" name="" price="0" height="100" width="100" y="10" x="10"/>
+    </product>
+  </back>
+  <categories>
+    <category value="" width="200"/>
+  </categories>
+  <omniture account="avonua" qaeaccount="avonceeqa" curr="UAH">
+    <index value="CFT"/>
+  </omniture>
+</avon>
